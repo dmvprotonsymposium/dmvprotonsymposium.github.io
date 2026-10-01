@@ -396,7 +396,7 @@ h2 {
 ===================================================== */
 
 .feature-section {
-    padding: 100px 7%;
+    padding: 50px 7%;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -423,9 +423,9 @@ h2 {
 
 .event-image {
     width: calc(100% + 7vw);
-    height: calc(100% + 200px);
-    margin-top: -100px;
-    margin-bottom: -100px;
+    height: calc(100% + 100px);
+    margin-top: -50px;
+    margin-bottom: -50px;
 
     overflow: hidden;
 }
@@ -459,7 +459,9 @@ h2 {
     line-height: 1.15;
     letter-spacing: -1px;
 }
-
+.section-heading > p {
+    margin-top: 30px;
+}
 
 /* =====================================================
    REGIONAL NETWORK
@@ -891,33 +893,52 @@ h2 {
     color: #c4d0d6;
 }
 
-
 /* =====================================================
    PAGE HERO
 ===================================================== */
 
 .page-hero {
-    padding: 105px 7% 100px;
+    min-height: 560px;
+    padding: 50px 7%;
 
-    background: #f3f7f9;
+    display: grid;
+    grid-template-columns: 0.85fr 1fr;
+    gap: 80px;
+    align-items: center;
+
+    background: #d4cec4;
 }
 
+.page-hero-content {
+    max-width: 800px;
+}
+.page-hero .eyebrow {
+    color: #5a4638;
+}
 .page-hero h1 {
-    max-width: 900px;
+    max-width: 800px;
 
     font-size: clamp(46px, 5vw, 70px);
     line-height: 1.08;
     letter-spacing: -2px;
 }
 
-.page-hero > p:last-child {
-    max-width: 650px;
-    margin-top: 25px;
+.page-hero-image {
+    width: calc(100% + 7vw);
+    height: calc(100% + 100px);
+    margin-top: -50px;
+    margin-bottom: -50px;
 
-    font-size: 18px;
-    color: #60727d;
+    overflow: hidden;
 }
 
+.page-hero-image img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    display: block;
+}
 
 /* =====================================================
    TWO COLUMN
@@ -943,13 +964,16 @@ h2 {
     margin-top: 25px;
 }
 
+.large-text .button {
+    margin-top: 25px;
+}
 
 /* =====================================================
-   GOALS
+   GOAL GRID
 ===================================================== */
 
 .goal-grid {
-    margin-top: 50px;
+    margin-top: 55px;
 
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -958,32 +982,183 @@ h2 {
     border-bottom: 1px solid #dce4e8;
 }
 
+
+/* =====================================================
+   GOAL CARD
+===================================================== */
+
 .goal-card {
-    min-height: 250px;
-    padding: 30px 25px;
+    position: relative;
+
+    min-height: 360px;
+    padding: 32px 28px 35px;
+
+    display: flex;
+    align-items: flex-end;
+
+    overflow: hidden;
 
     border-right: 1px solid #dce4e8;
+
+    background-size: cover;
+    background-position: center;
+
+    transition:
+        transform 0.3s ease;
 }
 
 .goal-card:last-child {
     border-right: none;
 }
 
-.goal-card span {
-    color: #1677a8;
-    font-size: 12px;
+
+/* =====================================================
+   BACKGROUND IMAGES
+===================================================== */
+
+.goal-card.clinical {
+    background-image: url("../images/ClinicalPractice.png");
 }
+
+.goal-card.medical-physics {
+    background-image: url("../images/MedicalPhysics.png");
+}
+
+.goal-card.research {
+    background-image: url("../images/ResearchInnovation.png");
+}
+
+.goal-card.education {
+    background-image: url("../images/Education.png");
+}
+
+/* =====================================================
+   OVERLAY
+===================================================== */
+
+.goal-overlay {
+    position: absolute;
+    inset: 0;
+
+    background: linear-gradient(
+        to top,
+        rgba(10, 35, 48, 0.88),
+        rgba(10, 35, 48, 0.05)
+    );
+
+    opacity: 0;
+
+    transition:
+        opacity 0.3s ease;
+}
+
+.goal-card.research .goal-overlay {
+    opacity: 0.45;
+}
+
+/* =====================================================
+   CONTENT
+===================================================== */
+
+.goal-content {
+    position: relative;
+    z-index: 2;
+
+    width: 100%;
+
+    color: #ffffff;
+}
+
+
+/* =====================================================
+   HEADING
+===================================================== */
 
 .goal-card h3 {
-    margin-top: 30px;
-    font-size: 21px;
+    margin: 0;
+
+    font-size: 24px;
+    line-height: 1.25;
+
+    color: #ffffff;
 }
 
-.goal-card p {
-    margin-top: 12px;
 
-    color: #73818a;
-    font-size: 14px;
+/* =====================================================
+   DESCRIPTION
+===================================================== */
+
+.goal-card p {
+    max-width: 320px;
+
+    margin: 15px 0 0;
+
+    color: rgba(255, 255, 255, 0.9);
+
+    font-size: 15px;
+    line-height: 1.7;
+
+    opacity: 0;
+    transform: translateY(15px);
+
+    transition:
+        opacity 0.3s ease,
+        transform 0.3s ease;
+}
+
+
+/* =====================================================
+   HOVER
+===================================================== */
+
+.goal-card:hover {
+    transform: translateY(-3px);
+}
+
+.goal-card:hover .goal-overlay {
+    opacity: 1;
+}
+
+.goal-card:hover p {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+/* =====================================================
+   IMAGE ZOOM
+===================================================== */
+
+.goal-card::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+
+    background: inherit;
+    background-size: cover;
+    background-position: center;
+
+    z-index: 0;
+
+    transform: scale(1);
+
+    transition:
+        transform 0.5s ease;
+}
+
+.goal-card:hover::after {
+    transform: scale(1.04);
+}
+
+
+/* Keep overlay and content above image */
+.goal-card .goal-overlay {
+    z-index: 1;
+}
+
+.goal-card .goal-content {
+    z-index: 2;
 }
 
 
@@ -1047,7 +1222,6 @@ h2 {
     color: #687983;
 }
 
-
 /* =====================================================
    SYMPOSIUM PAGE
 ===================================================== */
@@ -1094,42 +1268,250 @@ h2 {
 }
 
 .symposium-event p:not(.card-label) {
-    max-width: 650px;
+    max-width: none;
     margin: 18px 0 25px;
 
     color: #687983;
 }
 
-.past-events {
-    margin-top: 45px;
 
-    border-top: 1px solid #dce4e8;
+.past-events {
+    margin-top: 55px;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 18px;
 }
+
+
+/* =====================================================
+   EVENT CARD
+===================================================== */
 
 .past-event {
-    padding: 30px 0;
+    position: relative;
+
+    min-height: 175px;
+    padding: 30px 35px;
 
     display: grid;
-    grid-template-columns: 100px 1fr auto;
-    gap: 30px;
+    grid-template-columns: 150px 1fr auto;
+    gap: 40px;
     align-items: center;
 
-    border-bottom: 1px solid #dce4e8;
+    background: #ffffff;
+
+    border: 1px solid #dce4e8;
+
+    overflow: hidden;
+
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        box-shadow 0.25s ease;
 }
 
-.past-event > span {
-    color: #1677a8;
+
+/* Blue accent on left */
+
+.past-event::before {
+    content: "";
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 4px;
+
+    background: #1677a8;
+
+    transform: scaleY(0);
+    transform-origin: bottom;
+
+    transition: transform 0.3s ease;
+}
+
+
+/* =====================================================
+   YEAR
+===================================================== */
+
+.past-event-year {
+    display: flex;
+    flex-direction: column;
+}
+
+.past-event-year span {
+    margin-bottom: 3px;
+
+    color: #7a8991;
+
+    font-size: 10px;
     font-weight: 700;
+    letter-spacing: 1.8px;
+}
+
+.past-event-year strong {
+    color: #1677a8;
+
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 1;
+
+    letter-spacing: -2px;
+}
+
+
+/* =====================================================
+   CONTENT
+===================================================== */
+
+.past-event-content {
+    max-width: 700px;
+}
+
+.past-event-location {
+    margin: 0 0 9px;
+
+    color: #1677a8;
+
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
 }
 
 .past-event h3 {
-    font-size: 19px;
+    margin: 0;
+
+    color: #172a3a;
+
+    font-size: 21px;
+    line-height: 1.35;
 }
 
-.past-event a {
-    color: #1677a8;
-    font-size: 13px;
+.past-event-content > p:last-child {
+    margin: 9px 0 0;
+
+    color: #687983;
+
+    font-size: 14px;
 }
+
+
+/* =====================================================
+   LINK
+===================================================== */
+
+.past-event-link {
+    min-width: 125px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 12px 15px;
+
+    color: #1677a8;
+
+    border: 1px solid #c9dce5;
+
+    font-size: 12px;
+    font-weight: 700;
+
+    text-decoration: none;
+
+    transition:
+        background 0.25s ease,
+        color 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.past-event-link strong {
+    font-size: 18px;
+    font-weight: 400;
+
+    transition:
+        transform 0.25s ease;
+}
+
+
+/* =====================================================
+   HOVER
+===================================================== */
+
+.past-event:hover {
+    transform: translateY(-3px);
+
+    border-color: #b9d4df;
+
+    box-shadow:
+        0 12px 30px rgba(23, 42, 58, 0.08);
+}
+
+.past-event:hover::before {
+    transform: scaleY(1);
+}
+
+.past-event:hover .past-event-link {
+    background: #1677a8;
+    border-color: #1677a8;
+    color: #ffffff;
+}
+
+.past-event:hover .past-event-link strong {
+    transform: translate(3px, -2px);
+}
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 850px) {
+
+    .past-event {
+        grid-template-columns: 110px 1fr;
+        gap: 25px;
+    }
+
+    .past-event-year strong {
+        font-size: 42px;
+    }
+
+    .past-event-link {
+        grid-column: 2;
+        justify-self: start;
+    }
+
+}
+
+
+@media (max-width: 600px) {
+
+    .past-events {
+        gap: 15px;
+    }
+
+    .past-event {
+        padding: 25px;
+
+        grid-template-columns: 1fr;
+        gap: 18px;
+    }
+
+    .past-event-year strong {
+        font-size: 44px;
+    }
+
+    .past-event-link {
+        grid-column: auto;
+        width: 100%;
+    }
+
+}
+
 
 
 /* =====================================================
@@ -1805,19 +2187,19 @@ h2 {
 }
 
 .collaboration-card:nth-child(1) {
-    background-image: url("../images/Education.png");
+    background-image: url("images/Education.png");
 }
 
 .collaboration-card:nth-child(2) {
-    background-image: url("../images/ScientificExchange.png");
+    background-image: url("images/ScientificExchange.png");
 }
 
 .collaboration-card:nth-child(3) {
-    background-image: url("../images/Collaboration.png");
+    background-image: url("images/Collaboration.png");
 }
 
 .collaboration-card:nth-child(4) {
-    background-image: url("../images/QualityImprovement.png");
+    background-image: url("images/QualityImprovement.png");
 }
 /* =====================================================
    ABOUT PAGE
