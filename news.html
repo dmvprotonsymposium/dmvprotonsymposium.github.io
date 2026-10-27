@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>News | DMV Proton Therapy Collaborative</title>
+    <meta
+        name="description"
+        content="Latest news, research, clinical developments, and innovations in proton therapy and radiation oncology."
+    >
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/news.css">
+</head>
+
+<body>
+
+    <!-- =====================================================
+         NAVIGATION
+    ====================================================== -->
+
+    <div id="navigation"></div>
+
+
+    <!-- =====================================================
+         HERO
+    ====================================================== -->
+
+    <main>
+
+        <section class="page-hero page-hero--text news-hero">
+
+            <div class="page-hero-content">
+
+                <p class="eyebrow">NEWS &amp; DEVELOPMENTS</p>
+
+                <h1>
+                    The latest in
+                    proton therapy.
+                </h1>
+
+                <p>
+                    A continuously updated collection of news,
+                    research, clinical developments, and innovations
+                    relevant to the proton therapy community.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             LATEST NEWS
+        ================================================== -->
+
+        <section class="news-section">
+
+            <div class="news-heading">
+
+                <div>
+                    <p class="section-label">LATEST NEWS</p>
+                    <h2>Recent developments in the field.</h2>
+                </div>
+
+                <p class="news-updated" id="news-updated">
+                    Updating...
+                </p>
+
+            </div>
+
+
+            <div class="news-filters" aria-label="Filter news">
+
+                <button class="news-filter active" data-category="All">
+                    All
+                </button>
+
+                <button class="news-filter" data-category="Proton Therapy">
+                    Proton Therapy
+                </button>
+
+                <button class="news-filter" data-category="Radiation Oncology">
+                    Radiation Oncology
+                </button>
+
+                <button class="news-filter" data-category="Medical Physics">
+                    Medical Physics
+                </button>
+
+                <button class="news-filter" data-category="Research">
+                    Research
+                </button>
+
+                <button class="news-filter" data-category="AI & Imaging">
+                    AI &amp; Imaging
+                </button>
+
+                <button class="news-filter" data-category="Regional">
+                    Regional
+                </button>
+
+            </div>
+
+
+            <div
+                class="news-grid"
+                id="news-grid"
+                aria-live="polite"
+            >
+                <div class="news-loading">
+                    Loading the latest news...
+                </div>
+            </div>
+
+
+            <div class="news-empty" id="news-empty" hidden>
+                No stories are currently available in this category.
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             EDITORIAL NOTE
+        ================================================== -->
+
+        <section class="news-note">
+
+            <div class="news-note-inner">
+
+                <p class="section-label">ABOUT THIS FEED</p>
+
+                <h2>
+                    Curated for the proton therapy community.
+                </h2>
+
+                <p>
+                    This page is automatically updated using an AI-assisted
+                    news workflow that searches for recent developments
+                    in proton therapy, radiation oncology, medical physics,
+                    research, and related technologies.
+                </p>
+
+                <p>
+                    Summaries are generated from the original source.
+                    Please follow the source link for the complete article
+                    and original reporting.
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+<div id="footer"></div>
+<script src="js/footer.js"></script>
+<script src="js/components.js"></script>
+
+
+    <script src="js/news.js"></script>
+
+</body>
+</html>
