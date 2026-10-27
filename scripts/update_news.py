@@ -80,6 +80,10 @@ RSS_FEEDS = [
         "name": "PubMed AI",
         "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv/?limit=100&utm_campaign=pubmed-2&fc=20261026171942"
     },
+    {
+        "name": "NAPT News",
+        "url": "https://proton-therapy.org/category/napt-news/feed/",
+    },
 ]
 
 LOOKBACK_DAYS = 30
