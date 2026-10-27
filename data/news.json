@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T22:44:48.520765+00:00",
+  "updated_at": "2026-10-27T23:01:53.126118+00:00",
   "articles": [
     {
       "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib",
@@ -53,6 +53,42 @@
       "source": "PubMed Medical Physics",
       "published_date": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261027184437&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
+    {
+      "title": "Impact of anatomical changes on simulated proton arc therapy and intensity-modulated proton therapy for lung cancer",
+      "summary": "This study evaluated the robustness of proton arc therapy compared to intensity-modulated proton therapy (IMPT) in the context of lung cancer treatment. The findings indicate that proton arc therapy exhibits superior robustness against inter-fractional anatomical variations.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027190143&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Model-Based Normal Tissue Complication Probability Comparison Between Proton and Photon Therapies for Brain Tumors",
+      "summary": "This planning study compared proton beam therapy (PBT) and intensity-modulated radiation therapy (IMRT) for brain tumors. PBT demonstrated lower estimated normal tissue complication probabilities for several endpoints, potentially offering long-term benefits in reducing secondary cancer risks.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027190143&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Artificial Intelligence, Multi-Omics, and Multimodal Integration in Precision Radiotherapy for Head and Neck Cancer",
+      "summary": "This narrative review explores how AI and multi-omics data integration can enhance precision radiotherapy by characterizing tumor heterogeneity. It emphasizes the importance of linking biological insights and multimodal data to inform individualized treatment decisions.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261027190146&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f"
+    },
+    {
+      "title": "Clinical Outcomes and Safety of Spatially Fractionated Radiotherapy for Malignant Tumors: A Systematic Review and Evidence Map",
+      "summary": "This systematic review assesses clinical outcomes and safety profiles associated with spatially fractionated radiotherapy (SFRT). It provides an evidence map of current techniques to help clinicians understand the comparative efficacy of this modality in treating malignant tumors.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261027190145&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
@@ -119,49 +155,13 @@
       "id": "pubmed.ncbi.nlm.nih.gov/42933259/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
     },
     {
-      "title": "Feasibility of Urethra-Sparing Ultra-Hypofractionated Three-Dose-Level Radiotherapy for Prostate Cancer",
-      "summary": "This planning study evaluates a three-dose-level ultra-hypofractionated approach for prostate cancer patients where a lesion is close to the urethra. Results indicate that target coverage can be maintained while adhering to strict organ-at-risk constraints.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42927354/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261026172256&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42927354/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "ESTRO-EPTN guidelines for independent dose calculation and log file-based patient-specific quality assurance in scanned particle therapy",
-      "summary": "The European Society for Radiotherapy and Oncology (ESTRO) and the European Particle Therapy Network (EPTN) have released new guidelines for independent dose calculation and log file-based quality assurance in particle therapy. These recommendations are intended to standardize safety protocols across centers while maintaining rigorous machine QA standards.",
+      "title": "Preclinical highlights from the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64)",
+      "summary": "This summary highlights that particle therapy is evolving into an integrated field combining advanced imaging, radiation quality, and patient-specific decision support. Several innovative technologies are reaching clinical maturity, including digital twins and biologically optimized multi-ion therapy.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261026170815&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42921085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Automated offline adaptive radiotherapy through CBCT imaging: A multidimensional feasibility study",
-      "summary": "This study assesses the performance of a new imaging system for offline adaptive radiotherapy workflow processes. While contouring remains a challenge, the system demonstrates sufficient accuracy in dose calculation and tissue density representation to support clinical adaptive efforts.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42922064/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261026172256&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42922064/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "Spot-wise compensation of proton beam deflection and radiation field deformation in the transverse magnetic field of an in-beam MR scanner",
-      "summary": "Researchers have developed and validated a spot-wise compensation method for proton beam deflection and radiation field deformation caused by the magnetic field in MR-integrated proton therapy. This work provides a critical step toward the clinical implementation of high-precision image-guided particle therapy.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42913708/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261026170815&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42913708/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Five-Year Persistent 18F-FAPI-74 Uptake in Radiation-induced Hepatic Fibrosis Following Proton Beam Therapy for Hepatocellular Carcinoma",
-      "summary": "A case report highlights the use of 18F-FAPI-74 PET in identifying persistent fibroblast activation in radiation-induced hepatic fibrosis five years after proton beam therapy. This finding suggests potential long-term imaging biomarkers for evaluating tissue changes following particle irradiation.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42912573/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261026170815&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42912573/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+      "published_date": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933259/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027190143&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42933259/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
     }
   ]
 }
