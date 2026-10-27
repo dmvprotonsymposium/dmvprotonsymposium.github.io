@@ -274,7 +274,7 @@ def fetch_rss_articles() -> list[dict]:
             f"Reading RSS feed: "
             f"{feed_info['name']}"
         )
-
+        source_count = 0
         try:
             response = requests.get(feed_info['url'], timeout=20)
             response.raise_for_status()
@@ -329,25 +329,71 @@ def fetch_rss_articles() -> list[dict]:
                     "url": url,
                 }
             )
+            source_count += 1
+        print(
+            f"  Total RSS entries: {len(feed.entries)}"
+            f" | Within {LOOKBACK_DAYS} days: {source_count}"
+        )
 
     # Deduplicate RSS results by URL.
     by_url = {}
-
+    
     for article in candidates:
         key = article["url"].lower()
-
+    
         if key not in by_url:
             by_url[key] = article
-
+    
     candidates = list(by_url.values())
-
+    
     # Newest first.
     candidates.sort(
         key=lambda article: article["published_date"],
         reverse=True,
     )
-
-    return candidates[:MAX_CANDIDATES]
+    
+    # Prioritize all recent NAPT and NCI articles.
+    priority_sources = {
+        "NAPT News",
+        "NCI Cancer Currents",
+    }
+    
+    priority_articles = [
+        article for article in candidates
+        if article["source"] in priority_sources
+    ]
+    
+    pubmed_articles = [
+        article for article in candidates
+        if article["source"] not in priority_sources
+    ]
+    
+    # Reserve slots for NAPT and NCI.
+    remaining_slots = max(
+        0,
+        MAX_CANDIDATES - len(priority_articles)
+    )
+    
+    selected_pubmed = pubmed_articles[:remaining_slots]
+    
+    final_candidates = priority_articles + selected_pubmed
+    
+    print("\nArticles sent to Gemini:")
+    
+    from collections import Counter
+    
+    counts = Counter(
+        article["source"]
+        for article in final_candidates
+    )
+    
+    for feed_info in RSS_FEEDS:
+        name = feed_info["name"]
+        print(f"  {name}: {counts[name]}")
+    
+    print(f"  TOTAL: {len(final_candidates)}")
+    
+    return final_candidates
 
 
 # ---------------------------------------------------------------------
