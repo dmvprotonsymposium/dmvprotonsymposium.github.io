@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-26T21:23:03.661226+00:00",
+  "updated_at": "2026-10-27T20:29:06.974563+00:00",
   "articles": [
+    {
+      "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib",
+      "summary": "This study compared oxidative stress and DNA damage response in C57BL/6 mice receiving whole-body irradiation from either photon or proton beams when combined with the PARP inhibitor Olaparib. Findings provide insights into multi-organ oxidative toxicity profiles associated with these radiation modalities in combination therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939939/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027162854&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42939939/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Model-Based Normal Tissue Complication Probability Comparison: Proton vs. Photon",
+      "summary": "This planning study compared normal tissue complication probability (NTCP) between proton and photon therapies for brain tumors. The results suggest potential clinical benefits for proton therapy in reducing the risk of secondary cancers in long-term survivors.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027162854&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Impact of Anatomical Changes on Proton Arc and Intensity-Modulated Proton Therapy",
+      "summary": "This research evaluated the robustness of simulated proton arc therapy (sPAT) versus intensity-modulated proton therapy (IMPT) in the context of lung cancer radiotherapy. The findings indicate that sPAT may offer enhanced resilience against inter-fractional anatomical variations.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027162854&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Artificial Intelligence in Precision Radiotherapy for Head and Neck Cancer",
+      "summary": "A review of how AI, multi-omics, and multimodal integration are being used to characterize tumor and host heterogeneity in head and neck cancer. The article examines the transition from biological insights to clinical decision-making in precision radiotherapy.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261027162857&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f"
+    },
     {
       "title": "DoseRAD2026: A benchmark dataset for AI-accelerated photon and proton dose calculation in radiotherapy",
       "summary": "This article introduces the DoseRAD2026 benchmark dataset designed to support research in fast and accurate dose calculation for both CT and MRI-guided radiotherapy. The dataset aims to facilitate the development of AI-driven solutions for real-time adaptive treatment planning.",
@@ -36,6 +72,24 @@
       "published_date": "2026-10-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42928203/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261026172258&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42928203/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f"
+    },
+    {
+      "title": "Preclinical Highlights from PTCOG 64",
+      "summary": "A summary of breakthroughs from the 64th Annual Meeting of the Particle Therapy Co-Operative Group, focusing on the integration of advanced imaging, biological modeling, and digital twins. The report highlights emerging technologies expected to impact the next generation of precision particle therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933259/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027162854&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42933259/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Charge collection efficiency in ionisation chambers at ultra-high dose rates",
+      "summary": "This study develops a Monte Carlo framework to investigate charge collection efficiency in plane-parallel ionisation chambers during FLASH radiotherapy. The research accounts for space-charge effects and ion recombination necessary for accurate dosimetry at ultra-high dose rates.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933125/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261027162855&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42933125/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
       "title": "Feasibility of Urethra-Sparing Ultra-Hypofractionated Three-Dose-Level Radiotherapy for Prostate Cancer",
