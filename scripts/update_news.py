@@ -276,13 +276,24 @@ def fetch_rss_articles() -> list[dict]:
         )
         source_count = 0
         try:
-            response = requests.get(feed_info['url'], timeout=20)
-            response.raise_for_status()
+            if feed_info["name"] == "NAPT News":
+                feed = feedparser.parse(feed_info["url"])
+        
+                if feed.get("status") != 200:
+                    print(
+                        f"WARNING: NAPT returned HTTP "
+                        f"{feed.get('status')}"
+                    )
+                    continue
+
+            else:
+                response = requests.get(feed_info['url'], timeout=20)
+                response.raise_for_status()
     
-            feed = feedparser.parse(response.content)
-    
-            if not feed.entries:
-                print(f"WARNING: No entries found in {url}")
+                feed = feedparser.parse(response.content)
+        
+                if not feed.entries:
+                    print(f"WARNING: No entries found in {url}")
     
         except requests.RequestException as e:
             print(f"WARNING: Could not access {url}: {e}")
