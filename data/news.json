@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:25:40.447502+00:00",
+  "updated_at": "2026-10-28T21:43:27.277650+00:00",
   "articles": [
     {
       "title": "Quantitative assessment of deformable image registration accuracy for cumulative dose estimation in multi-site stereotactic re-irradiation",
@@ -128,6 +128,24 @@
       "id": "pubmed.ncbi.nlm.nih.gov/42935700/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
+      "title": "Radiation-induced brain necrosis among patients with nasopharyngeal cancer treated with proton vs photon radiotherapy",
+      "summary": "A recent study comparing proton and photon radiotherapy for nasopharyngeal carcinoma found no statistically significant difference in the risk of radiation-induced brain necrosis between the two modalities. The researchers noted that further investigation is required to determine potential clinical benefits in specific toxicity outcomes.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945740/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261028174318&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42945740/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Skill mix redesign in Italian radiation oncology: A technical note on advanced practice radiation therapists",
+      "summary": "This technical note explores the integration of advanced practice radiation therapists (APRTs) into clinical workflows. The authors suggest that this strategy can help preserve medical decision-making capacity and enhance service resilience without replacing radiation oncologists.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946635/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261028174320&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42946635/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
+    {
       "title": "DoseRAD2026: A benchmark dataset for AI-accelerated photon and proton dose calculation in radiotherapy",
       "summary": "This article introduces the DoseRAD2026 benchmark dataset designed to support research in fast and accurate dose calculation for both CT and MRI-guided radiotherapy. The dataset aims to facilitate the development of AI-driven solutions for real-time adaptive treatment planning.",
       "category": "AI & Imaging",
@@ -144,24 +162,6 @@
       "published_date": "2026-10-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42930379/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261026172256&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42930379/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "Diagnostic CT-Based Palliative Radiotherapy Using kV Image Verification: A Prospective Feasibility Study",
-      "summary": "This feasibility study investigates the use of existing diagnostic CT scans for palliative radiotherapy planning instead of dedicated simulation CTs. The workflow, utilizing kV image verification, aims to increase access and efficiency for patients with bone metastases.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42930144/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261026172256&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42930144/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "A novel automatic real-time motion tracking method in MRI-guided radiotherapy",
-      "summary": "Researchers have developed an automatic real-time markerless motion tracking method for MRI-guided radiotherapy (MRIgRT). The study demonstrates high precision in tracking and segmentation, suggesting significant potential for improving radiotherapy efficacy.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928203/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261026172258&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42928203/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f"
     }
   ]
 }
