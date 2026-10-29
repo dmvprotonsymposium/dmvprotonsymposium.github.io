@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-28T21:43:27.277650+00:00",
+  "updated_at": "2026-10-29T11:36:22.200664+00:00",
   "articles": [
+    {
+      "title": "Spot size reduction and minibeam creation in a proton PBS nozzle using multipole permanent magnets",
+      "summary": "Researchers have proposed a new proton pencil beam scanning nozzle design utilizing multipole permanent magnets. This configuration may enable the creation of smaller spot sizes and proton minibeams for clinical or preclinical applications.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952162/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261029073604&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42952162/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
     {
       "title": "Quantitative assessment of deformable image registration accuracy for cumulative dose estimation in multi-site stereotactic re-irradiation",
       "summary": "This study demonstrates that deformable image registration (DIR) improves the accuracy of cumulative dose estimation for patients undergoing multiple sessions of stereotactic ablative radiotherapy (SABR) re-irradiation. The findings support the integration of validated DIR into clinical workflows to enhance treatment safety.",
@@ -18,6 +27,15 @@
       "published_date": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947351/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261028072526&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42947351/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
+    {
+      "title": "Linac performance benchmarking: Feasibility of a web-based tool for comparison of local machine performance check (MPC) results",
+      "summary": "A study demonstrates the feasibility of using a web-based tool to benchmark linear accelerator machine performance check data against the broader radiotherapy community. Such data sharing could help identify performance trends and improve quality assurance in low-resourced clinics.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949303/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261029073606&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42949303/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
       "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib",
@@ -144,24 +162,6 @@
       "published_date": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946635/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261028174320&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42946635/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "DoseRAD2026: A benchmark dataset for AI-accelerated photon and proton dose calculation in radiotherapy",
-      "summary": "This article introduces the DoseRAD2026 benchmark dataset designed to support research in fast and accurate dose calculation for both CT and MRI-guided radiotherapy. The dataset aims to facilitate the development of AI-driven solutions for real-time adaptive treatment planning.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928698/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261026170815&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42928698/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Dose-Informed Surgical Margin in Mandibular Osteoradionecrosis Surgery: Integrating Radiation Biology into Osteotomy Planning",
-      "summary": "This study explores moving beyond anatomical landmarks by integrating radiation biology into surgical planning for mandibular osteoradionecrosis. The researchers aim to improve outcomes for head and neck radiotherapy patients through more biologically informed surgical margins.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42930379/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261026172256&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42930379/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     }
   ]
 }
