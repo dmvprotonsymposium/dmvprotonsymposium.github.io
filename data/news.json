@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-30T02:41:02.098727+00:00",
+  "updated_at": "2026-10-30T11:27:30.851942+00:00",
   "articles": [
+    {
+      "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
+      "summary": "A multi-institutional audit evaluated the accuracy of markerless surface-guided radiation therapy (SGRT). While the technology achieved high static irradiation precision, researchers identified potential risks for setup errors that warrant careful workflow management.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
+    {
+      "title": "Retrospective analysis of machine service logs and EPID-based linac QA",
+      "summary": "This study demonstrates that integrating linear accelerator service logs with automated electronic portal imaging device (EPID) quality assurance data provides better insight into machine performance. The analysis highlights correlations between maintenance events and changes in beam characteristics.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958612/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42958612/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
     {
       "title": "Spot size reduction and minibeam creation in a proton PBS nozzle using multipole permanent magnets",
       "summary": "Researchers have proposed a new proton pencil beam scanning nozzle design utilizing multipole permanent magnets. This configuration may enable the creation of smaller spot sizes and proton minibeams for clinical or preclinical applications.",
@@ -27,6 +45,24 @@
       "published_date": "2026-10-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261029224053&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
+    },
+    {
+      "title": "Experimental feasibility study of proton therapy range verification by a digital tracking calorimeter prototype",
+      "summary": "This study explores the potential of a silicon-pixel-based sampling calorimeter to perform in-situ range verification in proton therapy. By analyzing secondary radiation signals, the prototype aims to confirm Bragg peak depth relative to the clinical treatment plan.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956465/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030072718&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42956465/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Evaluation of Dose to Medium and Dose to Water with the Acuros XB Algorithm for SABR",
+      "summary": "Researchers compared dose-to-medium and dose-to-water reporting modes within the Acuros XB algorithm for stereotactic ablative body radiotherapy. The study examines the dosimetric impacts and clinical implications of selecting different reporting standards in complex heterogeneous environments.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956405/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42956405/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
       "title": "Quantitative assessment of deformable image registration accuracy for cumulative dose estimation in multi-site stereotactic re-irradiation",
@@ -126,42 +162,6 @@
       "published_date": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027190143&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42934945/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Model-Based Normal Tissue Complication Probability Comparison Between Proton and Photon Therapies for Brain Tumors",
-      "summary": "This planning study compared proton beam therapy (PBT) and intensity-modulated radiation therapy (IMRT) for brain tumors. PBT demonstrated lower estimated normal tissue complication probabilities for several endpoints, potentially offering long-term benefits in reducing secondary cancer risks.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261027190143&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42936426/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Artificial Intelligence, Multi-Omics, and Multimodal Integration in Precision Radiotherapy for Head and Neck Cancer",
-      "summary": "This narrative review explores how AI and multi-omics data integration can enhance precision radiotherapy by characterizing tumor heterogeneity. It emphasizes the importance of linking biological insights and multimodal data to inform individualized treatment decisions.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261027190146&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42940059/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f"
-    },
-    {
-      "title": "Clinical Outcomes and Safety of Spatially Fractionated Radiotherapy for Malignant Tumors: A Systematic Review and Evidence Map",
-      "summary": "This systematic review assesses clinical outcomes and safety profiles associated with spatially fractionated radiotherapy (SFRT). It provides an evidence map of current techniques to help clinicians understand the comparative efficacy of this modality in treating malignant tumors.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261027190145&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42936872/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
-    },
-    {
-      "title": "A cascade deep learning network for simultaneous prediction of dose and linear energy transfer in proton therapy of prostate cancer",
-      "summary": "Researchers have developed a cascade deep learning framework for the simultaneous 3D prediction of dose and linear energy transfer (LETd) distributions. This approach aims to support more precise LET-aware treatment planning in prostate intensity-modulated proton therapy.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945684/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261028072525&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42945684/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
     }
   ]
 }
