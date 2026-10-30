@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T21:51:49.441750+00:00",
+  "updated_at": "2026-10-30T02:41:02.098727+00:00",
   "articles": [
     {
       "title": "Spot size reduction and minibeam creation in a proton PBS nozzle using multipole permanent magnets",
@@ -18,6 +18,15 @@
       "published_date": "2026-10-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955957/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261029175139&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42955957/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
+    },
+    {
+      "title": "Is full re-optimization necessary in adaptive radiotherapy for head and neck cancer?",
+      "summary": "This systematic review evaluates the necessity of full re-optimization in adaptive radiotherapy for head and neck cancer. Researchers analyzed current dosimetric and clinical outcomes to determine if less intensive adaptive strategies are sufficient for maintaining treatment quality.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261029224053&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     },
     {
       "title": "Quantitative assessment of deformable image registration accuracy for cumulative dose estimation in multi-site stereotactic re-irradiation",
@@ -153,15 +162,6 @@
       "published_date": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945684/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261028072525&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42945684/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f"
-    },
-    {
-      "title": "Six-year data from three magnetic resonance-guided radiotherapy systems demonstrate long-term stability of linear accelerator quality assurance",
-      "summary": "A multi-year evaluation of three MRI-guided linac systems confirms the long-term stability of their quality assurance results. These findings suggest potential opportunities for optimizing current QA program requirements for hybrid systems.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42935700/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261028072526&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42935700/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f"
     }
   ]
 }
