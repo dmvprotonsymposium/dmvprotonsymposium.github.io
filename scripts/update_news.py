@@ -33,6 +33,7 @@ import feedparser
 from google import genai
 from google.genai import types
 
+from urllib.parse import urlencode
 
 ROOT = Path(__file__).resolve().parents[1]
 NEWS_FILE = ROOT / "data" / "news.json"
@@ -40,9 +41,8 @@ NEWS_FILE = ROOT / "data" / "news.json"
 MODEL = os.getenv("GEMINI_NEWS_MODEL") or "gemini-3.1-flash-lite"
 
 MAX_STORIES = 18
-LOOKBACK_DAYS = 7
 MAX_CANDIDATES = 40
-
+MAX_NEWS_CANDIDATES = 20
 
 CATEGORIES = [
     "Proton Therapy",
@@ -63,6 +63,18 @@ CATEGORIES = [
 # The exact RSS URL for a source can change, so check each source's
 # current feed URL if a feed stops working.
 #
+
+def google_news_rss(query):
+    return (
+        "https://news.google.com/rss/search?"
+        + urlencode({
+            "q": query,
+            "hl": "en-US",
+            "gl": "US",
+            "ceid": "US:en",
+        })
+    )
+    
 RSS_FEEDS = [
     {
         "name": "NCI Cancer Currents",
@@ -84,10 +96,35 @@ RSS_FEEDS = [
         "name": "NAPT News",
         "url": "https://proton-therapy.org/category/napt-news/feed/",
     },
+    {
+        "name": "AAPM News",
+        "url": "https://www.aapm.org/rss/feed.asp",
+    },
+    {
+        "name": "Proton Center Developments",
+        "url": google_news_rss(
+            '"proton therapy" ("new center" OR "first patient" OR "opens")'
+        ),
+    },
+    {
+        "name": "ASTRO News",
+        "url": google_news_rss(
+            'site:astro.org "radiation therapy"'
+        ),
+    },
 ]
 
-LOOKBACK_DAYS = 30
 
+NEWS_SOURCES = {
+    "NAPT News",
+    "NCI Cancer Currents",
+    "AAPM News",
+    "ASTRO News",
+    "Proton Center Developments",
+}
+
+LOOKBACK_DAYS = 30
+NEWS_LOOKBACK_DAYS = 90
 # ---------------------------------------------------------------------
 # GEMINI STRUCTURED OUTPUT
 # ---------------------------------------------------------------------
@@ -262,10 +299,6 @@ def parse_entry_date(entry) -> datetime | None:
 def fetch_rss_articles() -> list[dict]:
     """Fetch recent articles from all configured RSS feeds."""
 
-    cutoff = datetime.now(timezone.utc) - timedelta(
-        days=LOOKBACK_DAYS
-    )
-
     candidates = []
 
     for feed_info in RSS_FEEDS:
@@ -293,19 +326,35 @@ def fetch_rss_articles() -> list[dict]:
                 feed = feedparser.parse(response.content)
         
                 if not feed.entries:
-                    print(f"WARNING: No entries found in {url}")
+                    print(
+                        f"WARNING: No entries found in "
+                        f"{feed_info['name']}"
+                    )
+                    continue
     
         except requests.RequestException as e:
-            print(f"WARNING: Could not access {url}: {e}")
+            print(
+                f"WARNING: Could not access "
+                f"{feed_info['name']} ({feed_info['url']}): {e}"
+            )
             continue
-
         if getattr(feed, "bozo", False):
             print(
                 f"WARNING: RSS feed may be malformed: "
                 f"{feed_info['name']}",
                 file=sys.stderr,
             )
-
+        is_news_source = feed_info["name"] in NEWS_SOURCES
+        
+        lookback = (
+            NEWS_LOOKBACK_DAYS
+            if is_news_source
+            else LOOKBACK_DAYS
+        )
+        
+        cutoff = datetime.now(timezone.utc) - timedelta(
+            days=lookback
+        )
         for entry in feed.entries:
 
             title = (
@@ -343,7 +392,7 @@ def fetch_rss_articles() -> list[dict]:
             source_count += 1
         print(
             f"  Total RSS entries: {len(feed.entries)}"
-            f" | Within {LOOKBACK_DAYS} days: {source_count}"
+            f" | Within {lookback} days: {source_count}"
         )
 
     # Deduplicate RSS results by URL.
@@ -363,31 +412,29 @@ def fetch_rss_articles() -> list[dict]:
         reverse=True,
     )
     
-    # Prioritize all recent NAPT and NCI articles.
-    priority_sources = {
-        "NAPT News",
-        "NCI Cancer Currents",
-    }
-    
-    priority_articles = [
+    # Separate news and research candidates.
+    news_articles = [
         article for article in candidates
-        if article["source"] in priority_sources
+        if article["source"] in NEWS_SOURCES
     ]
     
-    pubmed_articles = [
+    research_articles = [
         article for article in candidates
-        if article["source"] not in priority_sources
+        if article["source"] not in NEWS_SOURCES
     ]
     
-    # Reserve slots for NAPT and NCI.
+    # Both lists are already sorted newest first.
+    selected_news = news_articles[:MAX_NEWS_CANDIDATES]
+    
+    # Fill the remaining slots with research papers.
     remaining_slots = max(
         0,
-        MAX_CANDIDATES - len(priority_articles)
+        MAX_CANDIDATES - len(selected_news)
     )
     
-    selected_pubmed = pubmed_articles[:remaining_slots]
+    selected_research = research_articles[:remaining_slots]
     
-    final_candidates = priority_articles + selected_pubmed
+    final_candidates = selected_news + selected_research
     
     print("\nArticles sent to Gemini:")
     
@@ -414,6 +461,7 @@ def fetch_rss_articles() -> list[dict]:
 def build_prompt(
     candidates: list[dict],
     existing_articles: list[dict],
+    editorial_type: str = "research",
 ) -> str:
     """Build the Gemini article-selection prompt."""
 
@@ -437,7 +485,39 @@ def build_prompt(
         indent=2,
         ensure_ascii=False,
     )
-
+    if editorial_type == "news":
+        editorial_instructions = """
+    You are selecting INDUSTRY NEWS, not scientific papers.
+    
+    Prioritize:
+    - New proton therapy centers beginning patient treatments.
+    - Proton center openings, expansions, and closures.
+    - Medicare reimbursement and insurance coverage changes.
+    - Healthcare policy affecting proton therapy access.
+    - Important professional and technology announcements.
+    - Regional proton therapy developments.
+    
+    IMPORTANT:
+    A significant Medicare reimbursement proposal affecting proton
+    therapy centers is relevant professional news.
+    
+    Do not reject an article merely because it comes from an
+    advocacy organization. Evaluate the factual development and
+    distinguish reported facts from opinions.
+    
+    Avoid redundant coverage of the same development.
+    Return 0 to 4 relevant news articles.
+    """
+    else:
+        editorial_instructions = """
+    You are selecting SCIENTIFIC RESEARCH PUBLICATIONS.
+    
+    Prioritize important advances in proton therapy,
+    radiation oncology, medical physics, treatment planning,
+    dosimetry, and relevant AI applications.
+    
+    Return 0 to 6 relevant research articles.
+    """
     return f"""
 You are the news editor for the DMV Proton Therapy Collaborative.
 
@@ -453,10 +533,13 @@ RSS feeds.
 Your task is to select ONLY genuinely useful articles for the
 organization's professional audience.
 
-The articles were collected from:
-{cutoff.isoformat()} onward.
+RECENCY REQUIREMENTS
 
-Return 0 to 6 selected articles.
+Research publications have a 30-day lookback.
+Industry news has a 90-day lookback.
+Candidates have already passed the appropriate date filters. 
+
+{editorial_instructions}
 
 PRIORITY TOPICS
 
@@ -471,7 +554,42 @@ PRIORITY TOPICS
 7. Major professional, clinical, regulatory, technology, or research
    developments involving proton therapy
 8. Important developments in Washington DC, Maryland, or Virginia
+9. Proton therapy reimbursement, Medicare and Medicaid policy,
+   insurance coverage, healthcare regulations, and patient access.
+10. Proton center openings, first-patient treatments,
+    expansions, closures, and financial sustainability.
 
+PRIORITY NEWS
+
+1. New proton therapy centers opening or beginning patient treatments.
+2. Existing centers expanding, upgrading, or introducing new technologies.
+3. Important radiation oncology clinical guidelines from ASTRO
+   and other professional societies.
+4. Medicare reimbursement, insurance coverage, and patient access.
+5. Major medical physics guidance, standards, and safety developments.
+6. First-in-human proton therapy trials and major clinical milestones.
+7. Important proton therapy equipment and technology developments.
+
+Do not include routine staffing announcements, patient testimonials,
+marketing claims, or minor corporate updates.
+
+For manufacturer press releases, distinguish contracts and planned
+installations from completed installations and clinical operations.
+
+Deduplicate events across sources, even when their headlines and
+URLs differ.
+
+EDITORIAL GUIDANCE
+
+- Include important proton therapy policy and reimbursement
+  developments even when published by advocacy organizations.
+- Distinguish factual policy developments from advocacy opinions.
+- Summarize proposed regulations as proposals, not final decisions.
+- Do not exclude a significant policy story merely because the
+  source is an advocacy organization.
+- Avoid publishing multiple articles covering substantially
+  the same policy development.
+  
 DO NOT SELECT
 
 - Generic cancer stories without meaningful radiation relevance
@@ -538,6 +656,7 @@ def select_articles_with_gemini(
     client: genai.Client,
     candidates: list[dict],
     existing_articles: list[dict],
+    editorial_type: str = "research",
 ) -> list[dict]:
     """Ask Gemini to select and summarize relevant RSS articles."""
 
@@ -549,6 +668,7 @@ def select_articles_with_gemini(
         contents=build_prompt(
             candidates,
             existing_articles,
+            editorial_type,
         ),
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
@@ -575,11 +695,12 @@ def select_articles_with_gemini(
 # MERGE
 # ---------------------------------------------------------------------
 
+
 def merge_articles(
     existing: list[dict],
     new_articles: list[dict],
 ) -> list[dict]:
-    """Validate, deduplicate, sort, and limit the news feed."""
+    """Validate, deduplicate, and balance research and news."""
 
     by_url: dict[str, dict] = {}
 
@@ -589,29 +710,78 @@ def merge_articles(
             continue
 
         article = dict(article)
+        article["url"] = normalize_url(article["url"])
+        article["id"] = article.get("id") or make_id(article)
 
-        article["url"] = normalize_url(
-            article["url"]
-        )
-
-        article["id"] = (
-            article.get("id")
-            or make_id(article)
-        )
+        # Preserve explicit type, otherwise infer from source.
+        if article.get("content_type") not in {"paper", "news"}:
+            article["content_type"] = (
+                "paper"
+                if "pubmed" in article["source"].lower()
+                else "news"
+            )
 
         key = article["url"].lower()
 
-        if key not in by_url:
-            by_url[key] = article
+        # Prefer the newly generated version if a URL repeats.
+        by_url[key] = article
 
     articles = list(by_url.values())
 
-    articles.sort(
-        key=lambda article: article["published_date"],
+    papers = sorted(
+        [a for a in articles if a["content_type"] == "paper"],
+        key=lambda a: a["published_date"],
         reverse=True,
     )
 
-    return articles[:MAX_STORIES]
+    news = sorted(
+        [a for a in articles if a["content_type"] == "news"],
+        key=lambda a: a["published_date"],
+        reverse=True,
+    )
+
+    # Reserve slots for both sections.
+    selected_papers = papers[:12]
+    selected_news = news[:6]
+
+    # Fill unused slots with the newest remaining articles.
+    remaining = (
+        papers[len(selected_papers):]
+        + news[len(selected_news):]
+    )
+
+    remaining.sort(
+        key=lambda a: a["published_date"],
+        reverse=True,
+    )
+
+    available_slots = MAX_STORIES - (
+        len(selected_papers) + len(selected_news)
+    )
+
+    merged = (
+        selected_papers
+        + selected_news
+        + remaining[:max(0, available_slots)]
+    )
+
+    merged.sort(
+        key=lambda a: a["published_date"],
+        reverse=True,
+    )
+
+    print("\nFinal published articles:")
+    print(
+        f"  Research: "
+        f"{sum(a['content_type'] == 'paper' for a in merged)}"
+    )
+    print(
+        f"  News: "
+        f"{sum(a['content_type'] == 'news' for a in merged)}"
+    )
+
+    return merged
+
 
 
 # ---------------------------------------------------------------------
@@ -671,11 +841,7 @@ def main() -> int:
     )
 
     candidates = fetch_rss_articles()
-
-    print(
-        f"Found {len(candidates)} recent RSS "
-        f"candidate articles."
-    )
+    print(f"Combined unique candidates: {len(candidates)}")
 
     if not candidates:
         print(
@@ -696,12 +862,48 @@ def main() -> int:
         f"Sending candidates to Gemini "
         f"using model: {MODEL}"
     )
-
-    new_articles = select_articles_with_gemini(
+    
+    news_candidates = [
+        article for article in candidates
+        if article["source"] in NEWS_SOURCES
+    ]
+    
+    research_candidates = [
+        article for article in candidates
+        if article["source"] not in NEWS_SOURCES
+    ]
+    
+    print(f"\nEvaluating {len(news_candidates)} news articles...")
+    
+    selected_news = select_articles_with_gemini(
         client,
-        candidates,
+        news_candidates,
         existing_articles,
+        editorial_type="news",
     )
+    
+    print(f"Gemini selected {len(selected_news)} news articles.")
+    
+    for article in selected_news:
+        print(f"  [NEWS] {article['title']}")
+    
+    
+    print(f"\nEvaluating {len(research_candidates)} research papers...")
+    
+    selected_research = select_articles_with_gemini(
+        client,
+        research_candidates,
+        existing_articles,
+        editorial_type="research",
+    )
+
+    print(f"Gemini selected {len(selected_research)} research papers.")
+    
+    for article in selected_research:
+        print(f"  [RESEARCH] {article['title']}")
+    
+    
+    new_articles = selected_news + selected_research
 
     print(
         f"Gemini selected "
