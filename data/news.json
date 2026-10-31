@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:10:28.699484+00:00",
+  "updated_at": "2026-10-31T20:29:20.675257+00:00",
   "articles": [
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
@@ -39,6 +39,36 @@
       "published_date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031121016&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
+      "summary": "This phase 2 trial evaluated the outcomes of proton re-irradiation for patients with previously treated head and neck cancer. The study concluded that proton re-RT demonstrated encouraging locoregional control and survival, although late toxicities remain a significant concern for clinicians.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031162905&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
+      "summary": "This new guidance provides comprehensive medical physics standards for superficial radiation therapy (SRT) in the 50-100 kVp range. It is designed to assist clinics in maintaining safety and quality for the management of non-melanoma skin cancer and benign dermatological conditions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031162908&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
+      "summary": "Researchers proposed an adaptive weight optimization framework for seed implant brachytherapy planning using large language models. The integration of a local LLM with an automatic planning algorithm aims to reduce clinical planning inefficiencies and improve plan quality.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261031162910&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
       "content_type": "paper"
     },
     {
@@ -92,38 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Angle-Dependent Dose Transformer Algorithm for Fast Proton Therapy Dose Calculations",
-      "summary": "The Angle-Dependent Dose Transformer Algorithm (ADoTA) is presented as a deep learning-based proton dose engine. It offers Monte Carlo-level accuracy while significantly speeding up calculation times for thoracic treatment plans.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959820/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030153524&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42959820/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Experimental validation of time-driven proton PBS FLASH delivery on a clinical proton therapy system",
-      "summary": "This paper validates a method for time-driven proton pencil beam scanning at ultra-high dose rates. The findings provide a platform for preclinical FLASH research using existing clinical proton delivery infrastructure.",
-      "category": "Proton Therapy",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959518/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030153526&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42959518/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Artificial intelligence in image-guided cervical interventional radiotherapy: a systematic review",
-      "summary": "This review examines the role of AI in automating workflow steps for cervical interventional radiotherapy. While showing high technical potential, the authors emphasize the need for robust external validation before routine clinical adoption.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959106/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261030153528&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42959106/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
-      "summary": "A recent study released by the American Society for Radiation Oncology (ASTRO) highlights significant geographic disparities in access, finding that 50 million Americans reside in counties that lack a radiation oncology clinic. This research underscores critical gaps in the distribution of radiation therapy infrastructure across the United States.",
+      "summary": "A recent study highlights that 50 million Americans reside in counties lacking access to radiation oncology services. The findings underscore significant geographic disparities in access to essential cancer treatments across the United States.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-28",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare reimbursement change could significantly reduce payments to freestanding proton therapy centers starting in 2027. Industry advocates warn that the adjustment may impact financial sustainability, research initiatives, and patient access to proton therapy services.",
+      "summary": "A proposed Medicare pricing rule could lead to significant revenue reductions for freestanding proton therapy centers in 2027. Advocacy groups warn that the proposal, if finalized, could threaten the financial sustainability of existing community centers and limit patient access to proton therapy.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
