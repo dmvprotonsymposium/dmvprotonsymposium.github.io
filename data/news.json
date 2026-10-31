@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:58:54.288287+00:00",
+  "updated_at": "2026-10-31T16:10:28.699484+00:00",
   "articles": [
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
@@ -29,6 +29,16 @@
       "published_date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261031065845&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
+      "summary": "The AAPM has released practice guidelines for superficial radiation therapy (SRT) using low-energy kilovoltage x-rays. The report establishes minimum standards for clinical delivery to support safe and effective treatment of skin cancers and benign dermatological conditions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031121016&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
       "content_type": "paper"
     },
     {
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Radiation therapy quality assurance (RT QA) of adjuvant fractionated radiotherapy for WHO grade 2 atypical meningioma in the ROAM/EORTC1308 trial",
-      "summary": "This study underscores that pre-trial quality assurance is insufficient for complex radiotherapy of uncommon tumors, highlighting the need for prospective independent central reviews. Consistent high-quality radiotherapy across sites was achieved, ensuring the robustness of primary trial outcomes.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959875/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030173432&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42959875/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study released by the American Society for Radiation Oncology (ASTRO) highlights significant geographic disparities in access, finding that 50 million Americans reside in counties that lack a radiation oncology clinic. This research underscores critical gaps in the distribution of radiation therapy infrastructure across the United States.",
       "category": "Radiation Oncology",
@@ -143,7 +143,7 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, which aims to evaluate the safety and efficacy of ConformalFLASH proton therapy for head and neck cancer. This milestone represents a significant advancement in the development of ultra-high dose rate radiotherapy delivery.",
+      "summary": "IBA has initiated a clinical trial for its ConformalFLASH proton therapy system, marking a significant milestone with the treatment of the first patient. This trial aims to evaluate the safety and clinical applicability of FLASH radiation technology in head and neck oncology.",
       "category": "Proton Therapy",
       "source": "DOTmed",
       "published_date": "2026-10-26",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change threatens the financial stability of standalone proton therapy centers by significantly reducing reimbursement rates compared to hospital-based facilities. This change could impact research, patient support services, and future development of specialized proton therapy centers across the nation.",
+      "summary": "A proposed Medicare reimbursement change could significantly reduce payments to freestanding proton therapy centers starting in 2027. Industry advocates warn that the adjustment may impact financial sustainability, research initiatives, and patient access to proton therapy services.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
