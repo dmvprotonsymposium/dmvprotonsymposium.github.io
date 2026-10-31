@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-31T02:29:45.614745+00:00",
+  "updated_at": "2026-10-31T10:58:54.288287+00:00",
   "articles": [
+    {
+      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
+      "summary": "This phase 2 trial evaluates the outcomes of proton re-irradiation for head and neck cancer patients. Findings suggest promising locoregional control and survival, although late toxicity remains a key consideration in this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031065839&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
+      "summary": "This AAPM guideline provides updated standards for superficial radiation therapy (SRT) in dermatology and oncology. It outlines essential medical physics practices for system commissioning, quality assurance, and safe clinical delivery of low-energy x-rays.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031065841&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
+      "summary": "This study introduces an adaptive framework for brachytherapy treatment planning that utilizes large language models to automate and optimize objective function weights. The approach aims to reduce manual planning inefficiencies and enhance plan quality through iterative optimization.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261031065845&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
     {
       "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
       "summary": "A multi-institutional audit evaluated the accuracy of markerless surface-guided radiation therapy (SGRT). While the technology achieved high static irradiation precision, researchers identified potential risks for setup errors that warrant careful workflow management.",
@@ -92,36 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Design and shielding effectiveness of adjustable modular medical radiation shelter",
-      "summary": "Researchers designed a modular, adjustable radiation shelter using a composite of barite-paraffin, water, and lead to address the limitations of permanent concrete shielding in temporary clinical settings. This study provides a practical approach for site-specific radiation protection in medical imaging and radiotherapy environments.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42962085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Robust enhanced leaf model implementation for beam-matched linear accelerators: Impact of physical leaf gap variations",
-      "summary": "This study validates a hybrid method for implementing leaf models in multi-linac environments by combining machine-averaged parameters with harmonized leaf-gap settings. The results demonstrate that this approach is effective for maintaining beam matching and managing leaf gap variations in clinical practice.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961336/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42961336/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Development of a low-cost 3D-printed phantom for end-to-end testing of model-based dose calculation algorithms",
-      "summary": "A new modular, 3D-printed phantom was developed to validate model-based dose calculation algorithms (MBDCAs) in HDR brachytherapy under heterogeneous conditions. The phantom offers a cost-effective solution for quality assurance in resource-limited clinical settings.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961311/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42961311/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study released by the American Society for Radiation Oncology (ASTRO) highlights significant geographic disparities in access, finding that 50 million Americans reside in counties that lack a radiation oncology clinic. This research underscores critical gaps in the distribution of radiation therapy infrastructure across the United States.",
       "category": "Radiation Oncology",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "Standalone proton therapy centers are expressing concern over a proposed Medicare pricing rule that could result in significant revenue decreases by 2027. Advocacy groups warn that if finalized, the proposal could impact the financial sustainability of these facilities and potentially limit patient access to proton radiation services.",
+      "summary": "A proposed Medicare pricing change threatens the financial stability of standalone proton therapy centers by significantly reducing reimbursement rates compared to hospital-based facilities. This change could impact research, patient support services, and future development of specialized proton therapy centers across the nation.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
