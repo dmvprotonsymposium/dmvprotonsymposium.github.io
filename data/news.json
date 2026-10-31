@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:34:45.053388+00:00",
+  "updated_at": "2026-10-31T02:29:45.614745+00:00",
   "articles": [
     {
       "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
@@ -92,43 +92,33 @@
       "content_type": "paper"
     },
     {
-      "title": "Spot size reduction and minibeam creation in a proton PBS nozzle using multipole permanent magnets",
-      "summary": "Researchers have proposed a new proton pencil beam scanning nozzle design utilizing multipole permanent magnets. This configuration may enable the creation of smaller spot sizes and proton minibeams for clinical or preclinical applications.",
+      "title": "Design and shielding effectiveness of adjustable modular medical radiation shelter",
+      "summary": "Researchers designed a modular, adjustable radiation shelter using a composite of barite-paraffin, water, and lead to address the limitations of permanent concrete shielding in temporary clinical settings. This study provides a practical approach for site-specific radiation protection in medical imaging and radiotherapy environments.",
       "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952162/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261029073604&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42952162/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "When toxicity limits cure: Repositioning radiation in esophageal and rectal cancers by proton therapy",
-      "summary": "This research highlights how proton therapy can mitigate acute and late toxicities in esophageal and rectal cancer patients by sparing healthy critical organs like the heart, lungs, and bowel. The physical properties of protons offer a potential improvement in quality of life and long-term outcomes compared to traditional radiotherapy.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955957/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261029175139&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42955957/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Is full re-optimization necessary in adaptive radiotherapy for head and neck cancer?",
-      "summary": "This systematic review evaluates the necessity of full re-optimization in adaptive radiotherapy for head and neck cancer. Researchers analyzed current dosimetric and clinical outcomes to determine if less intensive adaptive strategies are sufficient for maintaining treatment quality.",
-      "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
-      "published_date": "2026-10-29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261029224053&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42955959/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "published_date": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42962085/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
       "content_type": "paper"
     },
     {
-      "title": "Experimental feasibility study of proton therapy range verification by a digital tracking calorimeter prototype",
-      "summary": "This study explores the potential of a silicon-pixel-based sampling calorimeter to perform in-situ range verification in proton therapy. By analyzing secondary radiation signals, the prototype aims to confirm Bragg peak depth relative to the clinical treatment plan.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956465/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030072718&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42956465/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "title": "Robust enhanced leaf model implementation for beam-matched linear accelerators: Impact of physical leaf gap variations",
+      "summary": "This study validates a hybrid method for implementing leaf models in multi-linac environments by combining machine-averaged parameters with harmonized leaf-gap settings. The results demonstrate that this approach is effective for maintaining beam matching and managing leaf gap variations in clinical practice.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961336/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42961336/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Development of a low-cost 3D-printed phantom for end-to-end testing of model-based dose calculation algorithms",
+      "summary": "A new modular, 3D-printed phantom was developed to validate model-based dose calculation algorithms (MBDCAs) in HDR brachytherapy under heterogeneous conditions. The phantom offers a cost-effective solution for quality assurance in resource-limited clinical settings.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961311/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030222930&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42961311/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
       "content_type": "paper"
     },
     {
@@ -159,6 +149,16 @@
       "published_date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
       "id": "news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
+      "content_type": "news"
+    },
+    {
+      "title": "Hampton University Proton Cancer Institute opens new wellness space for patients and caregivers",
+      "summary": "The Hampton University Proton Cancer Institute has expanded its clinical facilities by opening a new wellness space dedicated to supporting patients and their caregivers during treatment. This development aims to enhance the patient experience at the regional proton therapy center.",
+      "category": "Regional",
+      "source": "WTKR",
+      "published_date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJrajVNRXRvcWZpdEVuS0ZCa0RjNGx3MGFCaXJpazhnbWZPdGF3WUpmUUdDS1pOQjNodVFKek1qX08yVFdSVjJaSE1tUTliWDU1YzhMZUE1ejBuYkF1NGdFcXRXNDBkMFFvYk1mWWgxZW1lSFJldXhULWdB?oc=5",
+      "id": "news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJ",
       "content_type": "news"
     },
     {
