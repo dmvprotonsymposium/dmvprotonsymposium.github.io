@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:19:39.592350+00:00",
+  "updated_at": "2026-11-01T11:54:16.601337+00:00",
   "articles": [
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
@@ -82,6 +82,36 @@
       "content_type": "paper"
     },
     {
+      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
+      "summary": "This phase 2 trial evaluated the outcomes of proton re-irradiation in heavily pretreated patients with head and neck cancer. Results indicate promising locoregional control, though clinicians should continue to monitor for late toxicities.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261101065403&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
+      "summary": "This guidance from the AAPM outlines minimum standards for the clinical delivery of superficial radiation therapy. It provides a technical overview for clinics managing skin cancers and benign dermatological conditions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261101065404&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
+      "summary": "Researchers proposed a new framework utilizing large language models to automate and optimize the weighting of objective functions in seed implant brachytherapy planning. This approach aims to reduce manual intervention and improve treatment plan efficiency.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261101065406&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
+    {
       "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
       "summary": "A multi-institutional audit evaluated the accuracy of markerless surface-guided radiation therapy (SGRT). While the technology achieved high static irradiation precision, researchers identified potential risks for setup errors that warrant careful workflow management.",
       "category": "Medical Physics",
@@ -89,36 +119,6 @@
       "published_date": "2026-10-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Retrospective analysis of machine service logs and EPID-based linac QA",
-      "summary": "This study demonstrates that integrating linear accelerator service logs with automated electronic portal imaging device (EPID) quality assurance data provides better insight into machine performance. The analysis highlights correlations between maintenance events and changes in beam characteristics.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42958612/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42958612/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "Analysis on radiation protection of FLASH treatment in conventional proton therapy facilities",
-      "summary": "This study evaluates the radiation safety of FLASH irradiation using the Varian ProBeam system. Results suggest that current conventional shielding is sufficient to maintain occupational and environmental safety for FLASH delivery.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961338/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030153524&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42961338/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "A cell-type resolved proton RBE model for potential clinical application",
-      "summary": "Researchers developed a new RBE model that accounts for cell-type specific repair capabilities. This model shows strong agreement with experimental data and aims to improve clinical accuracy in proton dose calculation.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961330/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030153524&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42961330/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
       "content_type": "paper"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing rule could lead to significant revenue reductions for freestanding proton therapy centers in 2027. Advocacy groups warn that the proposal, if finalized, could threaten the financial sustainability of existing community centers and limit patient access to proton therapy.",
+      "summary": "A proposed Medicare pricing change could result in a nearly 30% reduction in reimbursement for standalone proton therapy centers compared to hospital-based providers. Industry stakeholders warn that this shift may threaten the financial sustainability of these facilities, potentially impacting research and patient access to proton therapy services.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
