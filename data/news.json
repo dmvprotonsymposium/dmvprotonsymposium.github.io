@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T11:54:16.601337+00:00",
+  "updated_at": "2026-11-01T17:58:39.955325+00:00",
   "articles": [
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
@@ -123,7 +123,7 @@
     },
     {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
-      "summary": "A study indicates that significant disparities in access to radiation oncology services persist, with 50 million Americans residing in counties lacking a local facility. This research highlights ongoing challenges in healthcare infrastructure and patient access to essential cancer treatments.",
+      "summary": "A recent study highlights that approximately 50 million Americans reside in counties lacking a local radiation oncology clinic, raising significant concerns about patient access to cancer care. The findings underscore potential disparities in healthcare delivery for patients who may face travel burdens to receive essential radiation treatments.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-28",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "ASTRO has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. These guidelines aim to improve patient convenience and treatment efficiency while maintaining therapeutic standards.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of hypofractionated or shorter-course radiation therapy for patients with localized prostate cancer. These updates aim to provide clinicians with standardized, evidence-based protocols for delivering efficient and effective care.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change could result in a nearly 30% reduction in reimbursement for standalone proton therapy centers compared to hospital-based providers. Industry stakeholders warn that this shift may threaten the financial sustainability of these facilities, potentially impacting research and patient access to proton therapy services.",
+      "summary": "A proposed Medicare pricing change threatens the financial viability of freestanding proton therapy centers, with potential payment reductions of nearly 30% by 2027 compared to hospital-based departments. Stakeholders warn that this adjustment could jeopardize ongoing research, patient support services, and future facility expansion.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
