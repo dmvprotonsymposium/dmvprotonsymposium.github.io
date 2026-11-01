@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:29:20.675257+00:00",
+  "updated_at": "2026-11-01T02:19:39.592350+00:00",
   "articles": [
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
@@ -72,6 +72,16 @@
       "content_type": "paper"
     },
     {
+      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
+      "summary": "This phase 2 clinical trial demonstrates that proton re-irradiation offers promising locoregional control and survival benefits for heavily pretreated head and neck cancer patients. The study highlights the continued importance of monitoring late toxicities in this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031221924&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
       "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
       "summary": "A multi-institutional audit evaluated the accuracy of markerless surface-guided radiation therapy (SGRT). While the technology achieved high static irradiation precision, researchers identified potential risks for setup errors that warrant careful workflow management.",
       "category": "Medical Physics",
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Differentiable Autoplanning Algorithm for Proton Therapy Based on Deep Learning",
-      "summary": "This study introduces a proof-of-concept framework for gradient-based optimization of proton therapy beam parameters. The approach utilizes a differentiable dose engine to potentially improve the automation of treatment planning.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959910/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261030153524&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42959910/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
-      "summary": "A recent study highlights that 50 million Americans reside in counties lacking access to radiation oncology services. The findings underscore significant geographic disparities in access to essential cancer treatments across the United States.",
+      "summary": "A study indicates that significant disparities in access to radiation oncology services persist, with 50 million Americans residing in counties lacking a local facility. This research highlights ongoing challenges in healthcare infrastructure and patient access to essential cancer treatments.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-28",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. These updates aim to standardize hypofractionated treatment approaches based on current clinical evidence.",
+      "summary": "ASTRO has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. These guidelines aim to improve patient convenience and treatment efficiency while maintaining therapeutic standards.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -143,7 +143,7 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has initiated a clinical trial for its ConformalFLASH proton therapy system, marking a significant milestone with the treatment of the first patient. This trial aims to evaluate the safety and clinical applicability of FLASH radiation technology in head and neck oncology.",
+      "summary": "IBA has initiated the first patient treatment in a clinical trial evaluating their ConformalFLASH proton therapy technology. The study focuses on head and neck cancer, marking a key milestone in the development of ultra-high dose-rate delivery systems.",
       "category": "Proton Therapy",
       "source": "DOTmed",
       "published_date": "2026-10-26",
