@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-01T17:58:39.955325+00:00",
+  "updated_at": "2026-11-02T06:23:41.650524+00:00",
   "articles": [
+    {
+      "title": "Real world clinical outcomes of deep learning based versus manual proton therapy planning for oropharyngeal cancer",
+      "summary": "This matched cohort study found no significant difference in oncological outcomes or side effects between deep learning-based intensity-modulated proton therapy (IMPT) and manual planning for oropharyngeal cancer. The findings support the clinical implementation of DL-based planning for these patients.",
+      "category": "AI & Imaging",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261102012320&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
     {
       "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
       "summary": "This phase 2 trial evaluates the outcomes of proton re-irradiation for head and neck cancer patients. Findings suggest promising locoregional control and survival, although late toxicity remains a key consideration in this patient population.",
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "A multicenter end-to-end postal audit of skin markerless surface-guided radiation therapy",
-      "summary": "A multi-institutional audit evaluated the accuracy of markerless surface-guided radiation therapy (SGRT). While the technology achieved high static irradiation precision, researchers identified potential risks for setup errors that warrant careful workflow management.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261030072721&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42958617/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that approximately 50 million Americans reside in counties lacking a local radiation oncology clinic, raising significant concerns about patient access to cancer care. The findings underscore potential disparities in healthcare delivery for patients who may face travel burdens to receive essential radiation treatments.",
       "category": "Radiation Oncology",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of hypofractionated or shorter-course radiation therapy for patients with localized prostate cancer. These updates aim to provide clinicians with standardized, evidence-based protocols for delivering efficient and effective care.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy regimens for localized prostate cancer. These recommendations aim to provide evidence-based standards for clinicians managing prostate patients using modern hypofractionation techniques.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change threatens the financial viability of freestanding proton therapy centers, with potential payment reductions of nearly 30% by 2027 compared to hospital-based departments. Stakeholders warn that this adjustment could jeopardize ongoing research, patient support services, and future facility expansion.",
+      "summary": "A proposed Medicare pricing change threatens the financial viability of freestanding proton therapy centers by potentially reducing reimbursement rates by nearly 30% compared to hospital-based centers. This shift raises concerns about the long-term sustainability of independent facilities and the potential impact on patient access to specialized cancer treatment.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
