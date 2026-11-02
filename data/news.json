@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-02T06:23:41.650524+00:00",
+  "updated_at": "2026-11-02T21:47:07.820427+00:00",
   "articles": [
+    {
+      "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis for Predicting PD-L1 Expression in HCC",
+      "summary": "Researchers developed a combined imaging model using 3D fractal features from contrast-enhanced CT scans to predict PD-L1 expression in hepatocellular carcinoma. This noninvasive approach aims to assist in characterizing tumor immune-related features prior to treatment.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261102164652&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
     {
       "title": "Real world clinical outcomes of deep learning based versus manual proton therapy planning for oropharyngeal cancer",
       "summary": "This matched cohort study found no significant difference in oncological outcomes or side effects between deep learning-based intensity-modulated proton therapy (IMPT) and manual planning for oropharyngeal cancer. The findings support the clinical implementation of DL-based planning for these patients.",
@@ -9,6 +19,36 @@
       "published_date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261102012320&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Gaussian process regression of HDR prostate biopsy dose for improved modelling of localization-induced uncertainty",
+      "summary": "Researchers developed a Gaussian process regression framework to better account for localization-induced uncertainty in HDR prostate brachytherapy. This approach provides a spatially correlated model that offers a more robust basis for quality assurance and future dose-response analysis compared to voxelwise methods.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968298/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42968298/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Treatment plan quality comparison between ZAP-Axon( ) Krylov optimizer and Leksell Gamma Knife( ) Lightning optimizer for brain metastasis",
+      "summary": "This study compared the performance of two clinical optimizers for brain metastasis treatment planning. Findings suggest that while both are effective for large lesions, the Krylov optimizer demonstrates superior performance for small brain metastasis lesions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967581/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967581/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Mapping the evolution of spatially fractionated radiation therapy: A comprehensive bibliometric analysis",
+      "summary": "This bibliometric analysis examines the convergence of various spatially fractionated radiation therapy (SFRT) modalities into a unified research domain. It highlights the need for standardized clinical protocols and integration with emerging technologies like FLASH radiotherapy.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967406/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967406/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
       "content_type": "paper"
     },
     {
@@ -82,46 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
-      "summary": "This phase 2 clinical trial demonstrates that proton re-irradiation offers promising locoregional control and survival benefits for heavily pretreated head and neck cancer patients. The study highlights the continued importance of monitoring late toxicities in this patient population.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031221924&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
-      "summary": "This phase 2 trial evaluated the outcomes of proton re-irradiation in heavily pretreated patients with head and neck cancer. Results indicate promising locoregional control, though clinicians should continue to monitor for late toxicities.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261101065403&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
-      "summary": "This guidance from the AAPM outlines minimum standards for the clinical delivery of superficial radiation therapy. It provides a technical overview for clinics managing skin cancers and benign dermatological conditions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261101065404&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
-      "summary": "Researchers proposed a new framework utilizing large language models to automate and optimize the weighting of objective functions in seed implant brachytherapy planning. This approach aims to reduce manual intervention and improve treatment plan efficiency.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261101065406&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that approximately 50 million Americans reside in counties lacking a local radiation oncology clinic, raising significant concerns about patient access to cancer care. The findings underscore potential disparities in healthcare delivery for patients who may face travel burdens to receive essential radiation treatments.",
       "category": "Radiation Oncology",
@@ -143,7 +143,7 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has initiated the first patient treatment in a clinical trial evaluating their ConformalFLASH proton therapy technology. The study focuses on head and neck cancer, marking a key milestone in the development of ultra-high dose-rate delivery systems.",
+      "summary": "IBA has initiated a clinical trial for its ConformalFLASH proton therapy technology by treating the first patient with head and neck cancer. This trial marks a significant milestone in evaluating the clinical application of ultra-high dose rate radiation.",
       "category": "Proton Therapy",
       "source": "DOTmed",
       "published_date": "2026-10-26",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change threatens the financial viability of freestanding proton therapy centers by potentially reducing reimbursement rates by nearly 30% compared to hospital-based centers. This shift raises concerns about the long-term sustainability of independent facilities and the potential impact on patient access to specialized cancer treatment.",
+      "summary": "A proposed Medicare pricing rule could result in a 30% reimbursement reduction for freestanding proton therapy centers compared to hospital-based facilities. Industry stakeholders express concern that this policy could threaten the financial sustainability of community-based centers and limit patient access to care.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
