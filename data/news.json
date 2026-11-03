@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:35:56.902504+00:00",
+  "updated_at": "2026-11-03T23:48:50.255859+00:00",
   "articles": [
     {
       "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
@@ -7,8 +7,8 @@
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42973126/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973126",
       "content_type": "paper"
     },
     {
@@ -17,8 +17,28 @@
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973055/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42973055/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973055/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973055",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
+      "summary": "This study introduces a new medical conformity index (MCI) designed to improve radiotherapy plan evaluation by integrating spatial distance and target volume weighting. The index aims to provide a more clinically relevant quantification of dose conformity than traditional geometric measures.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975974/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42975974",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparative Analysis of Arc Geometrical Configurations and Jaw Tracking for Peripheral Low-Dose Bath in Whole Breast VMAT",
+      "summary": "Researchers evaluated the dosimetric impact of arc geometry and jaw tracking on low-dose radiation spillage in whole breast volumetric modulated arc therapy. The study characterizes how these parameters can be optimized to minimize the low-dose bath in organs at risk.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975951/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42975951",
       "content_type": "paper"
     },
     {
@@ -27,28 +47,28 @@
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261102164652&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42969475",
       "content_type": "paper"
     },
     {
       "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
-      "summary": "This study evaluates the influence of extended field-of-view (eFOV) in CT simulation on image quality, stopping power ratio (SPR), and subsequent proton dose calculations. The results provide insights for improving accuracy in treatment planning when using wider scan fields.",
+      "summary": "This study examines the use of extended field-of-view (eFOV) in CT simulation for proton therapy, specifically evaluating its effects on image quality and the accuracy of stopping power ratio (SPR) values. The findings provide guidance for clinical protocols involving immobilization devices and wider anatomy coverage.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261103015744&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970220",
       "content_type": "paper"
     },
     {
-      "title": "High-dose reirradiation of in-field recurrence lung cancer: toxicity analysis of a prospective trial",
-      "summary": "A prospective trial confirms the feasibility of thoracic reirradiation for recurrent lung cancer while respecting cumulative dose constraints for organs at risk. Results suggest that high-dose re-treatment can be performed with manageable toxicity profiles for esophageal and spinal cord structures.",
+      "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
+      "summary": "A prospective clinical trial analyzed the toxicity of high-dose thoracic reirradiation for in-field lung cancer recurrences. Results suggest that radical reirradiation is feasible when respecting cumulative organ-at-risk dose constraints.",
       "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42971440/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261103143544&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42971440/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971440/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42971440",
       "content_type": "paper"
     },
     {
@@ -57,8 +77,8 @@
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42970176/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970176",
       "content_type": "paper"
     },
     {
@@ -67,8 +87,8 @@
       "category": "AI & Imaging",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261102012320&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967539/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967539",
       "content_type": "paper"
     },
     {
@@ -77,8 +97,8 @@
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968298/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42968298/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968298/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42968298",
       "content_type": "paper"
     },
     {
@@ -87,8 +107,8 @@
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967581/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967581/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967581/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967581",
       "content_type": "paper"
     },
     {
@@ -97,28 +117,8 @@
       "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967406/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261102164650&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967406/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
-      "summary": "This phase 2 trial evaluates the outcomes of proton re-irradiation for head and neck cancer patients. Findings suggest promising locoregional control and survival, although late toxicity remains a key consideration in this patient population.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031065839&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
-      "summary": "This AAPM guideline provides updated standards for superficial radiation therapy (SRT) in dermatology and oncology. It outlines essential medical physics practices for system commissioning, quality assurance, and safe clinical delivery of low-energy x-rays.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031065841&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967406/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967406",
       "content_type": "paper"
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has initiated a clinical trial for its ConformalFLASH proton therapy technology by treating the first patient with head and neck cancer. This trial marks a significant milestone in evaluating the clinical application of ultra-high dose rate radiation.",
+      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, which investigates the use of ConformalFLASH proton therapy for head and neck cancer. This trial marks a significant milestone in evaluating the clinical application of high-dose-rate FLASH radiotherapy technology.",
       "category": "Proton Therapy",
       "source": "DOTmed",
       "published_date": "2026-10-26",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing rule could lead to significant revenue reductions for freestanding proton therapy centers, potentially impacting patient access and institutional research capabilities. Industry leaders are concerned about the financial sustainability of these facilities under the new proposed payment models.",
+      "summary": "A proposed Medicare pricing change could result in nearly 30% lower reimbursement rates for standalone proton therapy centers compared to hospital-based departments in 2027. Industry advocates warn that this policy shift may impact center sustainability, research funding, and overall patient access to proton therapy.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
