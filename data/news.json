@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:47:07.820427+00:00",
+  "updated_at": "2026-11-03T06:57:57.042116+00:00",
   "articles": [
     {
       "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis for Predicting PD-L1 Expression in HCC",
@@ -9,6 +9,16 @@
       "published_date": "2026-11-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261102164652&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42969475/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
+      "summary": "This study evaluates the influence of extended field-of-view (eFOV) in CT simulation on image quality, stopping power ratio (SPR), and subsequent proton dose calculations. The results provide insights for improving accuracy in treatment planning when using wider scan fields.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261103015744&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
       "content_type": "paper"
     },
     {
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
-      "summary": "Researchers proposed an adaptive weight optimization framework for seed implant brachytherapy planning using large language models. The integration of a local LLM with an automatic planning algorithm aims to reduce clinical planning inefficiencies and improve plan quality.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261031162910&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that approximately 50 million Americans reside in counties lacking a local radiation oncology clinic, raising significant concerns about patient access to cancer care. The findings underscore potential disparities in healthcare delivery for patients who may face travel burdens to receive essential radiation treatments.",
       "category": "Radiation Oncology",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy regimens for localized prostate cancer. These recommendations aim to provide evidence-based standards for clinicians managing prostate patients using modern hypofractionation techniques.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. The update reflects evolving standards aimed at improving treatment efficiency while maintaining oncological outcomes.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing rule could result in a 30% reimbursement reduction for freestanding proton therapy centers compared to hospital-based facilities. Industry stakeholders express concern that this policy could threaten the financial sustainability of community-based centers and limit patient access to care.",
+      "summary": "A proposed Medicare pricing rule could lead to significant revenue reductions for freestanding proton therapy centers, potentially impacting patient access and institutional research capabilities. Industry leaders are concerned about the financial sustainability of these facilities under the new proposed payment models.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
