@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:48:50.255859+00:00",
+  "updated_at": "2026-11-03T23:53:51.327851+00:00",
   "articles": [
     {
       "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
@@ -23,7 +23,7 @@
     },
     {
       "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
-      "summary": "This study introduces a new medical conformity index (MCI) designed to improve radiotherapy plan evaluation by integrating spatial distance and target volume weighting. The index aims to provide a more clinically relevant quantification of dose conformity than traditional geometric measures.",
+      "summary": "This study introduces a new medical conformity index that improves upon traditional geometric metrics by incorporating clinical considerations and spatial distance. The proposed index provides a more robust method for evaluating the quality of radiotherapy treatment plans.",
       "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-03",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Comparative Analysis of Arc Geometrical Configurations and Jaw Tracking for Peripheral Low-Dose Bath in Whole Breast VMAT",
-      "summary": "Researchers evaluated the dosimetric impact of arc geometry and jaw tracking on low-dose radiation spillage in whole breast volumetric modulated arc therapy. The study characterizes how these parameters can be optimized to minimize the low-dose bath in organs at risk.",
+      "summary": "This research investigates how different arc geometries and jaw tracking techniques affect the low-dose radiation bath in volumetric modulated arc therapy for breast cancer. The findings provide practical insights for minimizing radiation exposure to surrounding healthy tissues.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-03",
@@ -42,8 +42,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis for Predicting PD-L1 Expression in HCC",
-      "summary": "Researchers developed a combined imaging model using 3D fractal features from contrast-enhanced CT scans to predict PD-L1 expression in hepatocellular carcinoma. This noninvasive approach aims to assist in characterizing tumor immune-related features prior to treatment.",
+      "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis of Automatically Segmented Tumors for Predicting PD-L1 Expression in Hepatocellular Carcinoma",
+      "summary": "This study explores the use of 3D fractal analysis on preoperative CT imaging to non-invasively predict PD-L1 expression in hepatocellular carcinoma. Such imaging biomarkers may help characterize tumor heterogeneity and guide immunotherapy decisions.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-02",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
-      "summary": "This study examines the use of extended field-of-view (eFOV) in CT simulation for proton therapy, specifically evaluating its effects on image quality and the accuracy of stopping power ratio (SPR) values. The findings provide guidance for clinical protocols involving immobilization devices and wider anatomy coverage.",
+      "summary": "This study evaluates the impact of using extended fields-of-view during CT simulation on image quality and proton stopping power ratio accuracy. The analysis is essential for ensuring precise dose calculations when scanning large anatomy or immobilization devices.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-02",
@@ -63,7 +63,7 @@
     },
     {
       "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
-      "summary": "A prospective clinical trial analyzed the toxicity of high-dose thoracic reirradiation for in-field lung cancer recurrences. Results suggest that radical reirradiation is feasible when respecting cumulative organ-at-risk dose constraints.",
+      "summary": "This prospective trial demonstrates the feasibility of high-dose reirradiation for recurrent lung cancer while managing cumulative doses to organs at risk. Toxicity analysis showed no severe esophageal or spinal cord complications, supporting the clinical safety of this approach.",
       "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-02",
@@ -72,8 +72,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Pre-treatment machine learning prediction of local failure after Gamma Knife radiosurgery",
-      "summary": "This study developed a machine learning model to predict local failure and time to progression following Gamma Knife radiosurgery for radioresistant brain metastases. The results support the use of predictive modeling for individualized patient risk stratification.",
+      "title": "Pre-treatment machine learning prediction of local failure and time to local failure after Gamma Knife radiosurgery for radioresistant brain metastases",
+      "summary": "This research utilizes machine learning to predict local treatment failure in radioresistant brain metastases following radiosurgery. The model offers potential for improved patient risk stratification and customized follow-up strategies.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-02",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change could result in nearly 30% lower reimbursement rates for standalone proton therapy centers compared to hospital-based departments in 2027. Industry advocates warn that this policy shift may impact center sustainability, research funding, and overall patient access to proton therapy.",
+      "summary": "Proposed Medicare pricing changes threaten the financial viability of standalone proton therapy centers, potentially reducing revenue by nearly 30% compared to hospital-based facilities. Industry advocates warn that this policy could limit patient access and hinder future development of proton therapy infrastructure.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
