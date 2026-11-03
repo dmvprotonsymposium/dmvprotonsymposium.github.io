@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-03T06:57:57.042116+00:00",
+  "updated_at": "2026-11-03T19:35:56.902504+00:00",
   "articles": [
+    {
+      "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
+      "summary": "This study introduces HQ-PatchNet, a computationally efficient method for daily CBCT-guided online adaptive radiotherapy. The approach improves CBCT-to-synthetic CT image quality, supporting future clinical utility in adaptive treatment workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973126/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Fully automated AI-based quantification of tumour volume on PSMA PET-CT images is associated with overall survival",
+      "summary": "Researchers demonstrated that fully automated AI-derived total lesion volume from PSMA PET-CT imaging is associated with overall survival in prostate cancer patients. The findings support the potential for AI-based tumor quantification as a prognostic biomarker in clinical practice.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973055/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973055/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
+      "content_type": "paper"
+    },
     {
       "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis for Predicting PD-L1 Expression in HCC",
       "summary": "Researchers developed a combined imaging model using 3D fractal features from contrast-enhanced CT scans to predict PD-L1 expression in hepatocellular carcinoma. This noninvasive approach aims to assist in characterizing tumor immune-related features prior to treatment.",
@@ -19,6 +39,26 @@
       "published_date": "2026-11-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261103015744&v=2.20.1",
       "id": "pubmed.ncbi.nlm.nih.gov/42970220/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "High-dose reirradiation of in-field recurrence lung cancer: toxicity analysis of a prospective trial",
+      "summary": "A prospective trial confirms the feasibility of thoracic reirradiation for recurrent lung cancer while respecting cumulative dose constraints for organs at risk. Results suggest that high-dose re-treatment can be performed with manageable toxicity profiles for esophageal and spinal cord structures.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971440/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261103143544&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42971440/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pre-treatment machine learning prediction of local failure after Gamma Knife radiosurgery",
+      "summary": "This study developed a machine learning model to predict local failure and time to progression following Gamma Knife radiosurgery for radioresistant brain metastases. The results support the use of predictive modeling for individualized patient risk stratification.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261103143546&v=2.20.1",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970176/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
       "content_type": "paper"
     },
     {
@@ -82,48 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
-      "summary": "This study introduces an adaptive framework for brachytherapy treatment planning that utilizes large language models to automate and optimize objective function weights. The approach aims to reduce manual planning inefficiencies and enhance plan quality through iterative optimization.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&ff=20261031065845&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963884/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv&fc=20261026171942&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
-      "summary": "The AAPM has released practice guidelines for superficial radiation therapy (SRT) using low-energy kilovoltage x-rays. The report establishes minimum standards for clinical delivery to support safe and effective treatment of skin cancers and benign dermatological conditions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031121016&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer",
-      "summary": "This phase 2 trial evaluated the outcomes of proton re-irradiation for patients with previously treated head and neck cancer. The study concluded that proton re-RT demonstrated encouraging locoregional control and survival, although late toxicities remain a significant concern for clinicians.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&ff=20261031162905&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963935/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TyHVUJDxNJSqZjLRrxIc-xM-9cL987x7-RhQrikMJRwTmGQVM&fc=20261026170100&f",
-      "content_type": "paper"
-    },
-    {
-      "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
-      "summary": "This new guidance provides comprehensive medical physics standards for superficial radiation therapy (SRT) in the 50-100 kVp range. It is designed to assist clinics in maintaining safety and quality for the management of non-melanoma skin cancer and benign dermatological conditions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-10-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&ff=20261031162908&v=2.20.1",
-      "id": "pubmed.ncbi.nlm.nih.gov/42963823/?utm_source=Python Requests&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen&fc=20261026171808&f",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
-      "summary": "A recent study highlights that approximately 50 million Americans reside in counties lacking a local radiation oncology clinic, raising significant concerns about patient access to cancer care. The findings underscore potential disparities in healthcare delivery for patients who may face travel burdens to receive essential radiation treatments.",
+      "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-28",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. The update reflects evolving standards aimed at improving treatment efficiency while maintaining oncological outcomes.",
+      "summary": "ASTRO has released updated clinical guidelines regarding the implementation of shorter-course radiation therapy regimens for patients with localized prostate cancer. These updates aim to standardize best practices for hypofractionated treatment protocols in clinical settings.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -163,9 +163,9 @@
     },
     {
       "title": "BayCare opens proton therapy center at Tampa's St. Joseph’s Hospital",
-      "summary": "BayCare Health System has opened a new $33 million proton therapy center at St. Joseph's Hospital in Tampa, expanding access to specialized radiation treatment in the region. The facility is equipped to provide precise proton beam delivery for various cancer indications.",
+      "summary": "BayCare has officially opened a new $33 million proton therapy center at St. Joseph’s Hospital in Tampa. The facility expands regional access to precise radiation therapy for patients in the area.",
       "category": "Proton Therapy",
-      "source": "WUSF",
+      "source": "Proton Center Developments",
       "published_date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZOaDF5VWlNVmRGV2lhV2o0c1RlaGdJTlpnLVp5UkZKMV9sbkw5V3U1RDg3QmxjS2ppMEcxYmZhTU1oZnRTQU0yQV9oV0Jpbw?oc=5",
       "id": "news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZ",
