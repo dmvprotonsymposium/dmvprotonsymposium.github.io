@@ -4,8 +4,15 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Every 30 minutes
     - cron: "19,49 * * * *"
+
+  workflow_run:
+    workflows:
+      - Update Proton Therapy News
+    types:
+      - completed
+    branches:
+      - main
 
 permissions:
   contents: read
@@ -16,6 +23,9 @@ concurrency:
 
 jobs:
   send-welcome:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
 
     steps:
