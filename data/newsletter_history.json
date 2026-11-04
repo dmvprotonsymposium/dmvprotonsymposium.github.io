@@ -1,4 +1,186 @@
 {
-  "active_draft_id": null,
-  "articles": []
+  "active_draft_id": "em_5n5f8k070p89avwhwzr1qbmrj5",
+  "articles": [
+    {
+      "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
+      "summary": "This study introduces HQ-PatchNet, a computationally efficient method for daily CBCT-guided online adaptive radiotherapy. The approach improves CBCT-to-synthetic CT image quality, supporting future clinical utility in adaptive treatment workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973126",
+      "content_type": "paper"
+    },
+    {
+      "title": "Fully automated AI-based quantification of tumour volume on PSMA PET-CT images is associated with overall survival",
+      "summary": "This study investigates the prognostic value of fully automated AI-based tumor volume quantification from PSMA PET-CT imaging in prostate cancer. Results suggest that automated TLV correlates with overall survival, supporting its potential as a clinical biomarker.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973055/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42973055",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting",
+      "summary": "Researchers developed a new medical conformity index (MCI) that improves radiotherapy plan evaluation by integrating geometric conformity with spatial and target volume factors. The index offers a more refined metric for assessing dose distribution quality.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975974/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42975974",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparative Analysis of Arc Geometrical Configurations and Jaw Tracking for Peripheral Low-Dose Bath in Whole Breast VMAT",
+      "summary": "This study compares how different arc geometries and jaw tracking techniques influence the peripheral low-dose bath during whole-breast volumetric modulated arc therapy. The research highlights strategies to minimize radiation exposure to organs at risk.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975951/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42975951",
+      "content_type": "paper"
+    },
+    {
+      "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis of Automatically Segmented Tumors for Predicting PD-L1 Expression in Hepatocellular Carcinoma",
+      "summary": "This study explores the use of 3D fractal analysis on preoperative CT imaging to non-invasively predict PD-L1 expression in hepatocellular carcinoma. Such imaging biomarkers may help characterize tumor heterogeneity and guide immunotherapy decisions.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42969475",
+      "content_type": "paper"
+    },
+    {
+      "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
+      "summary": "This study evaluated how CT extended field-of-view (eFOV) impacts image quality and stopping power ratio accuracy for proton therapy dose calculation. The results provide insights for physicists utilizing eFOV in clinical practice.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970220",
+      "content_type": "paper"
+    },
+    {
+      "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
+      "summary": "This prospective trial analyzed toxicity outcomes for high-dose thoracic reirradiation of recurrent lung cancer. The findings indicate that radical reirradiation is feasible when cumulative organ-at-risk dose constraints are respected.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971440/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42971440",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pre-treatment machine learning prediction of local failure and time to local failure after Gamma Knife radiosurgery for radioresistant brain metastases",
+      "summary": "This research utilizes machine learning to predict local treatment failure in radioresistant brain metastases following radiosurgery. The model offers potential for improved patient risk stratification and customized follow-up strategies.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970176",
+      "content_type": "paper"
+    },
+    {
+      "title": "Topical Esomeprazole for the Prevention and Treatment of Radiation Dermatitis: Protocol for a Phase 2 Randomized Controlled Trial",
+      "summary": "This article outlines a phase 2 clinical trial protocol evaluating the efficacy of topical esomeprazole in managing radiation-induced dermatitis. The study aims to determine if this intervention can reduce treatment-related morbidity.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970785/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970785",
+      "content_type": "paper"
+    },
+    {
+      "title": "Real world clinical outcomes of deep learning based versus manual proton therapy planning for oropharyngeal cancer",
+      "summary": "This matched cohort study found no significant difference in oncological outcomes or side effects between deep learning-based intensity-modulated proton therapy (IMPT) and manual planning for oropharyngeal cancer. The findings support the clinical implementation of DL-based planning for these patients.",
+      "category": "AI & Imaging",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967539",
+      "content_type": "paper"
+    },
+    {
+      "title": "Gaussian process regression of HDR prostate biopsy dose for improved modelling of localization-induced uncertainty",
+      "summary": "Researchers developed a Gaussian process regression framework to better account for localization-induced uncertainty in HDR prostate brachytherapy. This approach provides a spatially correlated model that offers a more robust basis for quality assurance and future dose-response analysis compared to voxelwise methods.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968298/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42968298",
+      "content_type": "paper"
+    },
+    {
+      "title": "Treatment plan quality comparison between ZAP-Axon( ) Krylov optimizer and Leksell Gamma Knife( ) Lightning optimizer for brain metastasis",
+      "summary": "This study compared the performance of two clinical optimizers for brain metastasis treatment planning. Findings suggest that while both are effective for large lesions, the Krylov optimizer demonstrates superior performance for small brain metastasis lesions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967581/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42967581",
+      "content_type": "paper"
+    },
+    {
+      "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
+      "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
+      "category": "Radiation Oncology",
+      "source": "ASTRO News",
+      "published_date": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQYWxaLTRZVHRIUFJnYXhnUEptU2lBMHlKRDRhZ09KWEdTdUJDRVpJODk3ZXpfUGJnRDdmRXR6YVBQQjJwbmdPWUg1SzZOMDVCUElqWHZ4Ul9sTXhBRGtTOGhvV0JSQnJwRTMwZ0FxcjhPcGZETDZJUUY0TlF4MFVZQWt5dUNCTTZZQVhFMU9wQTVld2pDTUs0NFdXNkhfWkJhdUZjZU4wZWR5aUh0cGx4akNCZzRTZXllZ1hsT1c0NmViaUl1RUxmTXEwT1NtUW85ZkxlcnhlNnQ1N1VOMk1ZSHdudzI2WTFKWDRLZXk1SmJiaFluNmRnOWJrUmlrbDVGc01DemJKbF9kR281VktVeGVLYmIybnFxT2dYcmRNd3hseDNDNzJwMjZLVWVmX3hLb1ZjZUZqUjJwdHB4a2c?oc=5",
+      "id": "news.google.com/rss/articles/CBMivgJBVV95cUxQYWxaLTRZVHRIUFJnYXhnUEptU2lBMHlKRDRhZ09KWEdTdUJDRVpJODk3ZXpfUGJnRDdmRXR6YVBQQjJwbmdPWUg1SzZOMDVCUElqWHZ4Ul9sTXhBRGtTOGhvV0JSQnJwRTMwZ0F",
+      "content_type": "news"
+    },
+    {
+      "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
+      "summary": "ASTRO has released updated clinical guidelines regarding the implementation of shorter-course radiation therapy regimens for patients with localized prostate cancer. These updates aim to standardize best practices for hypofractionated treatment protocols in clinical settings.",
+      "category": "Radiation Oncology",
+      "source": "ASTRO News",
+      "published_date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVllpc20wUkRhampGTlFsV00wY2RKUVJiRU5IME9PNE5xSDRFUncyd1hDaDJQelRQT0ZWLVoxdXVUUWkyblBQR19TM2RJRS1nOVBTTzZpVTVtMW9yS043SGVyQUdkT3RzRTU3UWxYemtCRkthclNXRzBiR0dWcWxkSEQycXJnVVIydEtwS1NUMFgzRHNjZmZqbUhka3c5UDFYOW1fWnV1em0yTm5QZVZZVkM5RWRkcEcxY21XbUF0bWNBOWIxcGkydkFUbUx3cXlLRU4yakl3MHlkZXdxa280Z05MM0k0ZHhZb0NxWlBKRUVMUkFwc3VwQUdkdmJXOVBxZG9ibg?oc=5",
+      "id": "news.google.com/rss/articles/CBMihAJBVV95cUxOVllpc20wUkRhampGTlFsV00wY2RKUVJiRU5IME9PNE5xSDRFUncyd1hDaDJQelRQT0ZWLVoxdXVUUWkyblBQR19TM2RJRS1nOVBTTzZpVTVtMW9yS043SGVyQUdkT3RzRTU3UWx",
+      "content_type": "news"
+    },
+    {
+      "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
+      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, evaluating their innovative ConformalFLASH proton therapy technology for head and neck cancer. This milestone marks a significant step in assessing the potential of ultra-high dose rate radiation in clinical practice.",
+      "category": "Proton Therapy",
+      "source": "DOTmed",
+      "published_date": "2026-10-26",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
+      "id": "news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
+      "content_type": "news"
+    },
+    {
+      "title": "Hampton University Proton Cancer Institute opens new wellness space",
+      "summary": "The Hampton University Proton Cancer Institute has inaugurated a new wellness facility dedicated to supporting patients and their caregivers. This regional development enhances the supportive care infrastructure at this key proton therapy center in the DMV area.",
+      "category": "Regional",
+      "source": "WTKR",
+      "published_date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJrajVNRXRvcWZpdEVuS0ZCa0RjNGx3MGFCaXJpazhnbWZPdGF3WUpmUUdDS1pOQjNodVFKek1qX08yVFdSVjJaSE1tUTliWDU1YzhMZUE1ejBuYkF1NGdFcXRXNDBkMFFvYk1mWWgxZW1lSFJldXhULWdB?oc=5",
+      "id": "news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJ",
+      "content_type": "news"
+    },
+    {
+      "title": "BayCare opens proton therapy center at Tampa's St. Joseph’s Hospital",
+      "summary": "BayCare has officially opened a new $33 million proton therapy center at St. Joseph’s Hospital in Tampa. The facility expands regional access to precise radiation therapy for patients in the area.",
+      "category": "Proton Therapy",
+      "source": "Proton Center Developments",
+      "published_date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZOaDF5VWlNVmRGV2lhV2o0c1RlaGdJTlpnLVp5UkZKMV9sbkw5V3U1RDg3QmxjS2ppMEcxYmZhTU1oZnRTQU0yQV9oV0Jpbw?oc=5",
+      "id": "news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZ",
+      "content_type": "news"
+    },
+    {
+      "title": "Medicare change could cost standalone proton therapy centers millions",
+      "summary": "Proposed Medicare pricing changes threaten the financial viability of standalone proton therapy centers, potentially reducing revenue by nearly 30% compared to hospital-based facilities. Industry advocates warn that this policy could limit patient access and hinder future development of proton therapy infrastructure.",
+      "category": "Proton Therapy",
+      "source": "NAPT News",
+      "published_date": "2026-10-09",
+      "url": "https://proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-therapy-centers-millions",
+      "id": "proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-th",
+      "content_type": "news"
+    }
+  ],
+  "sent_article_urls": []
 }
