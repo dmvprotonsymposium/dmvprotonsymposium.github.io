@@ -1,12 +1,9 @@
-"""Create and continuously update a Buttondown welcome draft.
+"""Create and maintain Buttondown newsletter drafts.
 
-The welcome draft always contains the current articles in
-data/news.json, rather than accumulating historical articles.
-
-If the previously tracked welcome email has been sent,
-a fresh draft is created for future use.
-
-This script NEVER sends emails.
+- Update the current draft when new articles arrive.
+- Archive article URLs when a newsletter has been sent.
+- Start a new draft using only previously unsent articles.
+- Never send emails automatically.
 """
 
 import json
@@ -15,7 +12,7 @@ import re
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 
-# Fix SSL certificate issues on Windows/Miniconda.
+# Windows/Miniconda SSL certificate support.
 if os.name == "nt":
     try:
         import truststore
@@ -29,11 +26,9 @@ import requests
 ROOT = Path(__file__).resolve().parents[1]
 
 NEWS_FILE = ROOT / "data" / "news.json"
-STATE_FILE = ROOT / "data" / "welcome_draft.json"
+HISTORY_FILE = ROOT / "data" / "newsletter_history.json"
 
 API_URL = "https://api.buttondown.com/v1/emails"
-
-SUBJECT = "Welcome to DMV Proton Therapy Collaborative"
 
 
 # -----------------------------------------------------
@@ -41,7 +36,7 @@ SUBJECT = "Welcome to DMV Proton Therapy Collaborative"
 # -----------------------------------------------------
 
 def canonical_url(url):
-    """Normalize article URLs for deduplication."""
+    """Normalize URLs for deduplication."""
 
     parsed = urlsplit(str(url or "").strip())
 
@@ -53,6 +48,7 @@ def canonical_url(url):
 
     hostname = parsed.hostname.lower()
 
+    # Remove tracking parameters from PubMed URLs.
     if hostname in {
         "pubmed.ncbi.nlm.nih.gov",
         "www.pubmed.ncbi.nlm.nih.gov",
@@ -75,36 +71,43 @@ def canonical_url(url):
 
 
 # -----------------------------------------------------
-# STATE MANAGEMENT
+# HISTORY
 # -----------------------------------------------------
 
-def load_state():
-    """Read the ID of the currently tracked welcome draft."""
+def load_history():
+    """Load newsletter state."""
 
-    if not STATE_FILE.exists():
-        return {"draft_id": None}
+    if not HISTORY_FILE.exists():
+        return {
+            "active_draft_id": None,
+            "articles": [],
+            "sent_article_urls": [],
+        }
 
-    state = json.loads(
-        STATE_FILE.read_text(encoding="utf-8")
+    history = json.loads(
+        HISTORY_FILE.read_text(encoding="utf-8")
     )
 
-    state.setdefault("draft_id", None)
+    history.setdefault("active_draft_id", None)
+    history.setdefault("articles", [])
+    history.setdefault("sent_article_urls", [])
 
-    return state
+    return history
 
 
-def save_state(draft_id):
-    """Save the current welcome draft ID."""
+def save_history(history):
+    """Save newsletter state for subsequent runs."""
 
-    STATE_FILE.parent.mkdir(
+    HISTORY_FILE.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    STATE_FILE.write_text(
+    HISTORY_FILE.write_text(
         json.dumps(
-            {"draft_id": draft_id},
+            history,
             indent=2,
+            ensure_ascii=False,
         ) + "\n",
         encoding="utf-8",
     )
@@ -114,12 +117,22 @@ def save_state(draft_id):
 # ARTICLE COLLECTION
 # -----------------------------------------------------
 
-def collect_articles(feed):
-    """Collect all valid, distinct articles in news.json."""
+def collect_articles(history, feed):
+    """Collect distinct articles excluding previously sent ones."""
+
+    sent_urls = {
+        canonical_url(url)
+        for url in history["sent_article_urls"]
+    }
 
     articles = {}
 
-    for item in feed.get("articles", []):
+    candidates = (
+        history["articles"]
+        + feed.get("articles", [])
+    )
+
+    for item in candidates:
 
         if not isinstance(item, dict):
             continue
@@ -129,10 +142,10 @@ def collect_articles(feed):
         if not url:
             continue
 
-        if not item.get("title"):
+        if url in sent_urls:
             continue
 
-        if not item.get("summary"):
+        if not item.get("title") or not item.get("summary"):
             continue
 
         if url in articles:
@@ -160,23 +173,16 @@ def collect_articles(feed):
 
 
 # -----------------------------------------------------
-# WELCOME EMAIL FORMATTING
+# NEWSLETTER FORMATTING
 # -----------------------------------------------------
 
 def make_body(articles):
-    """Generate the complete welcome email in Markdown."""
+    """Generate a clean, structured Markdown newsletter."""
 
     lines = [
-        "Welcome to the DMV Proton Therapy Collaborative!",
-        "",
-        "Thank you for subscribing.",
-        "",
-        "Our newsletter brings together developments in "
-        "proton therapy, radiation oncology, medical physics, "
+        "Your curated digest of proton therapy, "
+        "radiation oncology, medical physics, "
         "and related research.",
-        "",
-        "Below is our current collection of news and "
-        "recently published research.",
         "",
         "---",
         "",
@@ -189,11 +195,10 @@ def make_body(articles):
 
         stories = sorted(
             (
-                article
-                for article in articles
-                if article["content_type"] == kind
+                a for a in articles
+                if a["content_type"] == kind
             ),
-            key=lambda article: article.get(
+            key=lambda a: a.get(
                 "published_date", ""
             ),
             reverse=True,
@@ -213,45 +218,28 @@ def make_body(articles):
                 str(story["title"]).split()
             )
 
-            source = str(
-                story.get("source") or ""
-            ).strip()
-
-            date = str(
-                story.get("published_date") or ""
-            ).strip()
-
-            metadata = " | ".join(
-                value
-                for value in (source, date)
-                if value
-            )
+            source = story.get("source", "")
+            date = story.get("published_date", "")
 
             lines.extend([
                 f"### {title}",
                 "",
-            ])
-
-            if metadata:
-                lines.extend([
-                    f"*{metadata}*",
-                    "",
-                ])
-
-            lines.extend([
+                f"*{source} | {date}*",
+                "",
                 str(story["summary"]).strip(),
                 "",
-                f"[Read original article]({story['url']})",
+                (
+                    "[Read original article]"
+                    f"({story['url']})"
+                ),
                 "",
                 "---",
                 "",
             ])
 
     lines.extend([
-        "For the latest updates, visit our "
+        "Explore the latest updates on our "
         "[news page](https://dmv-proton.org/news.html).",
-        "",
-        "Thank you for being part of our community.",
         "",
         "DMV Proton Therapy Collaborative",
     ])
@@ -263,7 +251,7 @@ def make_body(articles):
 
 
 # -----------------------------------------------------
-# BUTTONDOWN API
+# BUTTONDOWN
 # -----------------------------------------------------
 
 def get_email(session, email_id):
@@ -279,13 +267,29 @@ def get_email(session, email_id):
     return response.json()
 
 
+def update_draft(session, draft_id, body):
+    """Update an existing draft."""
+
+    response = session.patch(
+        f"{API_URL}/{draft_id}",
+        json={"body": body},
+        timeout=30,
+    )
+
+    response.raise_for_status()
+
+    print("Updated existing draft:", draft_id)
+
+
 def create_draft(session, body):
-    """Create a new welcome draft without sending it."""
+    """Create a draft without sending it."""
 
     response = session.post(
         API_URL,
         json={
-            "subject": SUBJECT,
+            "subject": (
+                "Proton Therapy News & Research Digest"
+            ),
             "body": body,
             "status": "draft",
         },
@@ -301,25 +305,9 @@ def create_draft(session, body):
             "Buttondown did not return a draft ID."
         )
 
-    print("Created welcome draft:", draft_id)
+    print("Created new draft:", draft_id)
 
     return draft_id
-
-
-def update_draft(session, draft_id, body):
-    """Replace the body of an existing welcome draft."""
-
-    response = session.patch(
-        f"{API_URL}/{draft_id}",
-        json={
-            "body": body,
-        },
-        timeout=30,
-    )
-
-    response.raise_for_status()
-
-    print("Updated welcome draft:", draft_id)
 
 
 # -----------------------------------------------------
@@ -332,38 +320,14 @@ def main():
 
     if not api_key:
         raise RuntimeError(
-            "BUTTONDOWN_API_KEY is missing."
-        )
-
-    if not NEWS_FILE.exists():
-        raise FileNotFoundError(
-            f"News feed not found: {NEWS_FILE}"
+            "BUTTONDOWN_API_KEY is missing"
         )
 
     feed = json.loads(
         NEWS_FILE.read_text(encoding="utf-8")
     )
 
-    articles = collect_articles(feed)
-
-    print(
-        f"Found {len(articles)} distinct articles "
-        "in news.json."
-    )
-
-    # Do not replace an existing welcome email
-    # with empty content.
-    if not articles:
-        print(
-            "No valid articles found. "
-            "Leaving the welcome draft unchanged."
-        )
-        return
-
-    body = make_body(articles)
-
-    state = load_state()
-    draft_id = state.get("draft_id")
+    history = load_history()
 
     session = requests.Session()
 
@@ -372,74 +336,133 @@ def main():
         "Content-Type": "application/json",
     })
 
+    draft_id = history["active_draft_id"]
+
     # -------------------------------------------------
-    # CHECK EXISTING WELCOME EMAIL
+    # CHECK EXISTING EMAIL STATUS
     # -------------------------------------------------
 
     if draft_id:
 
-        existing = get_email(
-            session,
-            draft_id,
-        )
+        email = get_email(session, draft_id)
 
-        status = existing.get("status")
+        status = email.get("status")
 
-        print("Tracked welcome email:", draft_id)
+        print("Existing email:", draft_id)
         print("Buttondown status:", status)
 
-        if status == "draft":
-
-            if existing.get("body") == body:
-                print(
-                    "Welcome draft is already up to date."
-                )
-
-            else:
-                update_draft(
-                    session,
-                    draft_id,
-                    body,
-                )
-
-            # Keep tracking the same draft.
-            save_state(draft_id)
-
-        elif status == "sent":
+        if status == "sent":
 
             print(
-                "Previous welcome email was sent. "
-                "Creating a new draft."
+                "Previous newsletter has been sent. "
+                "Archiving its articles."
             )
 
-            new_draft_id = create_draft(
-                session,
-                body,
+            sent_urls = set(
+                history["sent_article_urls"]
             )
 
-            save_state(new_draft_id)
+            for article in history["articles"]:
+
+                url = canonical_url(
+                    article.get("url")
+                )
+
+                if url:
+                    sent_urls.add(url)
+
+            history["sent_article_urls"] = sorted(
+                sent_urls
+            )
+
+            history["articles"] = []
+            history["active_draft_id"] = None
+
+            # Save immediately to record the sent issue.
+            save_history(history)
+
+            draft_id = None
+
+        elif status != "draft":
+
+            raise RuntimeError(
+                f"Email {draft_id} has status "
+                f"{status!r}. No changes made."
+            )
+
+    # -------------------------------------------------
+    # COLLECT UNSENT ARTICLES
+    # -------------------------------------------------
+
+    articles = collect_articles(
+        history,
+        feed,
+    )
+
+    if not articles:
+
+        print(
+            "No unsent articles available. "
+            "No draft created."
+        )
+
+        save_history(history)
+
+        return
+
+    body = make_body(articles)
+
+    # -------------------------------------------------
+    # CREATE OR UPDATE DRAFT
+    # -------------------------------------------------
+
+    if draft_id:
+
+        email = get_email(session, draft_id)
+
+        if email.get("status") != "draft":
+            raise RuntimeError(
+                "Email status changed during update. "
+                "No changes made."
+            )
+
+        if email.get("body") == body:
+
+            print(
+                "Draft is already up to date."
+            )
 
         else:
 
-            raise RuntimeError(
-                f"Welcome email {draft_id} has "
-                f"status {status!r}. "
-                "No changes made."
+            update_draft(
+                session,
+                draft_id,
+                body,
             )
 
     else:
 
-        # No previously tracked welcome draft.
         draft_id = create_draft(
             session,
             body,
         )
 
-        save_state(draft_id)
+    # -------------------------------------------------
+    # SAVE CURRENT STATE
+    # -------------------------------------------------
+
+    history["active_draft_id"] = draft_id
+    history["articles"] = articles
+
+    save_history(history)
 
     print(
-        "Welcome draft contains "
-        f"{len(articles)} articles."
+        f"Stored {len(articles)} unsent articles."
+    )
+
+    print(
+        f"Previously sent articles: "
+        f"{len(history['sent_article_urls'])}"
     )
 
     print("No emails were sent automatically.")
