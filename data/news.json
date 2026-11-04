@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04T00:04:27.825403+00:00",
+  "updated_at": "2026-11-04T06:40:02.591005+00:00",
   "articles": [
     {
-      "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
-      "summary": "This study introduces HQ-PatchNet, a computationally efficient method for daily CBCT-guided online adaptive radiotherapy. The approach improves CBCT-to-synthetic CT image quality, supporting future clinical utility in adaptive treatment workflows.",
+      "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy: A proof-of-concept study",
+      "summary": "This study explores the use of a reliability-weighted patch learning network (HQ-PatchNet) to improve synthetic CT quality from daily CBCT scans. The approach demonstrates potential for enhancing image quality in online adaptive radiotherapy workflows.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-03",
@@ -22,8 +22,8 @@
       "content_type": "paper"
     },
     {
-      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting",
-      "summary": "Researchers developed a new medical conformity index (MCI) that improves radiotherapy plan evaluation by integrating geometric conformity with spatial and target volume factors. The index offers a more refined metric for assessing dose distribution quality.",
+      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
+      "summary": "This study introduces a novel Medical Conformity Index (MCI) designed to enhance radiotherapy plan evaluation by integrating geometric conformity with clinical considerations. The researchers propose that this index offers a more comprehensive assessment of dose deviations than traditional methods.",
       "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-03",
@@ -42,6 +42,16 @@
       "content_type": "paper"
     },
     {
+      "title": "BeamGAN: a physics-informed conditional generative adversarial network for Monte-Carlo-free portal dose image prediction from incident fluence maps",
+      "summary": "Researchers developed BeamGAN, a physics-informed deep learning framework capable of predicting portal dose images directly from treatment planning system fluence maps. This tool aims to facilitate real-time patient-specific quality assurance without the need for intensive Monte Carlo simulations.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976457/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42976457",
+      "content_type": "paper"
+    },
+    {
       "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis of Automatically Segmented Tumors for Predicting PD-L1 Expression in Hepatocellular Carcinoma",
       "summary": "This study explores the use of 3D fractal analysis on preoperative CT imaging to non-invasively predict PD-L1 expression in hepatocellular carcinoma. Such imaging biomarkers may help characterize tumor heterogeneity and guide immunotherapy decisions.",
       "category": "AI & Imaging",
@@ -53,7 +63,7 @@
     },
     {
       "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
-      "summary": "This study evaluated how CT extended field-of-view (eFOV) impacts image quality and stopping power ratio accuracy for proton therapy dose calculation. The results provide insights for physicists utilizing eFOV in clinical practice.",
+      "summary": "This research evaluates the dosimetric impact of using an extended field-of-view (eFOV) in CT simulation for proton therapy. The study analyzes how eFOV reconstruction affects Hounsfield unit-to-stopping power ratio curves and overall proton dose calculation accuracy.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-02",
@@ -63,7 +73,7 @@
     },
     {
       "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
-      "summary": "This prospective trial analyzed toxicity outcomes for high-dose thoracic reirradiation of recurrent lung cancer. The findings indicate that radical reirradiation is feasible when cumulative organ-at-risk dose constraints are respected.",
+      "summary": "This prospective trial assessed the feasibility and safety of thoracic reirradiation for recurrent lung cancer. The analysis provides key data on radiation pneumonitis and toxicity risks associated with high cumulative doses to organs at risk.",
       "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-02",
@@ -73,7 +83,7 @@
     },
     {
       "title": "Pre-treatment machine learning prediction of local failure and time to local failure after Gamma Knife radiosurgery for radioresistant brain metastases",
-      "summary": "This research utilizes machine learning to predict local treatment failure in radioresistant brain metastases following radiosurgery. The model offers potential for improved patient risk stratification and customized follow-up strategies.",
+      "summary": "This study demonstrates the utility of a pre-treatment machine learning model for predicting local failure following radiosurgery for radioresistant brain metastases. The findings suggest potential for improved individualized risk stratification and post-treatment clinical follow-up.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-02",
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Treatment plan quality comparison between ZAP-Axon( ) Krylov optimizer and Leksell Gamma Knife( ) Lightning optimizer for brain metastasis",
-      "summary": "This study compared the performance of two clinical optimizers for brain metastasis treatment planning. Findings suggest that while both are effective for large lesions, the Krylov optimizer demonstrates superior performance for small brain metastasis lesions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967581/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967581",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -143,9 +143,9 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, evaluating their innovative ConformalFLASH proton therapy technology for head and neck cancer. This milestone marks a significant step in assessing the potential of ultra-high dose rate radiation in clinical practice.",
-      "category": "Proton Therapy",
-      "source": "DOTmed",
+      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, evaluating the safety and efficacy of ConformalFLASH proton therapy. This trial marks a significant milestone in testing ultra-high dose rate radiation delivery for head and neck cancer patients.",
+      "category": "Research",
+      "source": "Proton Center Developments",
       "published_date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
       "id": "news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
@@ -163,7 +163,7 @@
     },
     {
       "title": "BayCare opens proton therapy center at Tampa's St. Joseph’s Hospital",
-      "summary": "BayCare has officially opened a new $33 million proton therapy center at St. Joseph’s Hospital in Tampa. The facility expands regional access to precise radiation therapy for patients in the area.",
+      "summary": "BayCare Health System has officially opened a new $33 million proton therapy center at St. Joseph's Hospital in Tampa. The facility expands regional access to advanced radiation technology in the area.",
       "category": "Proton Therapy",
       "source": "Proton Center Developments",
       "published_date": "2026-10-16",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "Proposed Medicare pricing changes threaten the financial viability of standalone proton therapy centers, potentially reducing revenue by nearly 30% compared to hospital-based facilities. Industry advocates warn that this policy could limit patient access and hinder future development of proton therapy infrastructure.",
+      "summary": "A proposed Medicare pricing change threatens the financial stability of standalone proton therapy centers by potentially reducing reimbursements by nearly 30% in 2027 compared to hospital-based departments. Industry leaders warn that this adjustment could hinder research and limit patient access to specialized cancer treatments.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
