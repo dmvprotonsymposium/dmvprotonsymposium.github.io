@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:53:51.327851+00:00",
+  "updated_at": "2026-11-04T00:04:27.825403+00:00",
   "articles": [
     {
       "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy",
@@ -13,7 +13,7 @@
     },
     {
       "title": "Fully automated AI-based quantification of tumour volume on PSMA PET-CT images is associated with overall survival",
-      "summary": "Researchers demonstrated that fully automated AI-derived total lesion volume from PSMA PET-CT imaging is associated with overall survival in prostate cancer patients. The findings support the potential for AI-based tumor quantification as a prognostic biomarker in clinical practice.",
+      "summary": "This study investigates the prognostic value of fully automated AI-based tumor volume quantification from PSMA PET-CT imaging in prostate cancer. Results suggest that automated TLV correlates with overall survival, supporting its potential as a clinical biomarker.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-03",
@@ -22,8 +22,8 @@
       "content_type": "paper"
     },
     {
-      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
-      "summary": "This study introduces a new medical conformity index that improves upon traditional geometric metrics by incorporating clinical considerations and spatial distance. The proposed index provides a more robust method for evaluating the quality of radiotherapy treatment plans.",
+      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting",
+      "summary": "Researchers developed a new medical conformity index (MCI) that improves radiotherapy plan evaluation by integrating geometric conformity with spatial and target volume factors. The index offers a more refined metric for assessing dose distribution quality.",
       "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-03",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Comparative Analysis of Arc Geometrical Configurations and Jaw Tracking for Peripheral Low-Dose Bath in Whole Breast VMAT",
-      "summary": "This research investigates how different arc geometries and jaw tracking techniques affect the low-dose radiation bath in volumetric modulated arc therapy for breast cancer. The findings provide practical insights for minimizing radiation exposure to surrounding healthy tissues.",
+      "summary": "This study compares how different arc geometries and jaw tracking techniques influence the peripheral low-dose bath during whole-breast volumetric modulated arc therapy. The research highlights strategies to minimize radiation exposure to organs at risk.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-03",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
-      "summary": "This study evaluates the impact of using extended fields-of-view during CT simulation on image quality and proton stopping power ratio accuracy. The analysis is essential for ensuring precise dose calculations when scanning large anatomy or immobilization devices.",
+      "summary": "This study evaluated how CT extended field-of-view (eFOV) impacts image quality and stopping power ratio accuracy for proton therapy dose calculation. The results provide insights for physicists utilizing eFOV in clinical practice.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-02",
@@ -63,7 +63,7 @@
     },
     {
       "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
-      "summary": "This prospective trial demonstrates the feasibility of high-dose reirradiation for recurrent lung cancer while managing cumulative doses to organs at risk. Toxicity analysis showed no severe esophageal or spinal cord complications, supporting the clinical safety of this approach.",
+      "summary": "This prospective trial analyzed toxicity outcomes for high-dose thoracic reirradiation of recurrent lung cancer. The findings indicate that radical reirradiation is feasible when cumulative organ-at-risk dose constraints are respected.",
       "category": "Radiation Oncology",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-02",
@@ -79,6 +79,16 @@
       "published_date": "2026-11-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/",
       "id": "pubmed.ncbi.nlm.nih.gov/42970176",
+      "content_type": "paper"
+    },
+    {
+      "title": "Topical Esomeprazole for the Prevention and Treatment of Radiation Dermatitis: Protocol for a Phase 2 Randomized Controlled Trial",
+      "summary": "This article outlines a phase 2 clinical trial protocol evaluating the efficacy of topical esomeprazole in managing radiation-induced dermatitis. The study aims to determine if this intervention can reduce treatment-related morbidity.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970785/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42970785",
       "content_type": "paper"
     },
     {
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Mapping the evolution of spatially fractionated radiation therapy: A comprehensive bibliometric analysis",
-      "summary": "This bibliometric analysis examines the convergence of various spatially fractionated radiation therapy (SFRT) modalities into a unified research domain. It highlights the need for standardized clinical protocols and integration with emerging technologies like FLASH radiotherapy.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967406/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967406",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -143,7 +143,7 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, which investigates the use of ConformalFLASH proton therapy for head and neck cancer. This trial marks a significant milestone in evaluating the clinical application of high-dose-rate FLASH radiotherapy technology.",
+      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, evaluating their innovative ConformalFLASH proton therapy technology for head and neck cancer. This milestone marks a significant step in assessing the potential of ultra-high dose rate radiation in clinical practice.",
       "category": "Proton Therapy",
       "source": "DOTmed",
       "published_date": "2026-10-26",
@@ -152,8 +152,8 @@
       "content_type": "news"
     },
     {
-      "title": "Hampton University Proton Cancer Institute opens new wellness space for patients and caregivers",
-      "summary": "The Hampton University Proton Cancer Institute has expanded its clinical facilities by opening a new wellness space dedicated to supporting patients and their caregivers during treatment. This development aims to enhance the patient experience at the regional proton therapy center.",
+      "title": "Hampton University Proton Cancer Institute opens new wellness space",
+      "summary": "The Hampton University Proton Cancer Institute has inaugurated a new wellness facility dedicated to supporting patients and their caregivers. This regional development enhances the supportive care infrastructure at this key proton therapy center in the DMV area.",
       "category": "Regional",
       "source": "WTKR",
       "published_date": "2026-10-21",
