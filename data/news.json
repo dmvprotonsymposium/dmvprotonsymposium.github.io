@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-04T06:40:02.591005+00:00",
+  "updated_at": "2026-11-04T19:52:44.325294+00:00",
   "articles": [
+    {
+      "title": "Clinical outcomes and quality of life after proton therapy for cranial and extracranial solitary fibrous tumors",
+      "summary": "This study evaluated the efficacy and safety of proton therapy for treating cranial and extracranial solitary fibrous tumors. Preliminary results indicate promising overall survival and local control rates, although late toxicities near the central nervous system warrant clinical vigilance.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979562/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42979562",
+      "content_type": "paper"
+    },
+    {
+      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning",
+      "summary": "Researchers implemented a unified platform for independent verification of physical and RBE-weighted doses in ion beam therapy. The study highlights the need for continued multicase validation to ensure robust clinical implementation of this second-check workflow.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978625/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978625",
+      "content_type": "paper"
+    },
+    {
+      "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation",
+      "summary": "This review examines deep learning approaches for generating synthetic CT images from cone-beam CT to facilitate adaptive radiotherapy. It assesses the current limitations in image accuracy and reliability for patient-specific dosimetry in both photon and proton therapy environments.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978963/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978963",
+      "content_type": "paper"
+    },
+    {
+      "title": "Development of a phantom-based end-to-end QA workflow for online adaptive radiotherapy incorporating high-resolution 2D detector measurements",
+      "summary": "This study introduces a feasible end-to-end quality assurance workflow for Ethos online adaptive radiotherapy platforms. The method utilizes high-resolution 2D measurements to effectively identify plan-specific deviations during the adaptation process.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978086/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978086",
+      "content_type": "paper"
+    },
     {
       "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy: A proof-of-concept study",
       "summary": "This study explores the use of a reliability-weighted patch learning network (HQ-PatchNet) to improve synthetic CT quality from daily CBCT scans. The approach demonstrates potential for enhancing image quality in online adaptive radiotherapy workflows.",
@@ -43,7 +83,7 @@
     },
     {
       "title": "BeamGAN: a physics-informed conditional generative adversarial network for Monte-Carlo-free portal dose image prediction from incident fluence maps",
-      "summary": "Researchers developed BeamGAN, a physics-informed deep learning framework capable of predicting portal dose images directly from treatment planning system fluence maps. This tool aims to facilitate real-time patient-specific quality assurance without the need for intensive Monte Carlo simulations.",
+      "summary": "Researchers developed BeamGAN, a deep learning framework designed to predict portal dose images directly from incident fluence maps. This approach aims to enable real-time patient-specific quality assurance by bypassing time-intensive Monte Carlo simulations.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-03",
@@ -82,46 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Pre-treatment machine learning prediction of local failure and time to local failure after Gamma Knife radiosurgery for radioresistant brain metastases",
-      "summary": "This study demonstrates the utility of a pre-treatment machine learning model for predicting local failure following radiosurgery for radioresistant brain metastases. The findings suggest potential for improved individualized risk stratification and post-treatment clinical follow-up.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970176/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42970176",
-      "content_type": "paper"
-    },
-    {
-      "title": "Topical Esomeprazole for the Prevention and Treatment of Radiation Dermatitis: Protocol for a Phase 2 Randomized Controlled Trial",
-      "summary": "This article outlines a phase 2 clinical trial protocol evaluating the efficacy of topical esomeprazole in managing radiation-induced dermatitis. The study aims to determine if this intervention can reduce treatment-related morbidity.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970785/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42970785",
-      "content_type": "paper"
-    },
-    {
-      "title": "Real world clinical outcomes of deep learning based versus manual proton therapy planning for oropharyngeal cancer",
-      "summary": "This matched cohort study found no significant difference in oncological outcomes or side effects between deep learning-based intensity-modulated proton therapy (IMPT) and manual planning for oropharyngeal cancer. The findings support the clinical implementation of DL-based planning for these patients.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967539/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42967539",
-      "content_type": "paper"
-    },
-    {
-      "title": "Gaussian process regression of HDR prostate biopsy dose for improved modelling of localization-induced uncertainty",
-      "summary": "Researchers developed a Gaussian process regression framework to better account for localization-induced uncertainty in HDR prostate brachytherapy. This approach provides a spatially correlated model that offers a more robust basis for quality assurance and future dose-response analysis compared to voxelwise methods.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968298/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42968298",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -133,7 +133,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "ASTRO has released updated clinical guidelines regarding the implementation of shorter-course radiation therapy regimens for patients with localized prostate cancer. These updates aim to standardize best practices for hypofractionated treatment protocols in clinical settings.",
+      "summary": "ASTRO has released updated clinical guidelines recommending shorter-course radiation therapy for patients with localized prostate cancer. The update reflects evolving clinical standards aimed at optimizing patient outcomes and treatment efficiency.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change threatens the financial stability of standalone proton therapy centers by potentially reducing reimbursements by nearly 30% in 2027 compared to hospital-based departments. Industry leaders warn that this adjustment could hinder research and limit patient access to specialized cancer treatments.",
+      "summary": "Proposed Medicare pricing changes threaten the financial viability of freestanding proton therapy centers, potentially leading to a 30% reduction in reimbursement compared to hospital-based facilities. Industry advocates warn that the proposal could jeopardize access to care and limit future development of community-based proton therapy.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
