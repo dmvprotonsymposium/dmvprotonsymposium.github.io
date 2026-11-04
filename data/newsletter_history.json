@@ -10,6 +10,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976457/",
       "id": "pubmed.ncbi.nlm.nih.gov/42976457",
       "content_type": "paper"
+    },
+    {
+      "title": "Clinical outcomes and quality of life after proton therapy for cranial and extracranial solitary fibrous tumors",
+      "summary": "This study evaluated the efficacy and safety of proton therapy for treating cranial and extracranial solitary fibrous tumors. Preliminary results indicate promising overall survival and local control rates, although late toxicities near the central nervous system warrant clinical vigilance.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979562/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42979562",
+      "content_type": "paper"
+    },
+    {
+      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning",
+      "summary": "Researchers implemented a unified platform for independent verification of physical and RBE-weighted doses in ion beam therapy. The study highlights the need for continued multicase validation to ensure robust clinical implementation of this second-check workflow.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978625/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978625",
+      "content_type": "paper"
+    },
+    {
+      "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation",
+      "summary": "This review examines deep learning approaches for generating synthetic CT images from cone-beam CT to facilitate adaptive radiotherapy. It assesses the current limitations in image accuracy and reliability for patient-specific dosimetry in both photon and proton therapy environments.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978963/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978963",
+      "content_type": "paper"
+    },
+    {
+      "title": "Development of a phantom-based end-to-end QA workflow for online adaptive radiotherapy incorporating high-resolution 2D detector measurements",
+      "summary": "This study introduces a feasible end-to-end quality assurance workflow for Ethos online adaptive radiotherapy platforms. The method utilizes high-resolution 2D measurements to effectively identify plan-specific deviations during the adaptation process.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978086/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978086",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
