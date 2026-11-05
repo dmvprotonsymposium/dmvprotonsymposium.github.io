@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:52:44.325294+00:00",
+  "updated_at": "2026-11-05T06:59:08.844853+00:00",
   "articles": [
     {
       "title": "Clinical outcomes and quality of life after proton therapy for cranial and extracranial solitary fibrous tumors",
@@ -12,8 +12,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning",
-      "summary": "Researchers implemented a unified platform for independent verification of physical and RBE-weighted doses in ion beam therapy. The study highlights the need for continued multicase validation to ensure robust clinical implementation of this second-check workflow.",
+      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning: delivery-aware Monte Carlo and microdosimetric RBE-weighted dose",
+      "summary": "Researchers have implemented a common platform to support independent physical and biological dose verification for ion therapy. The system utilizes delivery-aware Monte Carlo calculations and microdosimetric RBE-weighted assessment to improve treatment safety, though further validation is required before clinical deployment.",
       "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-04",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation",
-      "summary": "This review examines deep learning approaches for generating synthetic CT images from cone-beam CT to facilitate adaptive radiotherapy. It assesses the current limitations in image accuracy and reliability for patient-specific dosimetry in both photon and proton therapy environments.",
+      "summary": "This review evaluates deep learning methods used to generate synthetic CT images from cone-beam CT for adaptive radiotherapy. It focuses on the current state of image accuracy and the clinical reliability required for routine use in both photon and proton treatment workflows.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-04",
@@ -33,12 +33,22 @@
     },
     {
       "title": "Development of a phantom-based end-to-end QA workflow for online adaptive radiotherapy incorporating high-resolution 2D detector measurements",
-      "summary": "This study introduces a feasible end-to-end quality assurance workflow for Ethos online adaptive radiotherapy platforms. The method utilizes high-resolution 2D measurements to effectively identify plan-specific deviations during the adaptation process.",
+      "summary": "A new quality assurance workflow has been developed to verify adaptive dose calculations in real-time. By utilizing high-resolution 2D detectors, the method provides a reproducible and robust approach for assessing plan-specific deviations in adaptive clinical environments.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978086/",
       "id": "pubmed.ncbi.nlm.nih.gov/42978086",
+      "content_type": "paper"
+    },
+    {
+      "title": "Therapeutic Hybrid Intelligence with Neural and Knowledge-based Expert Reasoning for SRS (THINKERS): an AI model for melanoma brain metastases",
+      "summary": "This study introduces an AI-driven framework for patient-specific stereotactic radiosurgery dose comparison. The model demonstrated feasibility as an adjunct for evaluating radiosurgical plans in patients with melanoma brain metastases.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980889/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42980889",
       "content_type": "paper"
     },
     {
@@ -63,8 +73,8 @@
     },
     {
       "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
-      "summary": "This study introduces a novel Medical Conformity Index (MCI) designed to enhance radiotherapy plan evaluation by integrating geometric conformity with clinical considerations. The researchers propose that this index offers a more comprehensive assessment of dose deviations than traditional methods.",
-      "category": "Medical Physics",
+      "summary": "Researchers developed a new Medical Conformity Index (MCI) that accounts for both geometric relationships and clinical dose weighting. This metric aims to provide a more comprehensive assessment of radiotherapy plan quality compared to traditional conformity indices.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975974/",
@@ -112,16 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
-      "summary": "This prospective trial assessed the feasibility and safety of thoracic reirradiation for recurrent lung cancer. The analysis provides key data on radiation pneumonitis and toxicity risks associated with high cumulative doses to organs at risk.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42971440/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42971440",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -163,7 +163,7 @@
     },
     {
       "title": "BayCare opens proton therapy center at Tampa's St. Joseph’s Hospital",
-      "summary": "BayCare Health System has officially opened a new $33 million proton therapy center at St. Joseph's Hospital in Tampa. The facility expands regional access to advanced radiation technology in the area.",
+      "summary": "BayCare has officially opened a new $33 million proton therapy facility at St. Joseph’s Hospital. The center aims to expand regional access to targeted radiation oncology services for cancer patients.",
       "category": "Proton Therapy",
       "source": "Proton Center Developments",
       "published_date": "2026-10-16",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "Proposed Medicare pricing changes threaten the financial viability of freestanding proton therapy centers, potentially leading to a 30% reduction in reimbursement compared to hospital-based facilities. Industry advocates warn that the proposal could jeopardize access to care and limit future development of community-based proton therapy.",
+      "summary": "Proposed Medicare pricing changes threaten the financial viability of freestanding proton therapy centers, with potential revenue losses of nearly 30% by 2027. Advocacy groups warn this could limit patient access to highly precise radiation treatment.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
