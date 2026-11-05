@@ -60,6 +60,76 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42980889/",
       "id": "pubmed.ncbi.nlm.nih.gov/42980889",
       "content_type": "paper"
+    },
+    {
+      "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
+      "summary": "This study demonstrates that integrating dose prediction with LLM-driven optimization enables a robust, fully automated planning workflow. The approach improves OAR sparing and consistency without compromising target dose quality, showing potential for intelligent clinical radiotherapy planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985759/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985759",
+      "content_type": "paper"
+    },
+    {
+      "title": "Clinical application of MR-Only in cyberknife stereotactic radiotherapy for brain metastases: a feasibility study",
+      "summary": "Researchers verified the feasibility of an MR-only workflow for CyberKnife stereotactic radiotherapy by generating accurate synthetic CT images for brain metastases. This method supports the reduction of CT-based imaging requirements in clinical workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983747/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42983747",
+      "content_type": "paper"
+    },
+    {
+      "title": "The consolidation paradox: rethinking thoracic radiotherapy in extensive-stage small cell lung cancer in the immunotherapy era",
+      "summary": "This analysis re-examines the role of consolidative thoracic radiotherapy in extensive-stage small cell lung cancer. The study highlights the uncertainty of incorporating radiotherapy alongside modern chemo-immunotherapy protocols given the evolving clinical landscape.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985426/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985426",
+      "content_type": "paper"
+    },
+    {
+      "title": "Interpatient and intrapatient variability in organ absorbed doses during [177Lu]Lu-DOTATATE therapy for neuroendocrine tumors",
+      "summary": "Research indicates significant variability in organ absorbed doses during PRRT, supporting the need for personalized dosimetry. The findings suggest that fixed-activity protocols may be insufficient for optimizing safety and efficacy in molecular radiotherapy.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985893/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985893",
+      "content_type": "paper"
+    },
+    {
+      "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
+      "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
+      "category": "Proton Therapy",
+      "source": "PR Newswire UK",
+      "published_date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZkUEZqYVRhandBLTUtQTBWX1pqdmxQUWVNZkZzNnRQcURjUk03SDg4UDhrSS1YcDdzRm5DN0ZnZTl5dE9SY183NzU4blNBazR0eHR2MTNZNHlndW5Ya3FmSmRxV1k1ZFVERjFPbEQ1UTI3dV84ai1DTzM0SUVfelczVVlrV3QzZQ?oc=5",
+      "id": "news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZ",
+      "content_type": "news"
+    },
+    {
+      "title": "Relative transmitted-dose reduction of 3D-printed and elastomeric dental radiotherapy spacers at different thicknesses",
+      "summary": "This investigation evaluated how material type and thickness of dental radiotherapy spacers influence radiation dose reduction. The results highlight that while materials provide protection, the effect is modest and setup-specific, requiring careful consideration in clinical practice.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978328/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978328",
+      "content_type": "paper"
+    },
+    {
+      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism",
+      "summary": "This case report details a complex, multidisciplinary treatment strategy for adolescent acrogigantism. It illustrates the role of radiotherapy as part of a multimodal approach for rare and invasive pediatric pituitary neuroendocrine tumors.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978565/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978565",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
