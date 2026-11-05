@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-05T06:59:08.844853+00:00",
+  "updated_at": "2026-11-05T20:05:07.688131+00:00",
   "articles": [
+    {
+      "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
+      "summary": "This study demonstrates that integrating dose prediction with LLM-driven optimization enables a robust, fully automated planning workflow. The approach improves OAR sparing and consistency without compromising target dose quality, showing potential for intelligent clinical radiotherapy planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985759/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985759",
+      "content_type": "paper"
+    },
+    {
+      "title": "Clinical application of MR-Only in cyberknife stereotactic radiotherapy for brain metastases: a feasibility study",
+      "summary": "Researchers verified the feasibility of an MR-only workflow for CyberKnife stereotactic radiotherapy by generating accurate synthetic CT images for brain metastases. This method supports the reduction of CT-based imaging requirements in clinical workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983747/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42983747",
+      "content_type": "paper"
+    },
+    {
+      "title": "The consolidation paradox: rethinking thoracic radiotherapy in extensive-stage small cell lung cancer in the immunotherapy era",
+      "summary": "This analysis re-examines the role of consolidative thoracic radiotherapy in extensive-stage small cell lung cancer. The study highlights the uncertainty of incorporating radiotherapy alongside modern chemo-immunotherapy protocols given the evolving clinical landscape.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985426/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985426",
+      "content_type": "paper"
+    },
+    {
+      "title": "Interpatient and intrapatient variability in organ absorbed doses during [177Lu]Lu-DOTATATE therapy for neuroendocrine tumors",
+      "summary": "Research indicates significant variability in organ absorbed doses during PRRT, supporting the need for personalized dosimetry. The findings suggest that fixed-activity protocols may be insufficient for optimizing safety and efficacy in molecular radiotherapy.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985893/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42985893",
+      "content_type": "paper"
+    },
+    {
+      "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
+      "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
+      "category": "Proton Therapy",
+      "source": "PR Newswire UK",
+      "published_date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZkUEZqYVRhandBLTUtQTBWX1pqdmxQUWVNZkZzNnRQcURjUk03SDg4UDhrSS1YcDdzRm5DN0ZnZTl5dE9SY183NzU4blNBazR0eHR2MTNZNHlndW5Ya3FmSmRxV1k1ZFVERjFPbEQ1UTI3dV84ai1DTzM0SUVfelczVVlrV3QzZQ?oc=5",
+      "id": "news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZ",
+      "content_type": "news"
+    },
     {
       "title": "Clinical outcomes and quality of life after proton therapy for cranial and extracranial solitary fibrous tumors",
       "summary": "This study evaluated the efficacy and safety of proton therapy for treating cranial and extracranial solitary fibrous tumors. Preliminary results indicate promising overall survival and local control rates, although late toxicities near the central nervous system warrant clinical vigilance.",
@@ -52,6 +102,26 @@
       "content_type": "paper"
     },
     {
+      "title": "Relative transmitted-dose reduction of 3D-printed and elastomeric dental radiotherapy spacers at different thicknesses",
+      "summary": "This investigation evaluated how material type and thickness of dental radiotherapy spacers influence radiation dose reduction. The results highlight that while materials provide protection, the effect is modest and setup-specific, requiring careful consideration in clinical practice.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978328/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978328",
+      "content_type": "paper"
+    },
+    {
+      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism",
+      "summary": "This case report details a complex, multidisciplinary treatment strategy for adolescent acrogigantism. It illustrates the role of radiotherapy as part of a multimodal approach for rare and invasive pediatric pituitary neuroendocrine tumors.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978565/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42978565",
+      "content_type": "paper"
+    },
+    {
       "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy: A proof-of-concept study",
       "summary": "This study explores the use of a reliability-weighted patch learning network (HQ-PatchNet) to improve synthetic CT quality from daily CBCT scans. The approach demonstrates potential for enhancing image quality in online adaptive radiotherapy workflows.",
       "category": "AI & Imaging",
@@ -59,66 +129,6 @@
       "published_date": "2026-11-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/",
       "id": "pubmed.ncbi.nlm.nih.gov/42973126",
-      "content_type": "paper"
-    },
-    {
-      "title": "Fully automated AI-based quantification of tumour volume on PSMA PET-CT images is associated with overall survival",
-      "summary": "This study investigates the prognostic value of fully automated AI-based tumor volume quantification from PSMA PET-CT imaging in prostate cancer. Results suggest that automated TLV correlates with overall survival, supporting its potential as a clinical biomarker.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973055/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42973055",
-      "content_type": "paper"
-    },
-    {
-      "title": "A Novel Medical Conformity Index (MCI) Integrating Spatial Distance and Target Volume Weighting for Enhanced Radiotherapy Plan Evaluation",
-      "summary": "Researchers developed a new Medical Conformity Index (MCI) that accounts for both geometric relationships and clinical dose weighting. This metric aims to provide a more comprehensive assessment of radiotherapy plan quality compared to traditional conformity indices.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975974/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42975974",
-      "content_type": "paper"
-    },
-    {
-      "title": "Comparative Analysis of Arc Geometrical Configurations and Jaw Tracking for Peripheral Low-Dose Bath in Whole Breast VMAT",
-      "summary": "This study compares how different arc geometries and jaw tracking techniques influence the peripheral low-dose bath during whole-breast volumetric modulated arc therapy. The research highlights strategies to minimize radiation exposure to organs at risk.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975951/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42975951",
-      "content_type": "paper"
-    },
-    {
-      "title": "BeamGAN: a physics-informed conditional generative adversarial network for Monte-Carlo-free portal dose image prediction from incident fluence maps",
-      "summary": "Researchers developed BeamGAN, a deep learning framework designed to predict portal dose images directly from incident fluence maps. This approach aims to enable real-time patient-specific quality assurance by bypassing time-intensive Monte Carlo simulations.",
-      "category": "AI & Imaging",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42976457/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42976457",
-      "content_type": "paper"
-    },
-    {
-      "title": "Preoperative Contrast-Enhanced CT-Based Three-Dimensional Fractal Analysis of Automatically Segmented Tumors for Predicting PD-L1 Expression in Hepatocellular Carcinoma",
-      "summary": "This study explores the use of 3D fractal analysis on preoperative CT imaging to non-invasively predict PD-L1 expression in hepatocellular carcinoma. Such imaging biomarkers may help characterize tumor heterogeneity and guide immunotherapy decisions.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42969475/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42969475",
-      "content_type": "paper"
-    },
-    {
-      "title": "Impact of extended field-of-view on image quality and stopping power ratio in proton therapy dose calculation",
-      "summary": "This research evaluates the dosimetric impact of using an extended field-of-view (eFOV) in CT simulation for proton therapy. The study analyzes how eFOV reconstruction affects Hounsfield unit-to-stopping power ratio curves and overall proton dose calculation accuracy.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970220/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42970220",
       "content_type": "paper"
     },
     {
@@ -169,16 +179,6 @@
       "published_date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZOaDF5VWlNVmRGV2lhV2o0c1RlaGdJTlpnLVp5UkZKMV9sbkw5V3U1RDg3QmxjS2ppMEcxYmZhTU1oZnRTQU0yQV9oV0Jpbw?oc=5",
       "id": "news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZ",
-      "content_type": "news"
-    },
-    {
-      "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "Proposed Medicare pricing changes threaten the financial viability of freestanding proton therapy centers, with potential revenue losses of nearly 30% by 2027. Advocacy groups warn this could limit patient access to highly precise radiation treatment.",
-      "category": "Proton Therapy",
-      "source": "NAPT News",
-      "published_date": "2026-10-09",
-      "url": "https://proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-therapy-centers-millions",
-      "id": "proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-th",
       "content_type": "news"
     }
   ]
