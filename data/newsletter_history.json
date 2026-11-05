@@ -50,6 +50,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978086/",
       "id": "pubmed.ncbi.nlm.nih.gov/42978086",
       "content_type": "paper"
+    },
+    {
+      "title": "Therapeutic Hybrid Intelligence with Neural and Knowledge-based Expert Reasoning for SRS (THINKERS): an AI model for melanoma brain metastases",
+      "summary": "This study introduces an AI-driven framework for patient-specific stereotactic radiosurgery dose comparison. The model demonstrated feasibility as an adjunct for evaluating radiosurgical plans in patients with melanoma brain metastases.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980889/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42980889",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
