@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:58:36.050269+00:00",
+  "updated_at": "2026-11-06T19:30:54.865345+00:00",
   "articles": [
     {
       "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
@@ -52,6 +52,46 @@
       "content_type": "paper"
     },
     {
+      "title": "Deep learning-based automated segmentation of target volumes for pediatric craniospinal irradiation in proton therapy",
+      "summary": "This study demonstrates that a deep learning-based automated segmentation model can achieve accurate target delineation for pediatric craniospinal irradiation in proton therapy. The findings suggest that integrating such frameworks into clinical workflows can improve efficiency, reproducibility, and standardization of treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989343/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989343",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pelvic bone marrow dosimetry predicts grade 2 hematologic adverse events in locally advanced rectal cancer",
+      "summary": "This study establishes dosimetric constraints for pelvic bone marrow to reduce the risk of grade 2 or higher hematologic adverse events in rectal cancer patients undergoing neoadjuvant chemoradiotherapy. The findings provide practical quantitative references for improving bone marrow sparing in pelvic radiation oncology.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989298/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989298",
+      "content_type": "paper"
+    },
+    {
+      "title": "From synthesis to clinic: a task-specific framework for CT images metal artifact reduction in cervical brachytherapy",
+      "summary": "Researchers developed a task-specific deep learning framework to reduce metal artifacts in CT scans used for cervical brachytherapy. The model showed improved geometric accuracy, supporting its potential to enhance clinical workflow efficiency and precision in brachytherapy planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989341/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989341",
+      "content_type": "paper"
+    },
+    {
+      "title": "Combining handcrafted radiomics features and deep learning features within different regions of interest in planning CT images for the prediction of symptomatic radiation pneumonitis in locally advanced non-small cell lung cancer",
+      "summary": "A hybrid predictive model combining radiomics and deep learning was developed and externally validated to predict symptomatic radiation pneumonitis in non-small cell lung cancer patients. The study highlights the clinical potential of utilizing combined features to improve the predictive performance of toxicity modeling.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989301/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989301",
+      "content_type": "paper"
+    },
+    {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
       "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
       "category": "Proton Therapy",
@@ -59,6 +99,16 @@
       "published_date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZkUEZqYVRhandBLTUtQTBWX1pqdmxQUWVNZkZzNnRQcURjUk03SDg4UDhrSS1YcDdzRm5DN0ZnZTl5dE9SY183NzU4blNBazR0eHR2MTNZNHlndW5Ya3FmSmRxV1k1ZFVERjFPbEQ1UTI3dV84ai1DTzM0SUVfelczVVlrV3QzZQ?oc=5",
       "id": "news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZ",
+      "content_type": "news"
+    },
+    {
+      "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
+      "summary": "The BayCare Proton Center has successfully initiated patient treatments using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie solution. This facility represents a new implementation of compact proton therapy technology.",
+      "category": "Proton Therapy",
+      "source": "Proton Center Developments",
+      "published_date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neExjRGdYeTBFY2dDYjA2WmFzTV8xcFB4cmk5WHpOSkFGSmluWUhqYUM2cC1BU09lVTFGem5OOWtCck9KOEhvMnhJNWFvU1JPQzRMcURiM2c4MEtWZDJoT0hSZXQ0eXBwUGhFUEZvaDY1WElpVUZRcEZLZS0zaFVKQWRhQ2R1Z2c?oc=5",
+      "id": "news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neEx",
       "content_type": "news"
     },
     {
@@ -89,46 +139,6 @@
       "published_date": "2026-11-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978963/",
       "id": "pubmed.ncbi.nlm.nih.gov/42978963",
-      "content_type": "paper"
-    },
-    {
-      "title": "Development of a phantom-based end-to-end QA workflow for online adaptive radiotherapy incorporating high-resolution 2D detector measurements",
-      "summary": "A new quality assurance workflow has been developed to verify adaptive dose calculations in real-time. By utilizing high-resolution 2D detectors, the method provides a reproducible and robust approach for assessing plan-specific deviations in adaptive clinical environments.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978086/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42978086",
-      "content_type": "paper"
-    },
-    {
-      "title": "Therapeutic Hybrid Intelligence with Neural and Knowledge-based Expert Reasoning for SRS (THINKERS): an AI model for melanoma brain metastases",
-      "summary": "This study introduces an AI-driven framework for patient-specific stereotactic radiosurgery dose comparison. The model demonstrated feasibility as an adjunct for evaluating radiosurgical plans in patients with melanoma brain metastases.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980889/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42980889",
-      "content_type": "paper"
-    },
-    {
-      "title": "Relative transmitted-dose reduction of 3D-printed and elastomeric dental radiotherapy spacers at different thicknesses",
-      "summary": "The study investigated the dose-attenuation properties of 3D-printed and elastomeric spacers used in radiotherapy. Findings indicate that while material and thickness influence dose reduction, clinical tissue protection needs to be evaluated on a case-by-case basis.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978328/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42978328",
-      "content_type": "paper"
-    },
-    {
-      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism",
-      "summary": "This case report details a complex, multidisciplinary treatment strategy for adolescent acrogigantism. It illustrates the role of radiotherapy as part of a multimodal approach for rare and invasive pediatric pituitary neuroendocrine tumors.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978565/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42978565",
       "content_type": "paper"
     },
     {
@@ -169,16 +179,6 @@
       "published_date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJrajVNRXRvcWZpdEVuS0ZCa0RjNGx3MGFCaXJpazhnbWZPdGF3WUpmUUdDS1pOQjNodVFKek1qX08yVFdSVjJaSE1tUTliWDU1YzhMZUE1ejBuYkF1NGdFcXRXNDBkMFFvYk1mWWgxZW1lSFJldXhULWdB?oc=5",
       "id": "news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJ",
-      "content_type": "news"
-    },
-    {
-      "title": "BayCare opens proton therapy center at Tampa's St. Joseph’s Hospital",
-      "summary": "BayCare has officially opened a new $33 million proton therapy facility at St. Joseph’s Hospital. The center aims to expand regional access to targeted radiation oncology services for cancer patients.",
-      "category": "Proton Therapy",
-      "source": "Proton Center Developments",
-      "published_date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZOaDF5VWlNVmRGV2lhV2o0c1RlaGdJTlpnLVp5UkZKMV9sbkw5V3U1RDg3QmxjS2ppMEcxYmZhTU1oZnRTQU0yQV9oV0Jpbw?oc=5",
-      "id": "news.google.com/rss/articles/CBMiswFBVV95cUxNMVZFSlhReTJoTjlJVndETkJfb1dvTDlYVEo2TU5rWDFWMW5JRnByeGxwOVlnbnp0bzA3eFVnTGpzZU1IeXYtQmhUNHpUZEx2VXNDakNQeFpYR1lDcEtmT3Q4MTV0WWNMdEY0OVZ",
       "content_type": "news"
     }
   ]
