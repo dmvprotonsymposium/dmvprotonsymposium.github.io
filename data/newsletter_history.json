@@ -140,6 +140,56 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42987745/",
       "id": "pubmed.ncbi.nlm.nih.gov/42987745",
       "content_type": "paper"
+    },
+    {
+      "title": "Deep learning-based automated segmentation of target volumes for pediatric craniospinal irradiation in proton therapy",
+      "summary": "This study demonstrates that a deep learning-based automated segmentation model can achieve accurate target delineation for pediatric craniospinal irradiation in proton therapy. The findings suggest that integrating such frameworks into clinical workflows can improve efficiency, reproducibility, and standardization of treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989343/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989343",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pelvic bone marrow dosimetry predicts grade 2 hematologic adverse events in locally advanced rectal cancer",
+      "summary": "This study establishes dosimetric constraints for pelvic bone marrow to reduce the risk of grade 2 or higher hematologic adverse events in rectal cancer patients undergoing neoadjuvant chemoradiotherapy. The findings provide practical quantitative references for improving bone marrow sparing in pelvic radiation oncology.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989298/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989298",
+      "content_type": "paper"
+    },
+    {
+      "title": "From synthesis to clinic: a task-specific framework for CT images metal artifact reduction in cervical brachytherapy",
+      "summary": "Researchers developed a task-specific deep learning framework to reduce metal artifacts in CT scans used for cervical brachytherapy. The model showed improved geometric accuracy, supporting its potential to enhance clinical workflow efficiency and precision in brachytherapy planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989341/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989341",
+      "content_type": "paper"
+    },
+    {
+      "title": "Combining handcrafted radiomics features and deep learning features within different regions of interest in planning CT images for the prediction of symptomatic radiation pneumonitis in locally advanced non-small cell lung cancer",
+      "summary": "A hybrid predictive model combining radiomics and deep learning was developed and externally validated to predict symptomatic radiation pneumonitis in non-small cell lung cancer patients. The study highlights the clinical potential of utilizing combined features to improve the predictive performance of toxicity modeling.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989301/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42989301",
+      "content_type": "paper"
+    },
+    {
+      "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
+      "summary": "The BayCare Proton Center has successfully initiated patient treatments using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie solution. This facility represents a new implementation of compact proton therapy technology.",
+      "category": "Proton Therapy",
+      "source": "Proton Center Developments",
+      "published_date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neExjRGdYeTBFY2dDYjA2WmFzTV8xcFB4cmk5WHpOSkFGSmluWUhqYUM2cC1BU09lVTFGem5OOWtCck9KOEhvMnhJNWFvU1JPQzRMcURiM2c4MEtWZDJoT0hSZXQ0eXBwUGhFUEZvaDY1WElpVUZRcEZLZS0zaFVKQWRhQ2R1Z2c?oc=5",
+      "id": "news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neEx",
+      "content_type": "news"
     }
   ],
   "sent_article_urls": [
