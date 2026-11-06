@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:05:07.688131+00:00",
+  "updated_at": "2026-11-06T06:58:36.050269+00:00",
   "articles": [
     {
       "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
@@ -42,6 +42,16 @@
       "content_type": "paper"
     },
     {
+      "title": "Spatially adaptive dose-grid method for efficient proton therapy optimization involving small or irregular structures",
+      "summary": "Researchers introduced a novel spatially adaptive grid-based proton dose calculation and treatment planning method. The approach improves accuracy and efficiency for clinical cases involving small or irregular organs at risk and targets.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987745/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42987745",
+      "content_type": "paper"
+    },
+    {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
       "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
       "category": "Proton Therapy",
@@ -62,8 +72,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning: delivery-aware Monte Carlo and microdosimetric RBE-weighted dose",
-      "summary": "Researchers have implemented a common platform to support independent physical and biological dose verification for ion therapy. The system utilizes delivery-aware Monte Carlo calculations and microdosimetric RBE-weighted assessment to improve treatment safety, though further validation is required before clinical deployment.",
+      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning",
+      "summary": "This study details the implementation of a delivery-aware platform designed to perform independent physical and microdosimetric RBE-weighted dose assessments. The system supports multi-ion beam-specific dose conventions for quality assurance in clinical settings.",
       "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-04",
@@ -73,7 +83,7 @@
     },
     {
       "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation",
-      "summary": "This review evaluates deep learning methods used to generate synthetic CT images from cone-beam CT for adaptive radiotherapy. It focuses on the current state of image accuracy and the clinical reliability required for routine use in both photon and proton treatment workflows.",
+      "summary": "This review evaluates deep learning methods used for generating synthetic CT images from cone-beam CT for both photon and proton radiotherapy. The authors emphasize the ongoing challenges in verifying clinical reliability for patient-specific dosimetry.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-04",
@@ -103,7 +113,7 @@
     },
     {
       "title": "Relative transmitted-dose reduction of 3D-printed and elastomeric dental radiotherapy spacers at different thicknesses",
-      "summary": "This investigation evaluated how material type and thickness of dental radiotherapy spacers influence radiation dose reduction. The results highlight that while materials provide protection, the effect is modest and setup-specific, requiring careful consideration in clinical practice.",
+      "summary": "The study investigated the dose-attenuation properties of 3D-printed and elastomeric spacers used in radiotherapy. Findings indicate that while material and thickness influence dose reduction, clinical tissue protection needs to be evaluated on a case-by-case basis.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-04",
@@ -122,16 +132,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Reliability-weighted patch learning for synthetic CT reconstruction in head and neck adaptive radiotherapy: A proof-of-concept study",
-      "summary": "This study explores the use of a reliability-weighted patch learning network (HQ-PatchNet) to improve synthetic CT quality from daily CBCT scans. The approach demonstrates potential for enhancing image quality in online adaptive radiotherapy workflows.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973126/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42973126",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -143,7 +143,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "ASTRO has released updated clinical guidelines recommending shorter-course radiation therapy for patients with localized prostate cancer. The update reflects evolving clinical standards aimed at optimizing patient outcomes and treatment efficiency.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. These evidence-based recommendations aim to standardize care protocols while improving patient convenience and treatment efficiency.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
