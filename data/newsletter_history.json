@@ -130,6 +130,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978565/",
       "id": "pubmed.ncbi.nlm.nih.gov/42978565",
       "content_type": "paper"
+    },
+    {
+      "title": "Spatially adaptive dose-grid method for efficient proton therapy optimization involving small or irregular structures",
+      "summary": "Researchers introduced a novel spatially adaptive grid-based proton dose calculation and treatment planning method. The approach improves accuracy and efficiency for clinical cases involving small or irregular organs at risk and targets.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987745/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42987745",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
