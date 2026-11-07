@@ -190,6 +190,46 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neExjRGdYeTBFY2dDYjA2WmFzTV8xcFB4cmk5WHpOSkFGSmluWUhqYUM2cC1BU09lVTFGem5OOWtCck9KOEhvMnhJNWFvU1JPQzRMcURiM2c4MEtWZDJoT0hSZXQ0eXBwUGhFUEZvaDY1WElpVUZRcEZLZS0zaFVKQWRhQ2R1Z2c?oc=5",
       "id": "news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neEx",
       "content_type": "news"
+    },
+    {
+      "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
+      "summary": "This study introduces an optically stimulated luminescence film-based detector system to verify spatially resolved dose and dose-averaged linear energy transfer distributions. This methodology supports the clinical translation of LET-informed proton therapy beyond conventional constant-RBE assumptions.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994092/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42994092",
+      "content_type": "paper"
+    },
+    {
+      "title": "Review of radiobiological dose rate effects at the edge between conventional and FLASH",
+      "summary": "This review examines dose rate effects within the 0.4-35 Gy/s range, noting that while traditional models view these as negligible, the transition to active pencil beam scanning and the emergence of ultra-high dose rate radiotherapy warrant further investigation into radiobiological impacts.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994088/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42994088",
+      "content_type": "paper"
+    },
+    {
+      "title": "Preliminary Feasibility and Dosimetric Evaluation of Retroperitoneal Hydrogel Spacer Placement for Stereotactic Body Radiation Therapy",
+      "summary": "This cadaveric study demonstrates that CT-guided hydrogel spacer placement in the perirenal space is technically feasible and may reduce bowel radiation dose during stereotactic body radiation therapy for renal cell carcinoma. Further validation is required for broader clinical implementation.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990880/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42990880",
+      "content_type": "paper"
+    },
+    {
+      "title": "Radiotherapy for Cervical Cancer: Technical Advances, Clinical Applications, and Future Perspectives",
+      "summary": "This review summarizes recent technological developments in external beam radiotherapy and brachytherapy for cervical cancer treatment. It covers evolutions in image guidance and delivery systems with a focus on clinical translation and international practice standards.",
+      "category": "Radiation Oncology",
+      "source": "PubMed AI",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995144/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42995144",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
