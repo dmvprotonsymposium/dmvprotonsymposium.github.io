@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-06T19:30:54.865345+00:00",
+  "updated_at": "2026-11-07T13:16:24.376016+00:00",
   "articles": [
+    {
+      "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
+      "summary": "This study introduces an optically stimulated luminescence film-based detector system to verify spatially resolved dose and dose-averaged linear energy transfer distributions. This methodology supports the clinical translation of LET-informed proton therapy beyond conventional constant-RBE assumptions.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994092/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42994092",
+      "content_type": "paper"
+    },
+    {
+      "title": "Review of radiobiological dose rate effects at the edge between conventional and FLASH",
+      "summary": "This review examines dose rate effects within the 0.4-35 Gy/s range, noting that while traditional models view these as negligible, the transition to active pencil beam scanning and the emergence of ultra-high dose rate radiotherapy warrant further investigation into radiobiological impacts.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994088/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42994088",
+      "content_type": "paper"
+    },
+    {
+      "title": "Preliminary Feasibility and Dosimetric Evaluation of Retroperitoneal Hydrogel Spacer Placement for Stereotactic Body Radiation Therapy",
+      "summary": "This cadaveric study demonstrates that CT-guided hydrogel spacer placement in the perirenal space is technically feasible and may reduce bowel radiation dose during stereotactic body radiation therapy for renal cell carcinoma. Further validation is required for broader clinical implementation.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990880/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42990880",
+      "content_type": "paper"
+    },
+    {
+      "title": "Radiotherapy for Cervical Cancer: Technical Advances, Clinical Applications, and Future Perspectives",
+      "summary": "This review summarizes recent technological developments in external beam radiotherapy and brachytherapy for cervical cancer treatment. It covers evolutions in image guidance and delivery systems with a focus on clinical translation and international practice standards.",
+      "category": "Radiation Oncology",
+      "source": "PubMed AI",
+      "published_date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995144/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42995144",
+      "content_type": "paper"
+    },
     {
       "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
       "summary": "This study demonstrates that integrating dose prediction with LLM-driven optimization enables a robust, fully automated planning workflow. The approach improves OAR sparing and consistency without compromising target dose quality, showing potential for intelligent clinical radiotherapy planning.",
@@ -43,7 +83,7 @@
     },
     {
       "title": "Spatially adaptive dose-grid method for efficient proton therapy optimization involving small or irregular structures",
-      "summary": "Researchers introduced a novel spatially adaptive grid-based proton dose calculation and treatment planning method. The approach improves accuracy and efficiency for clinical cases involving small or irregular organs at risk and targets.",
+      "summary": "The researchers developed a novel spatially adaptive grid-based method for proton dose calculation and treatment planning. This approach improves accuracy and efficiency for clinical cases involving small or irregular organs at risk.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-05",
@@ -63,8 +103,8 @@
     },
     {
       "title": "Pelvic bone marrow dosimetry predicts grade 2 hematologic adverse events in locally advanced rectal cancer",
-      "summary": "This study establishes dosimetric constraints for pelvic bone marrow to reduce the risk of grade 2 or higher hematologic adverse events in rectal cancer patients undergoing neoadjuvant chemoradiotherapy. The findings provide practical quantitative references for improving bone marrow sparing in pelvic radiation oncology.",
-      "category": "Radiation Oncology",
+      "summary": "This study establishes quantitative dosimetric references for pelvic bone marrow protection during neoadjuvant chemoradiotherapy for rectal cancer. Researchers found that limiting specific dose metrics can reduce the risk of moderate-to-severe hematologic adverse events.",
+      "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989298/",
@@ -79,16 +119,6 @@
       "published_date": "2026-11-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989341/",
       "id": "pubmed.ncbi.nlm.nih.gov/42989341",
-      "content_type": "paper"
-    },
-    {
-      "title": "Combining handcrafted radiomics features and deep learning features within different regions of interest in planning CT images for the prediction of symptomatic radiation pneumonitis in locally advanced non-small cell lung cancer",
-      "summary": "A hybrid predictive model combining radiomics and deep learning was developed and externally validated to predict symptomatic radiation pneumonitis in non-small cell lung cancer patients. The study highlights the clinical potential of utilizing combined features to improve the predictive performance of toxicity modeling.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989301/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42989301",
       "content_type": "paper"
     },
     {
@@ -112,36 +142,6 @@
       "content_type": "news"
     },
     {
-      "title": "Clinical outcomes and quality of life after proton therapy for cranial and extracranial solitary fibrous tumors",
-      "summary": "This study evaluated the efficacy and safety of proton therapy for treating cranial and extracranial solitary fibrous tumors. Preliminary results indicate promising overall survival and local control rates, although late toxicities near the central nervous system warrant clinical vigilance.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42979562/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42979562",
-      "content_type": "paper"
-    },
-    {
-      "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning",
-      "summary": "This study details the implementation of a delivery-aware platform designed to perform independent physical and microdosimetric RBE-weighted dose assessments. The system supports multi-ion beam-specific dose conventions for quality assurance in clinical settings.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978625/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42978625",
-      "content_type": "paper"
-    },
-    {
-      "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation",
-      "summary": "This review evaluates deep learning methods used for generating synthetic CT images from cone-beam CT for both photon and proton radiotherapy. The authors emphasize the ongoing challenges in verifying clinical reliability for patient-specific dosimetry.",
-      "category": "AI & Imaging",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978963/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42978963",
-      "content_type": "paper"
-    },
-    {
       "title": "50 million Americans live in counties without a radiation oncology clinic, study finds",
       "summary": "A recent study highlights that 50 million Americans reside in counties lacking a radiation oncology clinic, underscoring significant geographic disparities in access to cancer care. The findings emphasize the ongoing challenges in providing equitable radiation treatment coverage across the United States.",
       "category": "Radiation Oncology",
@@ -153,7 +153,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines recommending shorter-course radiation therapy regimens for patients with localized prostate cancer. These evidence-based recommendations aim to standardize care protocols while improving patient convenience and treatment efficiency.",
+      "summary": "The American Society for Radiation Oncology has released updated clinical guidelines recommending the use of shorter-course radiation therapy regimens for patients with localized prostate cancer. These evidence-based updates aim to standardize care and improve efficiency for patients undergoing radiation treatment.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
