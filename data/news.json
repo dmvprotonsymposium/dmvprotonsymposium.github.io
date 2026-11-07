@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:16:24.376016+00:00",
+  "updated_at": "2026-11-07T21:58:44.065811+00:00",
   "articles": [
     {
       "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
@@ -13,8 +13,8 @@
     },
     {
       "title": "Review of radiobiological dose rate effects at the edge between conventional and FLASH",
-      "summary": "This review examines dose rate effects within the 0.4-35 Gy/s range, noting that while traditional models view these as negligible, the transition to active pencil beam scanning and the emergence of ultra-high dose rate radiotherapy warrant further investigation into radiobiological impacts.",
-      "category": "Radiation Oncology",
+      "summary": "This review examines dose rate effects in radiotherapy, specifically within the 0.4-35 Gy/s range, which has historically been considered negligible compared to ultra-high dose rate FLASH therapy. It highlights the growing importance of understanding these intermediate dose rates as technology evolves in proton and photon delivery.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42994088/",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Radiotherapy for Cervical Cancer: Technical Advances, Clinical Applications, and Future Perspectives",
-      "summary": "This review summarizes recent technological developments in external beam radiotherapy and brachytherapy for cervical cancer treatment. It covers evolutions in image guidance and delivery systems with a focus on clinical translation and international practice standards.",
+      "summary": "This article reviews significant technological developments in external beam radiotherapy and brachytherapy for cervical cancer treatment. It emphasizes how improved image guidance is shaping modern clinical practice and future treatment paradigms.",
       "category": "Radiation Oncology",
       "source": "PubMed AI",
       "published_date": "2026-11-06",
@@ -83,8 +83,8 @@
     },
     {
       "title": "Spatially adaptive dose-grid method for efficient proton therapy optimization involving small or irregular structures",
-      "summary": "The researchers developed a novel spatially adaptive grid-based method for proton dose calculation and treatment planning. This approach improves accuracy and efficiency for clinical cases involving small or irregular organs at risk.",
-      "category": "Proton Therapy",
+      "summary": "This study introduces a novel spatially adaptive grid-based method for proton dose calculation. The technique provides an efficient and accurate way to optimize treatment plans for cases involving small or irregular targets and organs at risk.",
+      "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42987745/",
@@ -93,8 +93,8 @@
     },
     {
       "title": "Deep learning-based automated segmentation of target volumes for pediatric craniospinal irradiation in proton therapy",
-      "summary": "This study demonstrates that a deep learning-based automated segmentation model can achieve accurate target delineation for pediatric craniospinal irradiation in proton therapy. The findings suggest that integrating such frameworks into clinical workflows can improve efficiency, reproducibility, and standardization of treatment planning.",
-      "category": "Proton Therapy",
+      "summary": "Researchers developed a deep learning-based automated segmentation model to improve the accuracy and efficiency of target delineation for pediatric craniospinal irradiation in proton therapy. The study demonstrates that such automation can enhance precision and standardize the planning workflow.",
+      "category": "AI & Imaging",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989343/",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Pelvic bone marrow dosimetry predicts grade 2 hematologic adverse events in locally advanced rectal cancer",
-      "summary": "This study establishes quantitative dosimetric references for pelvic bone marrow protection during neoadjuvant chemoradiotherapy for rectal cancer. Researchers found that limiting specific dose metrics can reduce the risk of moderate-to-severe hematologic adverse events.",
+      "summary": "This study establishes quantitative dosimetric constraints for pelvic bone marrow protection in locally advanced rectal cancer patients. The findings provide critical references to reduce the risk of hematologic adverse events during neoadjuvant chemoradiotherapy.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-05",
