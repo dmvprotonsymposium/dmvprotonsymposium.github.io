@@ -320,6 +320,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998474/",
       "id": "pubmed.ncbi.nlm.nih.gov/42998474",
       "content_type": "paper"
+    },
+    {
+      "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
+      "summary": "Researchers developed self-supervised anomaly-detection frameworks for pelvic MRI to improve the reliability of AI-supported radiotherapy workflows. The study addresses the challenge of out-of-distribution image data, which can introduce errors in automated clinical tasks.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999868/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42999868",
+      "content_type": "paper"
+    },
+    {
+      "title": "Temporal trends in radiation-induced optic neuropathy: a meta-analysis",
+      "summary": "This systematic review and meta-analysis evaluates how changes in radiotherapy techniques and fractionation schemes over time have influenced the incidence of radiation-induced optic neuropathy. The study aims to provide clarity on toxicity trends in the context of evolving clinical practices.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997473/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997473",
+      "content_type": "paper"
+    },
+    {
+      "title": "Risk-adapted radiotherapy in pediatric neuroblastoma: current evidence, controversies, and future directions-a narrative review",
+      "summary": "This review examines radiotherapy decision-making for pediatric neuroblastoma, focusing on balancing systemic treatment response and residual disease against potential toxicities. It highlights the need for standardized reporting of dosimetric parameters to better define which patient cohorts benefit from treatment intensification or reduction.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996725/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42996725",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
