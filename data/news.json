@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-08T13:40:58.202399+00:00",
+  "updated_at": "2026-11-08T22:15:06.893588+00:00",
   "articles": [
+    {
+      "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
+      "summary": "Researchers developed self-supervised anomaly-detection frameworks for pelvic MRI to improve the reliability of AI-supported radiotherapy workflows. The study addresses the challenge of out-of-distribution image data, which can introduce errors in automated clinical tasks.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999868/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42999868",
+      "content_type": "paper"
+    },
     {
       "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
       "summary": "This study evaluates different dose-rate metrics to predict saturation correction factors in ultra-high-dose-rate (UHDR) proton and carbon-ion beams. Researchers compared field-averaged and pencil-beam-scanning dose rates to improve dosimetry accuracy for emerging radiotherapy modalities.",
@@ -92,33 +102,23 @@
       "content_type": "paper"
     },
     {
-      "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
-      "summary": "This study introduces an optically stimulated luminescence film-based detector system to verify spatially resolved dose and dose-averaged linear energy transfer distributions. This methodology supports the clinical translation of LET-informed proton therapy beyond conventional constant-RBE assumptions.",
-      "category": "Proton Therapy",
+      "title": "Temporal trends in radiation-induced optic neuropathy: a meta-analysis",
+      "summary": "This systematic review and meta-analysis evaluates how changes in radiotherapy techniques and fractionation schemes over time have influenced the incidence of radiation-induced optic neuropathy. The study aims to provide clarity on toxicity trends in the context of evolving clinical practices.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994092/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42994092",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997473/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997473",
       "content_type": "paper"
     },
     {
-      "title": "Review of radiobiological dose rate effects at the edge between conventional and FLASH",
-      "summary": "This review examines dose rate effects in radiotherapy, specifically within the 0.4-35 Gy/s range, which has historically been considered negligible compared to ultra-high dose rate FLASH therapy. It highlights the growing importance of understanding these intermediate dose rates as technology evolves in proton and photon delivery.",
-      "category": "Proton Therapy",
+      "title": "Risk-adapted radiotherapy in pediatric neuroblastoma: current evidence, controversies, and future directions-a narrative review",
+      "summary": "This review examines radiotherapy decision-making for pediatric neuroblastoma, focusing on balancing systemic treatment response and residual disease against potential toxicities. It highlights the need for standardized reporting of dosimetric parameters to better define which patient cohorts benefit from treatment intensification or reduction.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994088/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42994088",
-      "content_type": "paper"
-    },
-    {
-      "title": "Preliminary Feasibility and Dosimetric Evaluation of Retroperitoneal Hydrogel Spacer Placement for Stereotactic Body Radiation Therapy",
-      "summary": "This cadaveric study demonstrates that CT-guided hydrogel spacer placement in the perirenal space is technically feasible and may reduce bowel radiation dose during stereotactic body radiation therapy for renal cell carcinoma. Further validation is required for broader clinical implementation.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42990880/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42990880",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996725/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42996725",
       "content_type": "paper"
     },
     {
