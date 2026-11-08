@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:17:06.976866+00:00",
+  "updated_at": "2026-11-08T13:40:58.202399+00:00",
   "articles": [
     {
       "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
@@ -62,6 +62,36 @@
       "content_type": "paper"
     },
     {
+      "title": "Survey of Respiratory Motion Management Practices in Particle Therapy Facilities in Japan",
+      "summary": "This study details the implementation and technical trends of respiratory motion management in particle therapy across Japanese institutions. It provides insight into the diverse strategies currently employed for motion-sensitive dose distribution in proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997573/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997573",
+      "content_type": "paper"
+    },
+    {
+      "title": "Unintended coverage: how standard breast radiotherapy irradiates the internal mammary nodes",
+      "summary": "This research analyzes internal mammary node coverage during standard breast radiotherapy using tangential fields. The findings emphasize the clinical need for explicit contouring and dedicated planning when coverage of these nodes is indicated.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997858/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997858",
+      "content_type": "paper"
+    },
+    {
+      "title": "The measure that matters: What medicine asks of artificial intelligence",
+      "summary": "This position paper highlights a misalignment between current AI evaluation metrics and clinical value. It urges the field to focus on outcomes that impact patient survival rather than subspecialist preference.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998474/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42998474",
+      "content_type": "paper"
+    },
+    {
       "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
       "summary": "This study introduces an optically stimulated luminescence film-based detector system to verify spatially resolved dose and dose-averaged linear energy transfer distributions. This methodology supports the clinical translation of LET-informed proton therapy beyond conventional constant-RBE assumptions.",
       "category": "Proton Therapy",
@@ -89,36 +119,6 @@
       "published_date": "2026-11-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42990880/",
       "id": "pubmed.ncbi.nlm.nih.gov/42990880",
-      "content_type": "paper"
-    },
-    {
-      "title": "Radiotherapy for Cervical Cancer: Technical Advances, Clinical Applications, and Future Perspectives",
-      "summary": "This article reviews significant technological developments in external beam radiotherapy and brachytherapy for cervical cancer treatment. It emphasizes how improved image guidance is shaping modern clinical practice and future treatment paradigms.",
-      "category": "Radiation Oncology",
-      "source": "PubMed AI",
-      "published_date": "2026-11-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42995144/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42995144",
-      "content_type": "paper"
-    },
-    {
-      "title": "A virtual physicist framework integrating dose prediction and large language models for automated treatment planning",
-      "summary": "This study demonstrates that integrating dose prediction with LLM-driven optimization enables a robust, fully automated planning workflow. The approach improves OAR sparing and consistency without compromising target dose quality, showing potential for intelligent clinical radiotherapy planning.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985759/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42985759",
-      "content_type": "paper"
-    },
-    {
-      "title": "Clinical application of MR-Only in cyberknife stereotactic radiotherapy for brain metastases: a feasibility study",
-      "summary": "Researchers verified the feasibility of an MR-only workflow for CyberKnife stereotactic radiotherapy by generating accurate synthetic CT images for brain metastases. This method supports the reduction of CT-based imaging requirements in clinical workflows.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983747/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42983747",
       "content_type": "paper"
     },
     {
