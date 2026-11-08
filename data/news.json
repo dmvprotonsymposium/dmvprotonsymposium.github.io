@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-07T21:58:44.065811+00:00",
+  "updated_at": "2026-11-08T06:17:06.976866+00:00",
   "articles": [
+    {
+      "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
+      "summary": "This study evaluates different dose-rate metrics to predict saturation correction factors in ultra-high-dose-rate (UHDR) proton and carbon-ion beams. Researchers compared field-averaged and pencil-beam-scanning dose rates to improve dosimetry accuracy for emerging radiotherapy modalities.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998949/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42998949",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas throughout the treatment course",
+      "summary": "This study compares the robustness of pencil beam scanning proton therapy and volumetric modulated arc therapy for mediastinal lymphoma using deep inspiration breath-hold. The findings suggest proton therapy offers superior sparing of organs at risk while maintaining consistent target coverage.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997789/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997789",
+      "content_type": "paper"
+    },
+    {
+      "title": "Preliminary Dose Constraints for Testing Intensity Modulated Proton Therapy in Anal Cancer Trials",
+      "summary": "Researchers have developed specific dose-volume constraints for intensity modulated proton therapy (IMPT) in the context of anal cancer. These guidelines aim to facilitate future clinical trials by reducing dose spill to healthy tissue compared to standard photon approaches.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997743/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997743",
+      "content_type": "paper"
+    },
+    {
+      "title": "Cardio-respiratory-gated proton pencil beam scanning for cardiac ablation: workflow and end-to-end validation",
+      "summary": "This research validates a new workflow for cardiorespiratory-gated proton beam delivery for cardiac ablation. The system demonstrated rapid response times to motion, enabling significant reduction in target expansion volumes during treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996236/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42996236",
+      "content_type": "paper"
+    },
+    {
+      "title": "Artificial intelligence in esophageal cancer radiotherapy: a literature review",
+      "summary": "This review examines the integration of artificial intelligence into esophageal cancer radiotherapy, highlighting its potential to enhance workflow efficiency and treatment accuracy. The authors emphasize the need for prospective, multicenter studies to ensure clinical translation and reliability.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996985/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42996985",
+      "content_type": "paper"
+    },
+    {
+      "title": "Predicting acute radiation dermatitis in breast cancer patients using artificial intelligence: a systematic review",
+      "summary": "This systematic review analyzes current AI-based models for predicting acute radiation dermatitis in breast cancer treatment. While results are promising, the study notes that a lack of standardized reporting and external validation currently limits clinical implementation.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997736/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997736",
+      "content_type": "paper"
+    },
     {
       "title": "Experimental verification of clinical dose and LET maps for LET-informed proton therapy",
       "summary": "This study introduces an optically stimulated luminescence film-based detector system to verify spatially resolved dose and dose-averaged linear energy transfer distributions. This methodology supports the clinical translation of LET-informed proton therapy beyond conventional constant-RBE assumptions.",
@@ -59,66 +119,6 @@
       "published_date": "2026-11-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42983747/",
       "id": "pubmed.ncbi.nlm.nih.gov/42983747",
-      "content_type": "paper"
-    },
-    {
-      "title": "The consolidation paradox: rethinking thoracic radiotherapy in extensive-stage small cell lung cancer in the immunotherapy era",
-      "summary": "This analysis re-examines the role of consolidative thoracic radiotherapy in extensive-stage small cell lung cancer. The study highlights the uncertainty of incorporating radiotherapy alongside modern chemo-immunotherapy protocols given the evolving clinical landscape.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985426/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42985426",
-      "content_type": "paper"
-    },
-    {
-      "title": "Interpatient and intrapatient variability in organ absorbed doses during [177Lu]Lu-DOTATATE therapy for neuroendocrine tumors",
-      "summary": "Research indicates significant variability in organ absorbed doses during PRRT, supporting the need for personalized dosimetry. The findings suggest that fixed-activity protocols may be insufficient for optimizing safety and efficacy in molecular radiotherapy.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985893/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42985893",
-      "content_type": "paper"
-    },
-    {
-      "title": "Spatially adaptive dose-grid method for efficient proton therapy optimization involving small or irregular structures",
-      "summary": "This study introduces a novel spatially adaptive grid-based method for proton dose calculation. The technique provides an efficient and accurate way to optimize treatment plans for cases involving small or irregular targets and organs at risk.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42987745/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42987745",
-      "content_type": "paper"
-    },
-    {
-      "title": "Deep learning-based automated segmentation of target volumes for pediatric craniospinal irradiation in proton therapy",
-      "summary": "Researchers developed a deep learning-based automated segmentation model to improve the accuracy and efficiency of target delineation for pediatric craniospinal irradiation in proton therapy. The study demonstrates that such automation can enhance precision and standardize the planning workflow.",
-      "category": "AI & Imaging",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989343/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42989343",
-      "content_type": "paper"
-    },
-    {
-      "title": "Pelvic bone marrow dosimetry predicts grade 2 hematologic adverse events in locally advanced rectal cancer",
-      "summary": "This study establishes quantitative dosimetric constraints for pelvic bone marrow protection in locally advanced rectal cancer patients. The findings provide critical references to reduce the risk of hematologic adverse events during neoadjuvant chemoradiotherapy.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989298/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42989298",
-      "content_type": "paper"
-    },
-    {
-      "title": "From synthesis to clinic: a task-specific framework for CT images metal artifact reduction in cervical brachytherapy",
-      "summary": "Researchers developed a task-specific deep learning framework to reduce metal artifacts in CT scans used for cervical brachytherapy. The model showed improved geometric accuracy, supporting its potential to enhance clinical workflow efficiency and precision in brachytherapy planning.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989341/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42989341",
       "content_type": "paper"
     },
     {
