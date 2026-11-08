@@ -290,6 +290,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42997736/",
       "id": "pubmed.ncbi.nlm.nih.gov/42997736",
       "content_type": "paper"
+    },
+    {
+      "title": "Survey of Respiratory Motion Management Practices in Particle Therapy Facilities in Japan",
+      "summary": "This study details the implementation and technical trends of respiratory motion management in particle therapy across Japanese institutions. It provides insight into the diverse strategies currently employed for motion-sensitive dose distribution in proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997573/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997573",
+      "content_type": "paper"
+    },
+    {
+      "title": "Unintended coverage: how standard breast radiotherapy irradiates the internal mammary nodes",
+      "summary": "This research analyzes internal mammary node coverage during standard breast radiotherapy using tangential fields. The findings emphasize the clinical need for explicit contouring and dedicated planning when coverage of these nodes is indicated.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997858/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42997858",
+      "content_type": "paper"
+    },
+    {
+      "title": "The measure that matters: What medicine asks of artificial intelligence",
+      "summary": "This position paper highlights a misalignment between current AI evaluation metrics and clinical value. It urges the field to focus on outcomes that impact patient survival rather than subspecialist preference.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998474/",
+      "id": "pubmed.ncbi.nlm.nih.gov/42998474",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
