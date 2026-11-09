@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:15:06.893588+00:00",
+  "updated_at": "2026-11-09T06:49:54.959437+00:00",
   "articles": [
     {
       "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
@@ -13,8 +13,8 @@
     },
     {
       "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
-      "summary": "This study evaluates different dose-rate metrics to predict saturation correction factors in ultra-high-dose-rate (UHDR) proton and carbon-ion beams. Researchers compared field-averaged and pencil-beam-scanning dose rates to improve dosimetry accuracy for emerging radiotherapy modalities.",
-      "category": "Medical Physics",
+      "summary": "This study evaluates different dose-rate metrics, including field-averaged and pencil-beam-scanning dose rates, to predict saturation correction factors in UHDR proton and carbon-ion beams. The research provides critical data for the accurate dosimetry of beams delivered at ultra-high dose rates.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998949/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas throughout the treatment course",
-      "summary": "This study compares the robustness of pencil beam scanning proton therapy and volumetric modulated arc therapy for mediastinal lymphoma using deep inspiration breath-hold. The findings suggest proton therapy offers superior sparing of organs at risk while maintaining consistent target coverage.",
+      "summary": "Researchers compared the robustness of proton pencil beam scanning and VMAT photon plans for mediastinal lymphoma using breath-hold techniques. While both modalities were robust, protons offered superior organ-at-risk sparing, whereas VMAT showed more consistent target coverage.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Preliminary Dose Constraints for Testing Intensity Modulated Proton Therapy in Anal Cancer Trials",
-      "summary": "Researchers have developed specific dose-volume constraints for intensity modulated proton therapy (IMPT) in the context of anal cancer. These guidelines aim to facilitate future clinical trials by reducing dose spill to healthy tissue compared to standard photon approaches.",
+      "summary": "This study demonstrates that intensity modulated proton therapy (IMPT) improves target coverage while reducing low-to-intermediate dose spill to healthy tissue in anal cancer. The findings establish preliminary dose constraints to support future clinical trial validation.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Cardio-respiratory-gated proton pencil beam scanning for cardiac ablation: workflow and end-to-end validation",
-      "summary": "This research validates a new workflow for cardiorespiratory-gated proton beam delivery for cardiac ablation. The system demonstrated rapid response times to motion, enabling significant reduction in target expansion volumes during treatment planning.",
+      "summary": "This article validates a clinical workflow for cardiorespiratory-gated proton therapy in cardiac ablation. The implementation successfully reduced target margins by 45% while maintaining precise beam delivery response to cardiac and respiratory cycles.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Artificial intelligence in esophageal cancer radiotherapy: a literature review",
-      "summary": "This review examines the integration of artificial intelligence into esophageal cancer radiotherapy, highlighting its potential to enhance workflow efficiency and treatment accuracy. The authors emphasize the need for prospective, multicenter studies to ensure clinical translation and reliability.",
+      "summary": "This review summarizes the role of AI in improving the efficiency and accuracy of esophageal cancer radiotherapy workflows. The study highlights the need for multicenter prospective trials and explainable AI models to ensure reliable clinical translation.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-07",
@@ -83,8 +83,8 @@
     },
     {
       "title": "Unintended coverage: how standard breast radiotherapy irradiates the internal mammary nodes",
-      "summary": "This research analyzes internal mammary node coverage during standard breast radiotherapy using tangential fields. The findings emphasize the clinical need for explicit contouring and dedicated planning when coverage of these nodes is indicated.",
-      "category": "Radiation Oncology",
+      "summary": "Analysis of standard tangential breast radiotherapy fields reveals significant variability and sub-therapeutic dosing to the internal mammary nodes (IMN). The authors emphasize the necessity of deliberate contouring and specific planning strategies when IMN coverage is required.",
+      "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42997858/",
