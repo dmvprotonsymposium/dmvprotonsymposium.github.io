@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:49:54.959437+00:00",
+  "updated_at": "2026-11-09T22:29:50.422536+00:00",
   "articles": [
     {
       "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
@@ -12,8 +12,18 @@
       "content_type": "paper"
     },
     {
+      "title": "Mid-trial dosimetric analysis of the korean radiation oncology group 19 - 09 multi-institutional prospective cohort study on breast cancer",
+      "summary": "A mid-trial dosimetric analysis revealed significant dose deviations in breast cancer radiotherapy, suggesting that current methods for assessing regional nodal irradiation (RNI) omission may be inadequate. Future analysis will focus on correlating specific nodal doses with long-term clinical outcomes.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000431/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43000431",
+      "content_type": "paper"
+    },
+    {
       "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
-      "summary": "This study evaluates different dose-rate metrics, including field-averaged and pencil-beam-scanning dose rates, to predict saturation correction factors in UHDR proton and carbon-ion beams. The research provides critical data for the accurate dosimetry of beams delivered at ultra-high dose rates.",
+      "summary": "This study evaluates different dose-rate metrics to predict ionization-chamber recombination in ultra-high-dose-rate (UHDR) ion beams. The researchers compared field-averaged, pencil-beam-scanning, and dose-averaged dose rates to assess their validity in modeling saturation correction factors.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -23,7 +33,7 @@
     },
     {
       "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas throughout the treatment course",
-      "summary": "Researchers compared the robustness of proton pencil beam scanning and VMAT photon plans for mediastinal lymphoma using breath-hold techniques. While both modalities were robust, protons offered superior organ-at-risk sparing, whereas VMAT showed more consistent target coverage.",
+      "summary": "This study compared the robustness of intensity-modulated proton therapy and VMAT for mediastinal lymphoma using deep inspiration breath-hold techniques. Results indicated that while both are robust, protons offered superior organ-at-risk sparing with consistent target coverage.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -33,7 +43,7 @@
     },
     {
       "title": "Preliminary Dose Constraints for Testing Intensity Modulated Proton Therapy in Anal Cancer Trials",
-      "summary": "This study demonstrates that intensity modulated proton therapy (IMPT) improves target coverage while reducing low-to-intermediate dose spill to healthy tissue in anal cancer. The findings establish preliminary dose constraints to support future clinical trial validation.",
+      "summary": "Researchers established preliminary dose constraints for intensity-modulated proton therapy (IMPT) in anal cancer. The findings suggest IMPT can improve target coverage while reducing dose spill to organs at risk, facilitating future clinical trial validation.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -43,7 +53,7 @@
     },
     {
       "title": "Cardio-respiratory-gated proton pencil beam scanning for cardiac ablation: workflow and end-to-end validation",
-      "summary": "This article validates a clinical workflow for cardiorespiratory-gated proton therapy in cardiac ablation. The implementation successfully reduced target margins by 45% while maintaining precise beam delivery response to cardiac and respiratory cycles.",
+      "summary": "This study validates a workflow for cardio-respiratory-gated proton therapy for cardiac ablation. The implementation demonstrated significant reductions in target expansion requirements compared to non-gated approaches by compensating for both respiratory and cardiac motion.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -83,7 +93,7 @@
     },
     {
       "title": "Unintended coverage: how standard breast radiotherapy irradiates the internal mammary nodes",
-      "summary": "Analysis of standard tangential breast radiotherapy fields reveals significant variability and sub-therapeutic dosing to the internal mammary nodes (IMN). The authors emphasize the necessity of deliberate contouring and specific planning strategies when IMN coverage is required.",
+      "summary": "This study highlights that standard tangential breast radiotherapy fields provide inconsistent and partial internal mammary node (IMN) coverage. The authors recommend explicit contouring and dedicated planning whenever IMN irradiation is clinically indicated.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-07",
@@ -109,16 +119,6 @@
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42997473/",
       "id": "pubmed.ncbi.nlm.nih.gov/42997473",
-      "content_type": "paper"
-    },
-    {
-      "title": "Risk-adapted radiotherapy in pediatric neuroblastoma: current evidence, controversies, and future directions-a narrative review",
-      "summary": "This review examines radiotherapy decision-making for pediatric neuroblastoma, focusing on balancing systemic treatment response and residual disease against potential toxicities. It highlights the need for standardized reporting of dosimetric parameters to better define which patient cohorts benefit from treatment intensification or reduction.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42996725/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42996725",
       "content_type": "paper"
     },
     {
