@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-10T07:30:08.035810+00:00",
+  "updated_at": "2026-11-10T19:50:57.750658+00:00",
   "articles": [
+    {
+      "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
+      "summary": "This study analyzes the expansion of radiotherapy in the management of hepatocellular carcinoma, noting that while it has become a core component of multidisciplinary care, utilization remains geographically centralized. These findings highlight ongoing challenges in equitable access to radiation oncology infrastructure.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004674/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004674",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dosimetric impact of target volume anatomical parameters on radiotherapy after right-sided breast-conserving surgery",
+      "summary": "Researchers identified exploratory observational thresholds for target volume parameters associated with increased heart and lung dose risks in breast-conserving radiotherapy. The study emphasizes the need for prospective validation of these thresholds to improve clinical risk stratification and minimize radiation exposure to organs at risk.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005182/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43005182",
+      "content_type": "paper"
+    },
+    {
+      "title": "Gamification of clinical decision-making for medical physics residents",
+      "summary": "This article describes a new lecture series utilizing gamified clinical scenarios to support medical physics residency training. The framework covers essential topics such as patient safety, quality assurance, and treatment planning to enhance trainee clinical reasoning skills.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004610/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004610",
+      "content_type": "paper"
+    },
     {
       "title": "Outcomes of Proton Beam Therapy in Infants and Very Young Children",
       "summary": "This study evaluates proton beam therapy outcomes in children aged three years or younger within a national treatment pathway. The findings underscore the necessity of biology-guided patient selection, age-appropriate organ-at-risk dose constraints, and rigorous long-term surveillance.",
@@ -9,6 +39,26 @@
       "published_date": "2026-11-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43003228/",
       "id": "pubmed.ncbi.nlm.nih.gov/43003228",
+      "content_type": "paper"
+    },
+    {
+      "title": "A novel deep learning segmentation and multimodal radiomics approach for radiation proctitis prediction in cervical cancer",
+      "summary": "This study introduces an AI-based framework that integrates deep learning segmentation with multimodal radiomics to predict radiation proctitis. The model aims to improve the accuracy of treatment planning and reduce complications in cervical cancer patients undergoing radiotherapy.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004353/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004353",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pre-treatment T2WI-based automated artificial intelligence system for predicting neoadjuvant chemoradiotherapy response and prognosis in locally advanced rectal cancer: a multicenter study",
+      "summary": "Researchers developed and externally validated an AI system using T2-weighted MRI to predict responses to neoadjuvant chemoradiotherapy in rectal cancer. The tool is intended to serve as a decision-support resource to assist clinicians in prognostic stratification.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004223/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004223",
       "content_type": "paper"
     },
     {
@@ -29,6 +79,16 @@
       "published_date": "2026-11-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43000431/",
       "id": "pubmed.ncbi.nlm.nih.gov/43000431",
+      "content_type": "paper"
+    },
+    {
+      "title": "Neurocognitive function and quality of life results from a phase II study (NRG/RTOG 0424) of temozolomide-based chemoradiotherapy regimen for high-risk low-grade gliomas",
+      "summary": "This phase II study evaluated the long-term neurocognitive and quality of life impacts of temozolomide-based chemoradiotherapy for high-risk low-grade gliomas. Findings indicate a notable decline in neurocognitive function during the first year post-treatment, highlighting the importance of integrated monitoring to inform future clinical decisions.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000083/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43000083",
       "content_type": "paper"
     },
     {
@@ -59,66 +119,6 @@
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42997743/",
       "id": "pubmed.ncbi.nlm.nih.gov/42997743",
-      "content_type": "paper"
-    },
-    {
-      "title": "Cardio-respiratory-gated proton pencil beam scanning for cardiac ablation: workflow and end-to-end validation",
-      "summary": "This paper validates a new workflow for cardiorespiratory-gated proton beam therapy for cardiac ablation. The system successfully managed both respiratory and cardiac motion, resulting in significant target expansion reduction.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42996236/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42996236",
-      "content_type": "paper"
-    },
-    {
-      "title": "Artificial intelligence in esophageal cancer radiotherapy: a literature review",
-      "summary": "This review summarizes the role of AI in improving the efficiency and accuracy of esophageal cancer radiotherapy workflows. The study highlights the need for multicenter prospective trials and explainable AI models to ensure reliable clinical translation.",
-      "category": "AI & Imaging",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42996985/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42996985",
-      "content_type": "paper"
-    },
-    {
-      "title": "Predicting acute radiation dermatitis in breast cancer patients using artificial intelligence: a systematic review",
-      "summary": "This systematic review analyzes current AI-based models for predicting acute radiation dermatitis in breast cancer treatment. While results are promising, the study notes that a lack of standardized reporting and external validation currently limits clinical implementation.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997736/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997736",
-      "content_type": "paper"
-    },
-    {
-      "title": "Survey of Respiratory Motion Management Practices in Particle Therapy Facilities in Japan",
-      "summary": "This survey provides an overview of respiratory motion management techniques currently utilized across particle therapy facilities in Japan. It highlights prevailing technical trends and institutional practices for handling dose distribution sensitivity to motion.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997573/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997573",
-      "content_type": "paper"
-    },
-    {
-      "title": "Unintended coverage: how standard breast radiotherapy irradiates the internal mammary nodes",
-      "summary": "This study highlights that standard tangential breast radiotherapy fields provide inconsistent and partial internal mammary node (IMN) coverage. The authors recommend explicit contouring and dedicated planning whenever IMN irradiation is clinically indicated.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997858/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997858",
-      "content_type": "paper"
-    },
-    {
-      "title": "The measure that matters: What medicine asks of artificial intelligence",
-      "summary": "This position paper highlights a misalignment between current AI evaluation metrics and clinical value. It urges the field to focus on outcomes that impact patient survival rather than subspecialist preference.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998474/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42998474",
       "content_type": "paper"
     },
     {
