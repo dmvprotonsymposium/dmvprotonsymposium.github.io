@@ -20,6 +20,66 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43003228/",
       "id": "pubmed.ncbi.nlm.nih.gov/43003228",
       "content_type": "paper"
+    },
+    {
+      "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
+      "summary": "This study analyzes the expansion of radiotherapy in the management of hepatocellular carcinoma, noting that while it has become a core component of multidisciplinary care, utilization remains geographically centralized. These findings highlight ongoing challenges in equitable access to radiation oncology infrastructure.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004674/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004674",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dosimetric impact of target volume anatomical parameters on radiotherapy after right-sided breast-conserving surgery",
+      "summary": "Researchers identified exploratory observational thresholds for target volume parameters associated with increased heart and lung dose risks in breast-conserving radiotherapy. The study emphasizes the need for prospective validation of these thresholds to improve clinical risk stratification and minimize radiation exposure to organs at risk.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005182/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43005182",
+      "content_type": "paper"
+    },
+    {
+      "title": "Gamification of clinical decision-making for medical physics residents",
+      "summary": "This article describes a new lecture series utilizing gamified clinical scenarios to support medical physics residency training. The framework covers essential topics such as patient safety, quality assurance, and treatment planning to enhance trainee clinical reasoning skills.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004610/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004610",
+      "content_type": "paper"
+    },
+    {
+      "title": "A novel deep learning segmentation and multimodal radiomics approach for radiation proctitis prediction in cervical cancer",
+      "summary": "This study introduces an AI-based framework that integrates deep learning segmentation with multimodal radiomics to predict radiation proctitis. The model aims to improve the accuracy of treatment planning and reduce complications in cervical cancer patients undergoing radiotherapy.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004353/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004353",
+      "content_type": "paper"
+    },
+    {
+      "title": "Pre-treatment T2WI-based automated artificial intelligence system for predicting neoadjuvant chemoradiotherapy response and prognosis in locally advanced rectal cancer: a multicenter study",
+      "summary": "Researchers developed and externally validated an AI system using T2-weighted MRI to predict responses to neoadjuvant chemoradiotherapy in rectal cancer. The tool is intended to serve as a decision-support resource to assist clinicians in prognostic stratification.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004223/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43004223",
+      "content_type": "paper"
+    },
+    {
+      "title": "Neurocognitive function and quality of life results from a phase II study (NRG/RTOG 0424) of temozolomide-based chemoradiotherapy regimen for high-risk low-grade gliomas",
+      "summary": "This phase II study evaluated the long-term neurocognitive and quality of life impacts of temozolomide-based chemoradiotherapy for high-risk low-grade gliomas. Findings indicate a notable decline in neurocognitive function during the first year post-treatment, highlighting the importance of integrated monitoring to inform future clinical decisions.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000083/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43000083",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
