@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-09T22:29:50.422536+00:00",
+  "updated_at": "2026-11-10T07:30:08.035810+00:00",
   "articles": [
+    {
+      "title": "Outcomes of Proton Beam Therapy in Infants and Very Young Children",
+      "summary": "This study evaluates proton beam therapy outcomes in children aged three years or younger within a national treatment pathway. The findings underscore the necessity of biology-guided patient selection, age-appropriate organ-at-risk dose constraints, and rigorous long-term surveillance.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003228/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43003228",
+      "content_type": "paper"
+    },
     {
       "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
       "summary": "Researchers developed self-supervised anomaly-detection frameworks for pelvic MRI to improve the reliability of AI-supported radiotherapy workflows. The study addresses the challenge of out-of-distribution image data, which can introduce errors in automated clinical tasks.",
@@ -22,9 +32,9 @@
       "content_type": "paper"
     },
     {
-      "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams: application and validity of quasi-static response models",
-      "summary": "This study evaluates different dose-rate metrics to predict ionization-chamber recombination in ultra-high-dose-rate (UHDR) ion beams. The researchers compared field-averaged, pencil-beam-scanning, and dose-averaged dose rates to assess their validity in modeling saturation correction factors.",
-      "category": "Proton Therapy",
+      "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams",
+      "summary": "This research assesses the validity of quasi-static response models for predicting ionization-chamber recombination in ultra-high-dose-rate particle beams. It compares various dose-rate metrics to better define saturation correction factors in synchrotron-based delivery systems.",
+      "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998949/",
@@ -32,8 +42,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas throughout the treatment course",
-      "summary": "This study compared the robustness of intensity-modulated proton therapy and VMAT for mediastinal lymphoma using deep inspiration breath-hold techniques. Results indicated that while both are robust, protons offered superior organ-at-risk sparing with consistent target coverage.",
+      "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas",
+      "summary": "Researchers compared the robustness of proton pencil beam scanning and VMAT for treating mediastinal lymphomas. While both were found to be robust, proton therapy demonstrated superior organ-at-risk sparing.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -43,7 +53,7 @@
     },
     {
       "title": "Preliminary Dose Constraints for Testing Intensity Modulated Proton Therapy in Anal Cancer Trials",
-      "summary": "Researchers established preliminary dose constraints for intensity-modulated proton therapy (IMPT) in anal cancer. The findings suggest IMPT can improve target coverage while reducing dose spill to organs at risk, facilitating future clinical trial validation.",
+      "summary": "This study establishes preliminary dose constraints for intensity modulated proton therapy in anal cancer. These guidelines aim to facilitate future clinical trials by optimizing target coverage and reducing dose to organs at risk.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -53,7 +63,7 @@
     },
     {
       "title": "Cardio-respiratory-gated proton pencil beam scanning for cardiac ablation: workflow and end-to-end validation",
-      "summary": "This study validates a workflow for cardio-respiratory-gated proton therapy for cardiac ablation. The implementation demonstrated significant reductions in target expansion requirements compared to non-gated approaches by compensating for both respiratory and cardiac motion.",
+      "summary": "This paper validates a new workflow for cardiorespiratory-gated proton beam therapy for cardiac ablation. The system successfully managed both respiratory and cardiac motion, resulting in significant target expansion reduction.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -83,7 +93,7 @@
     },
     {
       "title": "Survey of Respiratory Motion Management Practices in Particle Therapy Facilities in Japan",
-      "summary": "This study details the implementation and technical trends of respiratory motion management in particle therapy across Japanese institutions. It provides insight into the diverse strategies currently employed for motion-sensitive dose distribution in proton therapy.",
+      "summary": "This survey provides an overview of respiratory motion management techniques currently utilized across particle therapy facilities in Japan. It highlights prevailing technical trends and institutional practices for handling dose distribution sensitivity to motion.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-07",
@@ -109,16 +119,6 @@
       "published_date": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998474/",
       "id": "pubmed.ncbi.nlm.nih.gov/42998474",
-      "content_type": "paper"
-    },
-    {
-      "title": "Temporal trends in radiation-induced optic neuropathy: a meta-analysis",
-      "summary": "This systematic review and meta-analysis evaluates how changes in radiotherapy techniques and fractionation schemes over time have influenced the incidence of radiation-induced optic neuropathy. The study aims to provide clarity on toxicity trends in the context of evolving clinical practices.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997473/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997473",
       "content_type": "paper"
     },
     {
