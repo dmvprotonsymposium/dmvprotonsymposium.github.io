@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-11T06:42:26.052713+00:00",
+  "updated_at": "2026-11-11T19:43:53.105449+00:00",
   "articles": [
+    {
+      "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
+      "summary": "This study demonstrates an automated framework for developing high-fidelity Monte Carlo beam models using standard CTDI measurements. The method provides an accessible alternative for characterizing On-Board Imaging (OBI) systems in proton therapy with high dosimetric accuracy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010860/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010860",
+      "content_type": "paper"
+    },
     {
       "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
       "summary": "This study analyzes the expansion of radiotherapy in the management of hepatocellular carcinoma, noting that while it has become a core component of multidisciplinary care, utilization remains geographically centralized. These findings highlight ongoing challenges in equitable access to radiation oncology infrastructure.",
@@ -82,6 +92,16 @@
       "content_type": "paper"
     },
     {
+      "title": "Integrating a Ripple Filter into Pencil Beam Scanning Proton Therapy for Breast Cancer: from Dosimetric Feasibility to Acute Toxicity Assessment",
+      "summary": "Researchers evaluated the use of ripple filters in breast cancer pencil beam scanning proton therapy, finding they improve delivery efficiency while maintaining acute safety. The results suggest this approach is a viable strategy for synchrotron-based proton systems.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009815/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43009815",
+      "content_type": "paper"
+    },
+    {
       "title": "Outcomes of Proton Beam Therapy in Infants and Very Young Children",
       "summary": "A national study reviewing Proton Beam Therapy (PBT) outcomes in children aged three and under highlights the necessity of age-adapted organ-at-risk constraints. The authors emphasize the importance of biology-guided patient selection and rigorous long-term toxicity surveillance in this vulnerable demographic.",
       "category": "Proton Therapy",
@@ -99,26 +119,6 @@
       "published_date": "2026-11-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004353/",
       "id": "pubmed.ncbi.nlm.nih.gov/43004353",
-      "content_type": "paper"
-    },
-    {
-      "title": "Pre-treatment T2WI-based automated artificial intelligence system for predicting neoadjuvant chemoradiotherapy response and prognosis in locally advanced rectal cancer: a multicenter study",
-      "summary": "Researchers developed and externally validated an AI system using T2-weighted MRI to predict responses to neoadjuvant chemoradiotherapy in rectal cancer. The tool is intended to serve as a decision-support resource to assist clinicians in prognostic stratification.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004223/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43004223",
-      "content_type": "paper"
-    },
-    {
-      "title": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
-      "summary": "Researchers developed self-supervised anomaly-detection frameworks for pelvic MRI to improve the reliability of AI-supported radiotherapy workflows. The study addresses the challenge of out-of-distribution image data, which can introduce errors in automated clinical tasks.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999868/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42999868",
       "content_type": "paper"
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology has released updated clinical guidelines recommending the use of shorter-course radiation therapy regimens for patients with localized prostate cancer. These evidence-based updates aim to standardize care and improve efficiency for patients undergoing radiation treatment.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has updated its clinical practice guidelines, providing new recommendations regarding the implementation of shorter-course radiation therapy regimens for localized prostate cancer. These guidelines aim to standardize care patterns and optimize treatment efficiency for patients.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
