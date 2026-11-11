@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:50:57.750658+00:00",
+  "updated_at": "2026-11-11T06:42:26.052713+00:00",
   "articles": [
     {
       "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
@@ -32,8 +32,58 @@
       "content_type": "paper"
     },
     {
+      "title": "PROton therapy for HPV-related oroPHaryngeal cancer patients using normal tissue complication probability (NTCP) modEl-based strategy",
+      "summary": "This study evaluated the feasibility of an NTCP-based model for Intensity Modulated Proton Therapy (IMPT) in Italian patients with oropharyngeal squamous cell carcinoma. Findings suggest that standardized delineation and robust optimization are necessary to ensure consistent clinical benefits for this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008645/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008645",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dynamic Range Modulation via Integrated Universal Range Shifter and Ridge Filter: Enabling Simplified Delivery for FLASH-Enabled IMPT",
+      "summary": "Researchers proposed a system combining universal range shifters and ridge filters to address challenges in achieving high dose rates for proton FLASH therapy. The approach aims to minimize energy layer switching interruptions to maintain the FLASH effect during Intensity Modulated Proton Therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008392/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008392",
+      "content_type": "paper"
+    },
+    {
+      "title": "Machine learning prediction of electronic-portal-imaging-device-based in vivo dosimetry results",
+      "summary": "This study developed a machine learning model to predict in vivo dosimetry results using EPID-based imaging and plan complexity metrics. The approach aims to provide a proactive method for risk anticipation in radiotherapy workflows before treatment delivery.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007600/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43007600",
+      "content_type": "paper"
+    },
+    {
+      "title": "Minimum recommended distances between cardiac implantable electronic devices and the applicator surface in low-energy intraoperative radiotherapy",
+      "summary": "This study establishes practical dosimetric guidelines for patients with cardiac implantable electronic devices undergoing intraoperative breast radiotherapy. Using ultrasound and applicator-specific distance metrics, researchers provided a framework to guide safer clinical treatment decisions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008643/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008643",
+      "content_type": "paper"
+    },
+    {
+      "title": "Explainable machine learning predictive models for treatment response after SBRT in melanoma brain metastases",
+      "summary": "Researchers developed explainable machine learning models to predict treatment responses in oligometastatic lesions treated with Stereotactic Body Radiotherapy (SBRT). The findings suggest these models can assist clinicians in developing individualized radiotherapy plans for brain metastases.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007513/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43007513",
+      "content_type": "paper"
+    },
+    {
       "title": "Outcomes of Proton Beam Therapy in Infants and Very Young Children",
-      "summary": "This study evaluates proton beam therapy outcomes in children aged three years or younger within a national treatment pathway. The findings underscore the necessity of biology-guided patient selection, age-appropriate organ-at-risk dose constraints, and rigorous long-term surveillance.",
+      "summary": "A national study reviewing Proton Beam Therapy (PBT) outcomes in children aged three and under highlights the necessity of age-adapted organ-at-risk constraints. The authors emphasize the importance of biology-guided patient selection and rigorous long-term toxicity surveillance in this vulnerable demographic.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-09",
@@ -72,56 +122,6 @@
       "content_type": "paper"
     },
     {
-      "title": "Mid-trial dosimetric analysis of the korean radiation oncology group 19 - 09 multi-institutional prospective cohort study on breast cancer",
-      "summary": "A mid-trial dosimetric analysis revealed significant dose deviations in breast cancer radiotherapy, suggesting that current methods for assessing regional nodal irradiation (RNI) omission may be inadequate. Future analysis will focus on correlating specific nodal doses with long-term clinical outcomes.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000431/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43000431",
-      "content_type": "paper"
-    },
-    {
-      "title": "Neurocognitive function and quality of life results from a phase II study (NRG/RTOG 0424) of temozolomide-based chemoradiotherapy regimen for high-risk low-grade gliomas",
-      "summary": "This phase II study evaluated the long-term neurocognitive and quality of life impacts of temozolomide-based chemoradiotherapy for high-risk low-grade gliomas. Findings indicate a notable decline in neurocognitive function during the first year post-treatment, highlighting the importance of integrated monitoring to inform future clinical decisions.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000083/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43000083",
-      "content_type": "paper"
-    },
-    {
-      "title": "Dose-rate metrics for ionization-chamber recombination in synchrotron-based ultra-high-dose-rate proton and carbon-ion beams",
-      "summary": "This research assesses the validity of quasi-static response models for predicting ionization-chamber recombination in ultra-high-dose-rate particle beams. It compares various dose-rate metrics to better define saturation correction factors in synchrotron-based delivery systems.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998949/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42998949",
-      "content_type": "paper"
-    },
-    {
-      "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas",
-      "summary": "Researchers compared the robustness of proton pencil beam scanning and VMAT for treating mediastinal lymphomas. While both were found to be robust, proton therapy demonstrated superior organ-at-risk sparing.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997789/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997789",
-      "content_type": "paper"
-    },
-    {
-      "title": "Preliminary Dose Constraints for Testing Intensity Modulated Proton Therapy in Anal Cancer Trials",
-      "summary": "This study establishes preliminary dose constraints for intensity modulated proton therapy in anal cancer. These guidelines aim to facilitate future clinical trials by optimizing target coverage and reducing dose to organs at risk.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997743/",
-      "id": "pubmed.ncbi.nlm.nih.gov/42997743",
-      "content_type": "paper"
-    },
-    {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
       "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
       "category": "Proton Therapy",
@@ -133,7 +133,7 @@
     },
     {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
-      "summary": "The BayCare Proton Center has successfully initiated patient treatments using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie solution. This facility represents a new implementation of compact proton therapy technology.",
+      "summary": "The BayCare Proton Center has successfully treated its first patient utilizing the Mevion S250 FIT™ system integrated with the Leo Cancer Care Marie® solution. This clinical milestone marks the implementation of new technology aimed at advancing patient positioning and treatment delivery in a proton therapy setting.",
       "category": "Proton Therapy",
       "source": "Proton Center Developments",
       "published_date": "2026-11-05",
