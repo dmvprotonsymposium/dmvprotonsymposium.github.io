@@ -80,6 +80,56 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43000083/",
       "id": "pubmed.ncbi.nlm.nih.gov/43000083",
       "content_type": "paper"
+    },
+    {
+      "title": "PROton therapy for HPV-related oroPHaryngeal cancer patients using normal tissue complication probability (NTCP) modEl-based strategy",
+      "summary": "This study evaluated the feasibility of an NTCP-based model for Intensity Modulated Proton Therapy (IMPT) in Italian patients with oropharyngeal squamous cell carcinoma. Findings suggest that standardized delineation and robust optimization are necessary to ensure consistent clinical benefits for this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008645/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008645",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dynamic Range Modulation via Integrated Universal Range Shifter and Ridge Filter: Enabling Simplified Delivery for FLASH-Enabled IMPT",
+      "summary": "Researchers proposed a system combining universal range shifters and ridge filters to address challenges in achieving high dose rates for proton FLASH therapy. The approach aims to minimize energy layer switching interruptions to maintain the FLASH effect during Intensity Modulated Proton Therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008392/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008392",
+      "content_type": "paper"
+    },
+    {
+      "title": "Machine learning prediction of electronic-portal-imaging-device-based in vivo dosimetry results",
+      "summary": "This study developed a machine learning model to predict in vivo dosimetry results using EPID-based imaging and plan complexity metrics. The approach aims to provide a proactive method for risk anticipation in radiotherapy workflows before treatment delivery.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007600/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43007600",
+      "content_type": "paper"
+    },
+    {
+      "title": "Minimum recommended distances between cardiac implantable electronic devices and the applicator surface in low-energy intraoperative radiotherapy",
+      "summary": "This study establishes practical dosimetric guidelines for patients with cardiac implantable electronic devices undergoing intraoperative breast radiotherapy. Using ultrasound and applicator-specific distance metrics, researchers provided a framework to guide safer clinical treatment decisions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008643/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43008643",
+      "content_type": "paper"
+    },
+    {
+      "title": "Explainable machine learning predictive models for treatment response after SBRT in melanoma brain metastases",
+      "summary": "Researchers developed explainable machine learning models to predict treatment responses in oligometastatic lesions treated with Stereotactic Body Radiotherapy (SBRT). The findings suggest these models can assist clinicians in developing individualized radiotherapy plans for brain metastases.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007513/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43007513",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
