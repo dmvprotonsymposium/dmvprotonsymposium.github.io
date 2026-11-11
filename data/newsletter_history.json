@@ -130,6 +130,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43007513/",
       "id": "pubmed.ncbi.nlm.nih.gov/43007513",
       "content_type": "paper"
+    },
+    {
+      "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
+      "summary": "This study demonstrates an automated framework for developing high-fidelity Monte Carlo beam models using standard CTDI measurements. The method provides an accessible alternative for characterizing On-Board Imaging (OBI) systems in proton therapy with high dosimetric accuracy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010860/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010860",
+      "content_type": "paper"
+    },
+    {
+      "title": "Integrating a Ripple Filter into Pencil Beam Scanning Proton Therapy for Breast Cancer: from Dosimetric Feasibility to Acute Toxicity Assessment",
+      "summary": "Researchers evaluated the use of ripple filters in breast cancer pencil beam scanning proton therapy, finding they improve delivery efficiency while maintaining acute safety. The results suggest this approach is a viable strategy for synchrotron-based proton systems.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009815/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43009815",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
