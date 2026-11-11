@@ -27,6 +27,8 @@ import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+import re
+import unicodedata
 import requests
 import feedparser
 from google import genai
@@ -708,6 +710,18 @@ def select_articles_with_gemini(
 # ---------------------------------------------------------------------
 # MERGE
 # ---------------------------------------------------------------------
+def normalize_title(title: str) -> str:
+    """Normalize titles for duplicate detection."""
+    title = unicodedata.normalize("NFKC", title)
+    title = title.casefold()
+
+    # Remove punctuation, trademark symbols, etc.
+    title = "".join(
+        char if char.isalnum() else " "
+        for char in title
+    )
+
+    return re.sub(r"\s+", " ", title).strip()
 
 
 def merge_articles(
@@ -740,7 +754,32 @@ def merge_articles(
         # Prefer the newly generated version if a URL repeats.
         by_url[key] = article
 
-    articles = list(by_url.values())
+    # Deduplicate by title as well as URL.
+    by_title = {}
+    
+    for article in by_url.values():
+        title_key = normalize_title(article["title"])
+    
+        if title_key not in by_title:
+            by_title[title_key] = article
+        else:
+            existing_article = by_title[title_key]
+    
+            # Prefer the newer article.
+            # For the same date, prefer the longer summary.
+            current_rank = (
+                article["published_date"],
+                len(article["summary"]),
+            )
+            existing_rank = (
+                existing_article["published_date"],
+                len(existing_article["summary"]),
+            )
+    
+            if current_rank > existing_rank:
+                by_title[title_key] = article
+    
+    articles = list(by_title.values())
 
     papers = sorted(
         [a for a in articles if a["content_type"] == "paper"],
