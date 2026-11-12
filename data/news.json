@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-12T07:23:42.177959+00:00",
+  "updated_at": "2026-11-12T20:05:51.680298+00:00",
   "articles": [
+    {
+      "title": "Clinical outcomes and toxicity after proton- versus photon-based spatially fractionated radiotherapy for soft-tissue sarcoma: a retrospective cohort",
+      "summary": "This study evaluates the use of proton-based spatially fractionated radiotherapy for soft-tissue sarcomas. It specifically investigates whether proton Bragg peak advantages effectively reduce low-dose exposure compared to photon-based methods while assessing potential impacts on perioperative wound complications.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016761/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43016761",
+      "content_type": "paper"
+    },
+    {
+      "title": "Personalized dosimetry for targeted radionuclide therapy: initial clinical experience from a case series at a tertiary cancer center",
+      "summary": "Researchers report on the implementation of personalized dosimetry within routine clinical practice. The study highlights how this approach enhances therapeutic precision by identifying undertreated lesions and improving the protection of organs at risk.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018486/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43018486",
+      "content_type": "paper"
+    },
+    {
+      "title": "Federated learning in cancer imaging: a comprehensive review and future outlook",
+      "summary": "This review examines the potential of federated learning to overcome data privacy challenges in AI medical model development. It discusses how these techniques can facilitate multi-institutional collaboration to improve cancer imaging and diagnostic accuracy without compromising sensitive patient data.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016904/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43016904",
+      "content_type": "paper"
+    },
     {
       "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
       "summary": "This study demonstrates an automated framework for developing high-fidelity Monte Carlo beam models using standard CTDI measurements. The method provides an accessible alternative for characterizing On-Board Imaging (OBI) systems in proton therapy with high dosimetric accuracy.",
@@ -52,6 +82,16 @@
       "content_type": "paper"
     },
     {
+      "title": "Prophylactic low-dose liver irradiation reprograms the pre-metastatic immune niche and suppresses NSCLC liver metastasis",
+      "summary": "This radiobiology study demonstrates that prophylactic low-dose liver irradiation can modulate the pre-metastatic niche to suppress metastasis in non-small cell lung cancer models. The findings provide insights into the role of immune radiobiology in systemic disease control.",
+      "category": "Research",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015826/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43015826",
+      "content_type": "paper"
+    },
+    {
       "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
       "summary": "This study analyzes the expansion of radiotherapy in the management of hepatocellular carcinoma, noting that while it has become a core component of multidisciplinary care, utilization remains geographically centralized. These findings highlight ongoing challenges in equitable access to radiation oncology infrastructure.",
       "category": "Research",
@@ -82,48 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "PROton therapy for HPV-related oroPHaryngeal cancer patients using normal tissue complication probability (NTCP) modEl-based strategy: an iTalian multIcenter retrospective Cross-sectional study - PROPHETIC",
-      "summary": "This multicenter study evaluates the feasibility of using NTCP models to select patients for proton therapy. The results suggest that structured model-based evaluation is essential for consistent patient selection in head and neck cancer.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008645/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43008645",
-      "content_type": "paper"
-    },
-    {
-      "title": "Dynamic Range Modulation via Integrated Universal Range Shifter and Ridge Filter: Enabling Simplified Delivery for FLASH-Enabled IMPT",
-      "summary": "Researchers proposed a system combining universal range shifters and ridge filters to address challenges in achieving high dose rates for proton FLASH therapy. The approach aims to minimize energy layer switching interruptions to maintain the FLASH effect during Intensity Modulated Proton Therapy.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008392/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43008392",
-      "content_type": "paper"
-    },
-    {
-      "title": "Machine learning prediction of electronic-portal-imaging-device-based in vivo dosimetry results",
-      "summary": "This study developed a machine learning model to predict in vivo dosimetry results using EPID-based imaging and plan complexity metrics. The approach aims to provide a proactive method for risk anticipation in radiotherapy workflows before treatment delivery.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007600/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43007600",
-      "content_type": "paper"
-    },
-    {
-      "title": "Minimum recommended distances between cardiac implantable electronic devices and the applicator surface in low-energy intraoperative radiotherapy",
-      "summary": "This study establishes practical dosimetric guidelines for patients with cardiac implantable electronic devices undergoing intraoperative breast radiotherapy. Using ultrasound and applicator-specific distance metrics, researchers provided a framework to guide safer clinical treatment decisions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008643/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43008643",
-      "content_type": "paper"
-    },
-    {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
-      "summary": "The BayCare Proton Center has successfully treated its first patient utilizing the Mevion S250 FIT™ system integrated with the Leo Cancer Care Marie® solution. This clinical milestone marks the implementation of new technology aimed at advancing patient positioning and treatment delivery in a proton therapy setting.",
+      "summary": "The BayCare Proton Center has successfully treated its first patient using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's upright patient positioning solution. This deployment marks a significant clinical integration of upright radiotherapy technology.",
       "category": "Proton Therapy",
       "source": "Proton Center Developments",
       "published_date": "2026-11-05",
@@ -143,7 +143,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has updated its clinical practice guidelines, providing new recommendations regarding the implementation of shorter-course radiation therapy regimens for localized prostate cancer. These guidelines aim to standardize care patterns and optimize treatment efficiency for patients.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has updated its clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. The update reflects evolving clinical evidence on hypofractionated treatment regimens.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare pricing change could significantly reduce reimbursement rates for standalone proton therapy centers compared to hospital-based departments. Stakeholders warn that this policy could negatively impact clinical operations and limit patient access to specialized cancer treatment.",
+      "summary": "A proposed Medicare reimbursement change could reduce payments to independent proton therapy centers by approximately 30% relative to hospital-based facilities. Stakeholders warn that this policy shift may impact center financial viability and long-term access to specialized proton radiation services.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
