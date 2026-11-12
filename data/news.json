@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:43:53.105449+00:00",
+  "updated_at": "2026-11-12T07:23:42.177959+00:00",
   "articles": [
     {
       "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
@@ -9,6 +9,46 @@
       "published_date": "2026-11-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43010860/",
       "id": "pubmed.ncbi.nlm.nih.gov/43010860",
+      "content_type": "paper"
+    },
+    {
+      "title": "Unsupervised deep learning model for fast energy layer pre-selection of delivery-efficient proton arc therapy plan optimization of nasopharyngeal carcinoma",
+      "summary": "This study explores an unsupervised deep learning approach to optimize energy layer pre-selection in proton arc therapy. The model aims to improve treatment delivery efficiency by reducing energy layer switching time while maintaining plan quality for nasopharyngeal carcinoma.",
+      "category": "AI & Imaging",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013977/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43013977",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dose-time-response relationships between radiation dose to the circulating blood and temporal changes in peripheral blood biomarkers during chemoradiation of non-small cell lung cancer",
+      "summary": "This research analyzes the relationship between radiation exposure to circulating blood and hematological toxicity in lung cancer patients. The findings support the need to minimize blood dose during radiotherapy to reduce treatment-related side effects.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014453/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43014453",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparison of dose escalation strategies for head and neck cancer patients using a radiobiological model of reoxygenation",
+      "summary": "This study evaluates different strategies for dose escalation to address tumor hypoxia in head and neck cancers. It provides a radiobiological model to quantify the limitations of dose-escalation approaches in a dynamic tumor environment.",
+      "category": "Research",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010859/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010859",
+      "content_type": "paper"
+    },
+    {
+      "title": "Mechanism of endothelial cell-derived S100A11 in promoting radiation-induced cardiac fibrosis in C57BL/6 mice",
+      "summary": "This study investigates the biological pathways behind radiation-induced cardiac fibrosis. Researchers identified S100A11 as a key mediator in endothelial cells following high-dose thoracic irradiation in a murine model.",
+      "category": "Research",
+      "source": "PubMed AI",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010754/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010754",
       "content_type": "paper"
     },
     {
@@ -42,8 +82,8 @@
       "content_type": "paper"
     },
     {
-      "title": "PROton therapy for HPV-related oroPHaryngeal cancer patients using normal tissue complication probability (NTCP) modEl-based strategy",
-      "summary": "This study evaluated the feasibility of an NTCP-based model for Intensity Modulated Proton Therapy (IMPT) in Italian patients with oropharyngeal squamous cell carcinoma. Findings suggest that standardized delineation and robust optimization are necessary to ensure consistent clinical benefits for this patient population.",
+      "title": "PROton therapy for HPV-related oroPHaryngeal cancer patients using normal tissue complication probability (NTCP) modEl-based strategy: an iTalian multIcenter retrospective Cross-sectional study - PROPHETIC",
+      "summary": "This multicenter study evaluates the feasibility of using NTCP models to select patients for proton therapy. The results suggest that structured model-based evaluation is essential for consistent patient selection in head and neck cancer.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-10",
@@ -80,56 +120,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008643/",
       "id": "pubmed.ncbi.nlm.nih.gov/43008643",
       "content_type": "paper"
-    },
-    {
-      "title": "Explainable machine learning predictive models for treatment response after SBRT in melanoma brain metastases",
-      "summary": "Researchers developed explainable machine learning models to predict treatment responses in oligometastatic lesions treated with Stereotactic Body Radiotherapy (SBRT). The findings suggest these models can assist clinicians in developing individualized radiotherapy plans for brain metastases.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007513/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43007513",
-      "content_type": "paper"
-    },
-    {
-      "title": "Integrating a Ripple Filter into Pencil Beam Scanning Proton Therapy for Breast Cancer: from Dosimetric Feasibility to Acute Toxicity Assessment",
-      "summary": "Researchers evaluated the use of ripple filters in breast cancer pencil beam scanning proton therapy, finding they improve delivery efficiency while maintaining acute safety. The results suggest this approach is a viable strategy for synchrotron-based proton systems.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009815/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43009815",
-      "content_type": "paper"
-    },
-    {
-      "title": "Outcomes of Proton Beam Therapy in Infants and Very Young Children",
-      "summary": "A national study reviewing Proton Beam Therapy (PBT) outcomes in children aged three and under highlights the necessity of age-adapted organ-at-risk constraints. The authors emphasize the importance of biology-guided patient selection and rigorous long-term toxicity surveillance in this vulnerable demographic.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003228/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43003228",
-      "content_type": "paper"
-    },
-    {
-      "title": "A novel deep learning segmentation and multimodal radiomics approach for radiation proctitis prediction in cervical cancer",
-      "summary": "This study introduces an AI-based framework that integrates deep learning segmentation with multimodal radiomics to predict radiation proctitis. The model aims to improve the accuracy of treatment planning and reduce complications in cervical cancer patients undergoing radiotherapy.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004353/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43004353",
-      "content_type": "paper"
-    },
-    {
-      "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
-      "summary": "BayCare Health System has successfully treated its first patient at the new St. Joseph's Hospital proton therapy center. The facility utilizes the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie upright patient positioning solution.",
-      "category": "Proton Therapy",
-      "source": "PR Newswire UK",
-      "published_date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZkUEZqYVRhandBLTUtQTBWX1pqdmxQUWVNZkZzNnRQcURjUk03SDg4UDhrSS1YcDdzRm5DN0ZnZTl5dE9SY183NzU4blNBazR0eHR2MTNZNHlndW5Ya3FmSmRxV1k1ZFVERjFPbEQ1UTI3dV84ai1DTzM0SUVfelczVVlrV3QzZQ?oc=5",
-      "id": "news.google.com/rss/articles/CBMi7AFBVV95cUxNWndnS0xXMHJPQWp0R3N0OGpXSTQxRThXVXFPejNYNHNDS2VucVZIaE93N0JfNi1haENfUmk5RmlhcGU2dzFMNFhNeFo4XzA4SVBYRGtLMnpHd0xiVGx3YnFLdWF5YWlQQ0tTYnZ",
-      "content_type": "news"
     },
     {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
@@ -179,6 +169,16 @@
       "published_date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJrajVNRXRvcWZpdEVuS0ZCa0RjNGx3MGFCaXJpazhnbWZPdGF3WUpmUUdDS1pOQjNodVFKek1qX08yVFdSVjJaSE1tUTliWDU1YzhMZUE1ejBuYkF1NGdFcXRXNDBkMFFvYk1mWWgxZW1lSFJldXhULWdB?oc=5",
       "id": "news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJ",
+      "content_type": "news"
+    },
+    {
+      "title": "Medicare change could cost standalone proton therapy centers millions",
+      "summary": "A proposed Medicare pricing change could significantly reduce reimbursement rates for standalone proton therapy centers compared to hospital-based departments. Stakeholders warn that this policy could negatively impact clinical operations and limit patient access to specialized cancer treatment.",
+      "category": "Proton Therapy",
+      "source": "NAPT News",
+      "published_date": "2026-10-09",
+      "url": "https://proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-therapy-centers-millions",
+      "id": "proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-th",
       "content_type": "news"
     }
   ]
