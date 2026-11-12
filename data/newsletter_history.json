@@ -150,6 +150,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43009815/",
       "id": "pubmed.ncbi.nlm.nih.gov/43009815",
       "content_type": "paper"
+    },
+    {
+      "title": "Unsupervised deep learning model for fast energy layer pre-selection of delivery-efficient proton arc therapy plan optimization of nasopharyngeal carcinoma",
+      "summary": "This study explores an unsupervised deep learning approach to optimize energy layer pre-selection in proton arc therapy. The model aims to improve treatment delivery efficiency by reducing energy layer switching time while maintaining plan quality for nasopharyngeal carcinoma.",
+      "category": "AI & Imaging",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013977/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43013977",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dose-time-response relationships between radiation dose to the circulating blood and temporal changes in peripheral blood biomarkers during chemoradiation of non-small cell lung cancer",
+      "summary": "This research analyzes the relationship between radiation exposure to circulating blood and hematological toxicity in lung cancer patients. The findings support the need to minimize blood dose during radiotherapy to reduce treatment-related side effects.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014453/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43014453",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparison of dose escalation strategies for head and neck cancer patients using a radiobiological model of reoxygenation",
+      "summary": "This study evaluates different strategies for dose escalation to address tumor hypoxia in head and neck cancers. It provides a radiobiological model to quantify the limitations of dose-escalation approaches in a dynamic tumor environment.",
+      "category": "Research",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010859/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010859",
+      "content_type": "paper"
+    },
+    {
+      "title": "Mechanism of endothelial cell-derived S100A11 in promoting radiation-induced cardiac fibrosis in C57BL/6 mice",
+      "summary": "This study investigates the biological pathways behind radiation-induced cardiac fibrosis. Researchers identified S100A11 as a key mediator in endothelial cells following high-dose thoracic irradiation in a murine model.",
+      "category": "Research",
+      "source": "PubMed AI",
+      "published_date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010754/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43010754",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
