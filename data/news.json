@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-11-13T06:55:49.118677+00:00",
+  "updated_at": "2026-11-13T19:51:11.266822+00:00",
   "articles": [
     {
+      "title": "Pre-selection of breast cancer patients for deep inspiration breath-hold proton radiotherapy: Who benefits?",
+      "summary": "This study evaluates which breast cancer patients derive the greatest benefit from intensity-modulated proton therapy using deep inspiration breath-hold. Researchers highlight specific criteria, such as patient age, tumor side, and cardiac risk factors, to guide personalized treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022719/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43022719",
+      "content_type": "paper"
+    },
+    {
+      "title": "Improved breast DIBH simulation efficiency and dosimetry with a take-home wireless respiration belt coaching system",
+      "summary": "Researchers demonstrate that a take-home wireless respiration coaching system significantly reduces CT simulation time for breast cancer patients. The intervention also correlated with improved cardiac dose metrics compared to standard methods.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022918/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43022918",
+      "content_type": "paper"
+    },
+    {
+      "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released the 2027 Medicare final rules, which include significant payment updates for proton therapy services. Hospital outpatient payments for common proton therapy codes are set to increase in 2027 due to budget neutrality adjustments related to 340B drug payment reductions.",
+      "category": "Proton Therapy",
+      "source": "NAPT News",
+      "published_date": "2026-11-13",
+      "url": "https://proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
+      "id": "proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
+      "content_type": "news"
+    },
+    {
       "title": "Clinical outcomes and toxicity after proton- versus photon-based spatially fractionated radiotherapy for soft-tissue sarcoma: a retrospective cohort",
-      "summary": "This study evaluates the use of proton-based spatially fractionated radiotherapy for soft-tissue sarcomas. It specifically investigates whether proton Bragg peak advantages effectively reduce low-dose exposure compared to photon-based methods while assessing potential impacts on perioperative wound complications.",
+      "summary": "This retrospective analysis compares proton-based and photon-based spatially fractionated radiotherapy for high-grade soft-tissue sarcoma. The study explores how the Bragg peak characteristics of protons affect proximal skin dose and perioperative wound complications.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-12",
@@ -43,7 +73,7 @@
     },
     {
       "title": "Particle therapy for T3N0M0 non-small cell lung cancer: a Japanese nationwide prospective registry study",
-      "summary": "A prospective registry study demonstrates encouraging survival outcomes and low severe toxicity rates for particle therapy in patients with T3N0M0 non-small cell lung cancer. The findings highlight proton or carbon ion therapy as a viable definitive treatment for patients who are medically inoperable or decline surgery.",
+      "summary": "A large-scale prospective study indicates that particle therapy offers encouraging survival outcomes and low severe toxicity for medically inoperable T3N0M0 non-small cell lung cancer patients. The findings suggest particle therapy is a viable definitive treatment option for this patient population.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-12",
@@ -53,8 +83,8 @@
     },
     {
       "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer",
-      "summary": "Researchers analyzed data from the ARISTOTLE phase 3 trial to identify factors contributing to treatment-related lymphopenia. The study highlights how therapy-related changes impact lymphocyte depletion and subsequent progression-free survival in patients with locally advanced rectal cancer.",
-      "category": "Radiation Oncology",
+      "summary": "Using data from the ARISTOTLE phase 3 trial, this study identifies key treatment-related variables that contribute to lymphocyte depletion. The results provide insights into the impact of treatment factors on progression-free survival in locally advanced rectal cancer.",
+      "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/",
@@ -63,7 +93,7 @@
     },
     {
       "title": "AI model integrating dosimetric and radiomic features for predicting cognitive impairment after brain radiotherapy",
-      "summary": "This study developed and validated a multimodal AI model combining dosimetric parameters with MRI-derived radiomics to predict cognitive impairment risks post-brain radiotherapy. Such predictive tools may eventually allow for personalized neuroprotective interventions and adaptive treatment planning.",
+      "summary": "This study develops a multimodal artificial intelligence model that combines dosimetric parameters and MRI-derived features to predict cognitive decline after brain radiotherapy. The tool aims to support adaptive dose constraints and personalized neuroprotective planning.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-12",
@@ -99,26 +129,6 @@
       "published_date": "2026-11-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43013977/",
       "id": "pubmed.ncbi.nlm.nih.gov/43013977",
-      "content_type": "paper"
-    },
-    {
-      "title": "Dose-time-response relationships between radiation dose to the circulating blood and temporal changes in peripheral blood biomarkers during chemoradiation of non-small cell lung cancer",
-      "summary": "This research analyzes the relationship between radiation exposure to circulating blood and hematological toxicity in lung cancer patients. The findings support the need to minimize blood dose during radiotherapy to reduce treatment-related side effects.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43014453/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43014453",
-      "content_type": "paper"
-    },
-    {
-      "title": "Comparison of dose escalation strategies for head and neck cancer patients using a radiobiological model of reoxygenation",
-      "summary": "This study evaluates different strategies for dose escalation to address tumor hypoxia in head and neck cancers. It provides a radiobiological model to quantify the limitations of dose-escalation approaches in a dynamic tumor environment.",
-      "category": "Research",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010859/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43010859",
       "content_type": "paper"
     },
     {
@@ -169,16 +179,6 @@
       "published_date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJrajVNRXRvcWZpdEVuS0ZCa0RjNGx3MGFCaXJpazhnbWZPdGF3WUpmUUdDS1pOQjNodVFKek1qX08yVFdSVjJaSE1tUTliWDU1YzhMZUE1ejBuYkF1NGdFcXRXNDBkMFFvYk1mWWgxZW1lSFJldXhULWdB?oc=5",
       "id": "news.google.com/rss/articles/CBMi3wFBVV95cUxPempNS09teVB2OFV1WkNnNTNpV25oWXdFLTV5YXk1S3p3NEF4ek1iRUZWeXRYdVlkSHRjUlZ4TW1VVlFkX2x2U0RpcjA3bTJ3ZmQwWThmZlpGOGN0V0hDcmtpSERRN2VOZjgwdVJ",
-      "content_type": "news"
-    },
-    {
-      "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare reimbursement change could reduce payments to independent proton therapy centers by nearly 30% compared to hospital-based facilities. Advocacy groups warn that this pricing shift threatens the financial sustainability of community-based proton centers and may limit patient access to specialized cancer care.",
-      "category": "Proton Therapy",
-      "source": "NAPT News",
-      "published_date": "2026-10-09",
-      "url": "https://proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-therapy-centers-millions",
-      "id": "proton-therapy.org/medicare-change-could-cost-standalone-proton-therapy-centers-millions/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-change-could-cost-standalone-proton-th",
       "content_type": "news"
     }
   ]
