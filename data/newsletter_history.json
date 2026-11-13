@@ -90,6 +90,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43019507/",
       "id": "pubmed.ncbi.nlm.nih.gov/43019507",
       "content_type": "paper"
+    },
+    {
+      "title": "Pre-selection of breast cancer patients for deep inspiration breath-hold proton radiotherapy: Who benefits?",
+      "summary": "This study evaluates which breast cancer patients derive the greatest benefit from intensity-modulated proton therapy using deep inspiration breath-hold. Researchers highlight specific criteria, such as patient age, tumor side, and cardiac risk factors, to guide personalized treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022719/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43022719",
+      "content_type": "paper"
+    },
+    {
+      "title": "Improved breast DIBH simulation efficiency and dosimetry with a take-home wireless respiration belt coaching system",
+      "summary": "Researchers demonstrate that a take-home wireless respiration coaching system significantly reduces CT simulation time for breast cancer patients. The intervention also correlated with improved cardiac dose metrics compared to standard methods.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022918/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43022918",
+      "content_type": "paper"
+    },
+    {
+      "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released the 2027 Medicare final rules, which include significant payment updates for proton therapy services. Hospital outpatient payments for common proton therapy codes are set to increase in 2027 due to budget neutrality adjustments related to 340B drug payment reductions.",
+      "category": "Proton Therapy",
+      "source": "NAPT News",
+      "published_date": "2026-11-13",
+      "url": "https://proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
+      "id": "proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
+      "content_type": "news"
     }
   ],
   "sent_article_urls": [
