@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:05:51.680298+00:00",
+  "updated_at": "2026-11-13T06:55:49.118677+00:00",
   "articles": [
     {
       "title": "Clinical outcomes and toxicity after proton- versus photon-based spatially fractionated radiotherapy for soft-tissue sarcoma: a retrospective cohort",
@@ -32,6 +32,56 @@
       "content_type": "paper"
     },
     {
+      "title": "Early toxicity and dosimetry compliance of hypofractionated vs. conventional fractionated comprehensive regional nodes irradiation in breast cancer (HARVEST)",
+      "summary": "This study evaluated hypofractionated radiotherapy (HF-RT) with regional node irradiation (RNI) against conventional fractionation. Researchers found comparable acute toxicity and cosmesis, suggesting that HF-RT is a feasible option with good protocol compliance in this setting.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020386/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43020386",
+      "content_type": "paper"
+    },
+    {
+      "title": "Particle therapy for T3N0M0 non-small cell lung cancer: a Japanese nationwide prospective registry study",
+      "summary": "A prospective registry study demonstrates encouraging survival outcomes and low severe toxicity rates for particle therapy in patients with T3N0M0 non-small cell lung cancer. The findings highlight proton or carbon ion therapy as a viable definitive treatment for patients who are medically inoperable or decline surgery.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020138/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43020138",
+      "content_type": "paper"
+    },
+    {
+      "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer",
+      "summary": "Researchers analyzed data from the ARISTOTLE phase 3 trial to identify factors contributing to treatment-related lymphopenia. The study highlights how therapy-related changes impact lymphocyte depletion and subsequent progression-free survival in patients with locally advanced rectal cancer.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019770",
+      "content_type": "paper"
+    },
+    {
+      "title": "AI model integrating dosimetric and radiomic features for predicting cognitive impairment after brain radiotherapy",
+      "summary": "This study developed and validated a multimodal AI model combining dosimetric parameters with MRI-derived radiomics to predict cognitive impairment risks post-brain radiotherapy. Such predictive tools may eventually allow for personalized neuroprotective interventions and adaptive treatment planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019684/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019684",
+      "content_type": "paper"
+    },
+    {
+      "title": "Multimodal Deep Learning Prognostic Model for Predicting Treatment Outcomes for Oropharyngeal Carcinoma",
+      "summary": "A new deep learning model utilizing cross-attention mechanisms was shown to outperform unimodal approaches in predicting locoregional recurrence for oropharyngeal carcinoma patients. The integration of clinical and CT imaging data suggests potential for improving individualized treatment decision-making.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019507/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019507",
+      "content_type": "paper"
+    },
+    {
       "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
       "summary": "This study demonstrates an automated framework for developing high-fidelity Monte Carlo beam models using standard CTDI measurements. The method provides an accessible alternative for characterizing On-Board Imaging (OBI) systems in proton therapy with high dosimetric accuracy.",
       "category": "Proton Therapy",
@@ -43,8 +93,8 @@
     },
     {
       "title": "Unsupervised deep learning model for fast energy layer pre-selection of delivery-efficient proton arc therapy plan optimization of nasopharyngeal carcinoma",
-      "summary": "This study explores an unsupervised deep learning approach to optimize energy layer pre-selection in proton arc therapy. The model aims to improve treatment delivery efficiency by reducing energy layer switching time while maintaining plan quality for nasopharyngeal carcinoma.",
-      "category": "AI & Imaging",
+      "summary": "This research introduces an unsupervised deep learning model designed to pre-select energy layers for proton arc therapy. The approach aims to reduce energy layer switching times and optimize treatment delivery efficiency for complex cases like nasopharyngeal carcinoma.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43013977/",
@@ -72,58 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Mechanism of endothelial cell-derived S100A11 in promoting radiation-induced cardiac fibrosis in C57BL/6 mice",
-      "summary": "This study investigates the biological pathways behind radiation-induced cardiac fibrosis. Researchers identified S100A11 as a key mediator in endothelial cells following high-dose thoracic irradiation in a murine model.",
-      "category": "Research",
-      "source": "PubMed AI",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010754/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43010754",
-      "content_type": "paper"
-    },
-    {
-      "title": "Prophylactic low-dose liver irradiation reprograms the pre-metastatic immune niche and suppresses NSCLC liver metastasis",
-      "summary": "This radiobiology study demonstrates that prophylactic low-dose liver irradiation can modulate the pre-metastatic niche to suppress metastasis in non-small cell lung cancer models. The findings provide insights into the role of immune radiobiology in systemic disease control.",
-      "category": "Research",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015826/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43015826",
-      "content_type": "paper"
-    },
-    {
-      "title": "Trends of radiotherapy for hepatocellular carcinoma in the Republic of Korea: a national cohort, 2013-2021",
-      "summary": "This study analyzes the expansion of radiotherapy in the management of hepatocellular carcinoma, noting that while it has become a core component of multidisciplinary care, utilization remains geographically centralized. These findings highlight ongoing challenges in equitable access to radiation oncology infrastructure.",
-      "category": "Research",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004674/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43004674",
-      "content_type": "paper"
-    },
-    {
-      "title": "Dosimetric impact of target volume anatomical parameters on radiotherapy after right-sided breast-conserving surgery",
-      "summary": "Researchers identified exploratory observational thresholds for target volume parameters associated with increased heart and lung dose risks in breast-conserving radiotherapy. The study emphasizes the need for prospective validation of these thresholds to improve clinical risk stratification and minimize radiation exposure to organs at risk.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005182/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43005182",
-      "content_type": "paper"
-    },
-    {
-      "title": "Gamification of clinical decision-making for medical physics residents",
-      "summary": "This article describes a new lecture series utilizing gamified clinical scenarios to support medical physics residency training. The framework covers essential topics such as patient safety, quality assurance, and treatment planning to enhance trainee clinical reasoning skills.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004610/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43004610",
-      "content_type": "paper"
-    },
-    {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
-      "summary": "The BayCare Proton Center has successfully treated its first patient using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's upright patient positioning solution. This deployment marks a significant clinical integration of upright radiotherapy technology.",
+      "summary": "The BayCare Proton Center has successfully initiated patient treatments using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie solution. This installation marks a new technological implementation in a clinical setting for advanced proton delivery.",
       "category": "Proton Therapy",
       "source": "Proton Center Developments",
       "published_date": "2026-11-05",
@@ -173,7 +173,7 @@
     },
     {
       "title": "Medicare change could cost standalone proton therapy centers millions",
-      "summary": "A proposed Medicare reimbursement change could reduce payments to independent proton therapy centers by approximately 30% relative to hospital-based facilities. Stakeholders warn that this policy shift may impact center financial viability and long-term access to specialized proton radiation services.",
+      "summary": "A proposed Medicare reimbursement change could reduce payments to independent proton therapy centers by nearly 30% compared to hospital-based facilities. Advocacy groups warn that this pricing shift threatens the financial sustainability of community-based proton centers and may limit patient access to specialized cancer care.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-10-09",
