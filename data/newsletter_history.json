@@ -40,6 +40,56 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43015826/",
       "id": "pubmed.ncbi.nlm.nih.gov/43015826",
       "content_type": "paper"
+    },
+    {
+      "title": "Early toxicity and dosimetry compliance of hypofractionated vs. conventional fractionated comprehensive regional nodes irradiation in breast cancer (HARVEST)",
+      "summary": "This study evaluated hypofractionated radiotherapy (HF-RT) with regional node irradiation (RNI) against conventional fractionation. Researchers found comparable acute toxicity and cosmesis, suggesting that HF-RT is a feasible option with good protocol compliance in this setting.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020386/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43020386",
+      "content_type": "paper"
+    },
+    {
+      "title": "Particle therapy for T3N0M0 non-small cell lung cancer: a Japanese nationwide prospective registry study",
+      "summary": "A prospective registry study demonstrates encouraging survival outcomes and low severe toxicity rates for particle therapy in patients with T3N0M0 non-small cell lung cancer. The findings highlight proton or carbon ion therapy as a viable definitive treatment for patients who are medically inoperable or decline surgery.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020138/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43020138",
+      "content_type": "paper"
+    },
+    {
+      "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer",
+      "summary": "Researchers analyzed data from the ARISTOTLE phase 3 trial to identify factors contributing to treatment-related lymphopenia. The study highlights how therapy-related changes impact lymphocyte depletion and subsequent progression-free survival in patients with locally advanced rectal cancer.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019770",
+      "content_type": "paper"
+    },
+    {
+      "title": "AI model integrating dosimetric and radiomic features for predicting cognitive impairment after brain radiotherapy",
+      "summary": "This study developed and validated a multimodal AI model combining dosimetric parameters with MRI-derived radiomics to predict cognitive impairment risks post-brain radiotherapy. Such predictive tools may eventually allow for personalized neuroprotective interventions and adaptive treatment planning.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019684/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019684",
+      "content_type": "paper"
+    },
+    {
+      "title": "Multimodal Deep Learning Prognostic Model for Predicting Treatment Outcomes for Oropharyngeal Carcinoma",
+      "summary": "A new deep learning model utilizing cross-attention mechanisms was shown to outperform unimodal approaches in predicting locoregional recurrence for oropharyngeal carcinoma patients. The integration of clinical and CT imaging data suggests potential for improving individualized treatment decision-making.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019507/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43019507",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
