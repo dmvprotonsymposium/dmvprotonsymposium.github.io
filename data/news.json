@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:51:11.266822+00:00",
+  "updated_at": "2026-11-14T06:41:39.720238+00:00",
   "articles": [
     {
       "title": "Pre-selection of breast cancer patients for deep inspiration breath-hold proton radiotherapy: Who benefits?",
@@ -22,8 +22,48 @@
       "content_type": "paper"
     },
     {
+      "title": "Efficient proton adaptive breast radiotherapy with CBCT-Based synthetic CT",
+      "summary": "This study demonstrates that synthetic CT generated from CBCT can effectively monitor dosimetric shifts in unilateral breast proton therapy. This approach potentially allows for targeted reCT-based replanning, sparing patients the logistics of routine reCT imaging during their course of care.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025351/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025351",
+      "content_type": "paper"
+    },
+    {
+      "title": "Data-driven evaluation of quantitative metrics and models for normal-tissue sparing in FLASH radiotherapy",
+      "summary": "This research systematically benchmarks proposed metrics and models for predicting normal-tissue sparing in FLASH radiotherapy against extensive in vivo data. The findings address the uncertainty surrounding FLASH effects to better support clinical translation.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024961/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43024961",
+      "content_type": "paper"
+    },
+    {
+      "title": "Case series of adaptive pelvic radiotherapy using ETHOS: Lessons from two clinical examples",
+      "summary": "A technical note detailing clinical experiences with the ETHOS adaptive radiotherapy system, focusing on monitor unit variations and hotspot management during pelvic treatment. The report provides practical strategies for clinicians managing adaptive optimization.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025273/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025273",
+      "content_type": "paper"
+    },
+    {
+      "title": "Experimental and Monte Carlo validation of DIN 6809-4:2020 kilovoltage X-ray beam qualities for secondary standard dosimetry applications",
+      "summary": "This study establishes an experimental and Monte Carlo-based framework for the validation of kilovoltage radiotherapy beam qualities. The work provides essential data to ensure accuracy in superficial lesion treatment dosimetry.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025155/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025155",
+      "content_type": "paper"
+    },
+    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released the 2027 Medicare final rules, which include significant payment updates for proton therapy services. Hospital outpatient payments for common proton therapy codes are set to increase in 2027 due to budget neutrality adjustments related to 340B drug payment reductions.",
+      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant changes to reimbursement for proton therapy services. Hospital outpatient payments for common proton treatment codes are projected to increase by approximately 15% in 2027, primarily due to redistributions resulting from 340B drug payment reductions. Stakeholders should note these adjustments take effect January 1, 2027.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
@@ -73,7 +113,7 @@
     },
     {
       "title": "Particle therapy for T3N0M0 non-small cell lung cancer: a Japanese nationwide prospective registry study",
-      "summary": "A large-scale prospective study indicates that particle therapy offers encouraging survival outcomes and low severe toxicity for medically inoperable T3N0M0 non-small cell lung cancer patients. The findings suggest particle therapy is a viable definitive treatment option for this patient population.",
+      "summary": "This nationwide prospective registry study reports encouraging survival outcomes and low severe toxicity for particle therapy in cT3N0M0 non-small cell lung cancer. The results highlight the potential of particle therapy as a definitive treatment for patients who are medically inoperable.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-12",
@@ -89,46 +129,6 @@
       "published_date": "2026-11-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/",
       "id": "pubmed.ncbi.nlm.nih.gov/43019770",
-      "content_type": "paper"
-    },
-    {
-      "title": "AI model integrating dosimetric and radiomic features for predicting cognitive impairment after brain radiotherapy",
-      "summary": "This study develops a multimodal artificial intelligence model that combines dosimetric parameters and MRI-derived features to predict cognitive decline after brain radiotherapy. The tool aims to support adaptive dose constraints and personalized neuroprotective planning.",
-      "category": "AI & Imaging",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019684/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43019684",
-      "content_type": "paper"
-    },
-    {
-      "title": "Multimodal Deep Learning Prognostic Model for Predicting Treatment Outcomes for Oropharyngeal Carcinoma",
-      "summary": "A new deep learning model utilizing cross-attention mechanisms was shown to outperform unimodal approaches in predicting locoregional recurrence for oropharyngeal carcinoma patients. The integration of clinical and CT imaging data suggests potential for improving individualized treatment decision-making.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019507/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43019507",
-      "content_type": "paper"
-    },
-    {
-      "title": "Monte Carlo (TOPAS) characterization of a proton therapy OBI: Automated source parameter optimization and analysis of CBCT acquisition dynamics",
-      "summary": "This study demonstrates an automated framework for developing high-fidelity Monte Carlo beam models using standard CTDI measurements. The method provides an accessible alternative for characterizing On-Board Imaging (OBI) systems in proton therapy with high dosimetric accuracy.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010860/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43010860",
-      "content_type": "paper"
-    },
-    {
-      "title": "Unsupervised deep learning model for fast energy layer pre-selection of delivery-efficient proton arc therapy plan optimization of nasopharyngeal carcinoma",
-      "summary": "This research introduces an unsupervised deep learning model designed to pre-select energy layers for proton arc therapy. The approach aims to reduce energy layer switching times and optimize treatment delivery efficiency for complex cases like nasopharyngeal carcinoma.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013977/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43013977",
       "content_type": "paper"
     },
     {
