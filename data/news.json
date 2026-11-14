@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-14T06:41:39.720238+00:00",
+  "updated_at": "2026-11-14T18:16:08.283627+00:00",
   "articles": [
+    {
+      "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
+      "summary": "This multicenter study evaluated the safety and efficacy of stereotactic body radiation therapy (SBRT) for pancreatic cancer. Findings suggest that ablative dose delivery and MR-guided radiotherapy (MRgRT) improve local control and organ-at-risk protection in non-metastatic patients.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026914/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026914",
+      "content_type": "paper"
+    },
+    {
+      "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
+      "summary": "This study explores the relationship between patient-specific vascular dosimetry and lymphocyte depletion in cancer patients. Results indicate that irradiation modality influences immune-related metrics, highlighting the potential for immune-sparing treatment plan optimization.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026908",
+      "content_type": "paper"
+    },
+    {
+      "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
+      "summary": "Researchers compared the dosimetric profiles of VMAT and IMPT for prostate cancer nodal recurrence in patients with prior radiation exposure. The study assesses the ability of each modality to spare healthy tissue while providing adequate coverage in the re-irradiation setting.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026774/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026774",
+      "content_type": "paper"
+    },
+    {
+      "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
+      "summary": "This study presents an optimized measurement procedure for alanine electron paramagnetic resonance dosimetry, addressing limitations for low-dose applications. Such advancements are critical for ensuring accurate reference dosimetry in emerging FLASH radiotherapy research.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43029341/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43029341",
+      "content_type": "paper"
+    },
     {
       "title": "Pre-selection of breast cancer patients for deep inspiration breath-hold proton radiotherapy: Who benefits?",
       "summary": "This study evaluates which breast cancer patients derive the greatest benefit from intensity-modulated proton therapy using deep inspiration breath-hold. Researchers highlight specific criteria, such as patient age, tumor side, and cardiac risk factors, to guide personalized treatment planning.",
@@ -62,8 +102,18 @@
       "content_type": "paper"
     },
     {
+      "title": "Image quality and artefact reduction for tantalum clips in ocular proton therapy using photon-counting CT",
+      "summary": "This research investigates the use of photon-counting CT and iterative metal artifact reduction to improve imaging in ocular proton therapy. While improvements in image quality were observed, the study notes that metallic artifacts from tantalum clips remain a significant challenge for image-guided protocols.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026365/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026365",
+      "content_type": "paper"
+    },
+    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant changes to reimbursement for proton therapy services. Hospital outpatient payments for common proton treatment codes are projected to increase by approximately 15% in 2027, primarily due to redistributions resulting from 340B drug payment reductions. Stakeholders should note these adjustments take effect January 1, 2027.",
+      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant payment increases for proton therapy services in hospital-based settings due to 340B drug payment redistributions. The most commonly billed proton treatment codes are projected to see a nearly 15% increase, although industry groups are monitoring the potential long-term impact of these policy adjustments.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
@@ -79,56 +129,6 @@
       "published_date": "2026-11-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016761/",
       "id": "pubmed.ncbi.nlm.nih.gov/43016761",
-      "content_type": "paper"
-    },
-    {
-      "title": "Personalized dosimetry for targeted radionuclide therapy: initial clinical experience from a case series at a tertiary cancer center",
-      "summary": "Researchers report on the implementation of personalized dosimetry within routine clinical practice. The study highlights how this approach enhances therapeutic precision by identifying undertreated lesions and improving the protection of organs at risk.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018486/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43018486",
-      "content_type": "paper"
-    },
-    {
-      "title": "Federated learning in cancer imaging: a comprehensive review and future outlook",
-      "summary": "This review examines the potential of federated learning to overcome data privacy challenges in AI medical model development. It discusses how these techniques can facilitate multi-institutional collaboration to improve cancer imaging and diagnostic accuracy without compromising sensitive patient data.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016904/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43016904",
-      "content_type": "paper"
-    },
-    {
-      "title": "Early toxicity and dosimetry compliance of hypofractionated vs. conventional fractionated comprehensive regional nodes irradiation in breast cancer (HARVEST)",
-      "summary": "This study evaluated hypofractionated radiotherapy (HF-RT) with regional node irradiation (RNI) against conventional fractionation. Researchers found comparable acute toxicity and cosmesis, suggesting that HF-RT is a feasible option with good protocol compliance in this setting.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020386/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43020386",
-      "content_type": "paper"
-    },
-    {
-      "title": "Particle therapy for T3N0M0 non-small cell lung cancer: a Japanese nationwide prospective registry study",
-      "summary": "This nationwide prospective registry study reports encouraging survival outcomes and low severe toxicity for particle therapy in cT3N0M0 non-small cell lung cancer. The results highlight the potential of particle therapy as a definitive treatment for patients who are medically inoperable.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020138/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43020138",
-      "content_type": "paper"
-    },
-    {
-      "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer",
-      "summary": "Using data from the ARISTOTLE phase 3 trial, this study identifies key treatment-related variables that contribute to lymphocyte depletion. The results provide insights into the impact of treatment factors on progression-free survival in locally advanced rectal cancer.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43019770",
       "content_type": "paper"
     },
     {
