@@ -160,6 +160,56 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025155/",
       "id": "pubmed.ncbi.nlm.nih.gov/43025155",
       "content_type": "paper"
+    },
+    {
+      "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
+      "summary": "This multicenter study evaluated the safety and efficacy of stereotactic body radiation therapy (SBRT) for pancreatic cancer. Findings suggest that ablative dose delivery and MR-guided radiotherapy (MRgRT) improve local control and organ-at-risk protection in non-metastatic patients.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026914/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026914",
+      "content_type": "paper"
+    },
+    {
+      "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
+      "summary": "This study explores the relationship between patient-specific vascular dosimetry and lymphocyte depletion in cancer patients. Results indicate that irradiation modality influences immune-related metrics, highlighting the potential for immune-sparing treatment plan optimization.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026908",
+      "content_type": "paper"
+    },
+    {
+      "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
+      "summary": "Researchers compared the dosimetric profiles of VMAT and IMPT for prostate cancer nodal recurrence in patients with prior radiation exposure. The study assesses the ability of each modality to spare healthy tissue while providing adequate coverage in the re-irradiation setting.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026774/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026774",
+      "content_type": "paper"
+    },
+    {
+      "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
+      "summary": "This study presents an optimized measurement procedure for alanine electron paramagnetic resonance dosimetry, addressing limitations for low-dose applications. Such advancements are critical for ensuring accurate reference dosimetry in emerging FLASH radiotherapy research.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43029341/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43029341",
+      "content_type": "paper"
+    },
+    {
+      "title": "Image quality and artefact reduction for tantalum clips in ocular proton therapy using photon-counting CT",
+      "summary": "This research investigates the use of photon-counting CT and iterative metal artifact reduction to improve imaging in ocular proton therapy. While improvements in image quality were observed, the study notes that metallic artifacts from tantalum clips remain a significant challenge for image-guided protocols.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026365/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026365",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
