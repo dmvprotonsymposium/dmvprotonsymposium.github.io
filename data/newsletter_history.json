@@ -120,6 +120,46 @@
       "url": "https://proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
       "id": "proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
       "content_type": "news"
+    },
+    {
+      "title": "Efficient proton adaptive breast radiotherapy with CBCT-Based synthetic CT",
+      "summary": "This study demonstrates that synthetic CT generated from CBCT can effectively monitor dosimetric shifts in unilateral breast proton therapy. This approach potentially allows for targeted reCT-based replanning, sparing patients the logistics of routine reCT imaging during their course of care.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025351/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025351",
+      "content_type": "paper"
+    },
+    {
+      "title": "Data-driven evaluation of quantitative metrics and models for normal-tissue sparing in FLASH radiotherapy",
+      "summary": "This research systematically benchmarks proposed metrics and models for predicting normal-tissue sparing in FLASH radiotherapy against extensive in vivo data. The findings address the uncertainty surrounding FLASH effects to better support clinical translation.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024961/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43024961",
+      "content_type": "paper"
+    },
+    {
+      "title": "Case series of adaptive pelvic radiotherapy using ETHOS: Lessons from two clinical examples",
+      "summary": "A technical note detailing clinical experiences with the ETHOS adaptive radiotherapy system, focusing on monitor unit variations and hotspot management during pelvic treatment. The report provides practical strategies for clinicians managing adaptive optimization.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025273/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025273",
+      "content_type": "paper"
+    },
+    {
+      "title": "Experimental and Monte Carlo validation of DIN 6809-4:2020 kilovoltage X-ray beam qualities for secondary standard dosimetry applications",
+      "summary": "This study establishes an experimental and Monte Carlo-based framework for the validation of kilovoltage radiotherapy beam qualities. The work provides essential data to ensure accuracy in superficial lesion treatment dosimetry.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025155/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43025155",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
