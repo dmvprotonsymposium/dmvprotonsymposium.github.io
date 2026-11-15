@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:36:45.658403+00:00",
+  "updated_at": "2026-11-15T06:46:17.476426+00:00",
   "articles": [
     {
       "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
@@ -13,8 +13,8 @@
     },
     {
       "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "This study demonstrates that patient-specific vascular delineation and dosimetry are feasible in clinical planning workflows. The resulting metrics track the irradiation modality and correlate with the magnitude of lymphocyte depletion.",
-      "category": "Proton Therapy",
+      "summary": "Researchers demonstrated the feasibility of patient-specific vascular delineation and dosimetry in radiation treatment planning. The study tracked associations between irradiation modalities and lymphocyte depletion, highlighting the potential for immune-sparing plan optimization.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
-      "summary": "This comparative study evaluates the dosimetric differences between VMAT and intensity-modulated proton therapy (IMPT) for patients with nodal recurrence of prostate cancer in the re-irradiation setting.",
+      "summary": "This dosimetric study compared VMAT and IMPT for treating nodal recurrence in patients with prior pelvic irradiation. The research provides data on the potential advantages of proton therapy in the re-irradiation setting for complex pelvic and para-aortic anatomies.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -33,12 +33,22 @@
     },
     {
       "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
-      "summary": "This work explores the optimization of alanine EPR measurement procedures to improve accuracy and reduce uncertainty for dose measurements below 10 Gy, a key requirement for future FLASH radiotherapy applications.",
+      "summary": "This paper presents an optimized alanine EPR dosimetry method for accurate dose measurements below 10 Gy. Such advancements are critical for the reliable validation of experimental FLASH radiotherapy protocols.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43029341/",
       "id": "pubmed.ncbi.nlm.nih.gov/43029341",
+      "content_type": "paper"
+    },
+    {
+      "title": "Comparative assessment of respiratory-induced tumor motion using fluoroscopy and four-dimensional CT of solitary pulmonary lesions",
+      "summary": "This study evaluates the accuracy of respiratory motion measurement for proton therapy planning, comparing 4DCT with fluoroscopy. Results indicate that 4DCT may underestimate motion for lower-lobe tumors, suggesting that fluoroscopy should be considered when lesion visibility permits for more precise treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033405/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43033405",
       "content_type": "paper"
     },
     {
@@ -63,7 +73,7 @@
     },
     {
       "title": "Efficient proton adaptive breast radiotherapy with CBCT-Based synthetic CT",
-      "summary": "The study demonstrates that synthetic CT can effectively identify tissue changes during breast proton therapy, helping to determine when targeted re-planning is necessary while avoiding unnecessary repetitive CT scans.",
+      "summary": "This research evaluates the use of synthetic CT derived from CBCT to monitor dosimetric changes during breast proton therapy. The findings suggest that this approach can effectively identify patients needing replanning while reducing the requirement for routine re-CT sessions.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-13",
@@ -103,7 +113,7 @@
     },
     {
       "title": "Image quality and artefact reduction for tantalum clips in ocular proton therapy using photon-counting CT",
-      "summary": "This research finds that photon-counting CT combined with iterative metal artifact reduction improves image quality in ocular proton therapy, though tantalum clips remain a challenge for treatment planning.",
+      "summary": "The study explores the use of photon-counting CT (PCCT) to mitigate tantalum clip artifacts in ocular proton therapy. While PCCT improves image quality, the authors conclude that tantalum remains a significant challenge for image-guided therapy, requiring further workflow optimization.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-13",
@@ -113,23 +123,13 @@
     },
     {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) released final rules for CY 2027, which take effect January 1, 2027. The rules include a significant increase in hospital outpatient payments for most proton therapy services due to budget-neutral redistribution related to 340B drug payment reductions.",
+      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant changes for proton therapy reimbursement. The final rule increases payments for hospital-based proton therapy services through 340B drug payment redistribution, while freestanding centers face ongoing challenges regarding payment parity.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
       "url": "https://proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
       "id": "proton-therapy.org/cy-2027-medicare-final-rules-and-impact-on-proton-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=cy-2027-medicare-final-rules-and-impact-on-proton-therapy",
       "content_type": "news"
-    },
-    {
-      "title": "Clinical outcomes and toxicity after proton- versus photon-based spatially fractionated radiotherapy for soft-tissue sarcoma: a retrospective cohort",
-      "summary": "This retrospective analysis compares proton-based and photon-based spatially fractionated radiotherapy for high-grade soft-tissue sarcoma. The study explores how the Bragg peak characteristics of protons affect proximal skin dose and perioperative wound complications.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016761/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43016761",
-      "content_type": "paper"
     },
     {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
