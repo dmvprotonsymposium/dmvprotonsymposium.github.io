@@ -220,6 +220,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033405/",
       "id": "pubmed.ncbi.nlm.nih.gov/43033405",
       "content_type": "paper"
+    },
+    {
+      "title": "Prognostic Evidence for Artificial Intelligence-Derived PET Tumour-Burden Biomarkers in Cancer: A Systematic Review",
+      "summary": "This systematic review evaluates the current evidence for AI-automated tumour-burden measurements on PET scans, such as metabolic tumour volume (MTV). It explores the prognostic value of these AI-derived biomarkers in comparison to traditional expert manual measurements in clinical oncology.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028436/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43028436",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
