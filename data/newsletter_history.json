@@ -210,6 +210,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026365/",
       "id": "pubmed.ncbi.nlm.nih.gov/43026365",
       "content_type": "paper"
+    },
+    {
+      "title": "Comparative assessment of respiratory-induced tumor motion using fluoroscopy and four-dimensional CT of solitary pulmonary lesions",
+      "summary": "This study evaluates the accuracy of respiratory motion measurement for proton therapy planning, comparing 4DCT with fluoroscopy. Results indicate that 4DCT may underestimate motion for lower-lobe tumors, suggesting that fluoroscopy should be considered when lesion visibility permits for more precise treatment planning.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033405/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43033405",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
