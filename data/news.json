@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:46:17.476426+00:00",
+  "updated_at": "2026-11-15T18:57:20.114690+00:00",
   "articles": [
     {
       "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
@@ -13,8 +13,8 @@
     },
     {
       "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "Researchers demonstrated the feasibility of patient-specific vascular delineation and dosimetry in radiation treatment planning. The study tracked associations between irradiation modalities and lymphocyte depletion, highlighting the potential for immune-sparing plan optimization.",
-      "category": "Radiation Oncology",
+      "summary": "This study demonstrated that patient-specific vascular delineation and dosimetry are feasible in clinical planning workflows. The resulting metrics were able to track irradiation modality and correlate with the magnitude of lymphocyte depletion, highlighting the potential for future immune-sparing plan optimization.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
-      "summary": "This dosimetric study compared VMAT and IMPT for treating nodal recurrence in patients with prior pelvic irradiation. The research provides data on the potential advantages of proton therapy in the re-irradiation setting for complex pelvic and para-aortic anatomies.",
+      "summary": "This research evaluated the dosimetric differences between volumetric modulated arc therapy (VMAT) and intensity-modulated proton therapy (IMPT) for patients with nodal recurrences of prostate cancer in a re-irradiation setting. The study provides comparative data on plan quality and potential clinical implications for secondary radiation treatment.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
-      "summary": "This paper presents an optimized alanine EPR dosimetry method for accurate dose measurements below 10 Gy. Such advancements are critical for the reliable validation of experimental FLASH radiotherapy protocols.",
+      "summary": "This paper presents the optimization of alanine Electron Paramagnetic Resonance (EPR) dosimetry for dose measurements below 10 Gy. Improving the accuracy of these measurements is critical for the potential clinical application of ultra-high dose rate FLASH radiotherapy.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-14",
@@ -43,12 +43,22 @@
     },
     {
       "title": "Comparative assessment of respiratory-induced tumor motion using fluoroscopy and four-dimensional CT of solitary pulmonary lesions",
-      "summary": "This study evaluates the accuracy of respiratory motion measurement for proton therapy planning, comparing 4DCT with fluoroscopy. Results indicate that 4DCT may underestimate motion for lower-lobe tumors, suggesting that fluoroscopy should be considered when lesion visibility permits for more precise treatment planning.",
+      "summary": "This study compared respiratory motion measurements derived from fluoroscopy and 4DCT in patients undergoing proton therapy planning. Findings revealed larger absolute differences in motion measurements for lower-lobe tumors, suggesting that 4DCT-based estimations should be interpreted with caution in such cases.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033405/",
       "id": "pubmed.ncbi.nlm.nih.gov/43033405",
+      "content_type": "paper"
+    },
+    {
+      "title": "Prognostic Evidence for Artificial Intelligence-Derived PET Tumour-Burden Biomarkers in Cancer: A Systematic Review",
+      "summary": "This systematic review evaluates the current evidence for AI-automated tumour-burden measurements on PET scans, such as metabolic tumour volume (MTV). It explores the prognostic value of these AI-derived biomarkers in comparison to traditional expert manual measurements in clinical oncology.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028436/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43028436",
       "content_type": "paper"
     },
     {
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Image quality and artefact reduction for tantalum clips in ocular proton therapy using photon-counting CT",
-      "summary": "The study explores the use of photon-counting CT (PCCT) to mitigate tantalum clip artifacts in ocular proton therapy. While PCCT improves image quality, the authors conclude that tantalum remains a significant challenge for image-guided therapy, requiring further workflow optimization.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026365/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43026365",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant changes for proton therapy reimbursement. The final rule increases payments for hospital-based proton therapy services through 340B drug payment redistribution, while freestanding centers face ongoing challenges regarding payment parity.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes include a nearly 15% increase in reimbursement for common proton treatment codes due to 340B payment redistributions, though impact varies for freestanding versus hospital-based centers.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
