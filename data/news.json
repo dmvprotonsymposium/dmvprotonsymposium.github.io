@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-16T06:45:21.542916+00:00",
+  "updated_at": "2026-11-16T22:17:39.373311+00:00",
   "articles": [
+    {
+      "title": "Global practice patterns of MR-linac use in head and neck radiotherapy: a survey by the international MR-Linac consortium",
+      "summary": "This international survey examines the clinical adoption of MR-Linac technology in head and neck cancer. It identifies that workflow inefficiencies and heterogeneous adaptive strategies remain key barriers, highlighting a need for AI-driven automation and standardized quality assurance to improve clinical integration.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036670/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43036670",
+      "content_type": "paper"
+    },
+    {
+      "title": "AI in Neuro-Oncology: A Review in Neuroimaging",
+      "summary": "This review summarizes the role of artificial intelligence in neuro-oncological imaging, noting significant impacts on clinical and research workflows. AI-based image reconstruction, noise reduction, and automated segmentation are noted as key drivers for improving reproducibility and tumor quantification in clinical practice.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035941/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035941",
+      "content_type": "paper"
+    },
     {
       "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
       "summary": "This study evaluates the technical feasibility and safety of using bioabsorbable spacers to enable high-dose proton beam therapy in patients with unresectable pancreatic cancer. Researchers note that while the approach is feasible, further research is required to fully characterize the risk profile and comparative clinical outcomes.",
@@ -22,6 +42,16 @@
       "content_type": "paper"
     },
     {
+      "title": "A decentralized federated learning approach for predicting chemoradiotherapy response from multicenter whole-slide images",
+      "summary": "Researchers developed a federated learning model that predicts NSCLC outcomes from whole-slide images while maintaining data privacy across multiple institutions. This method achieved performance comparable to centralized models, offering a scalable framework for collaborative research in radiation oncology.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035727/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035727",
+      "content_type": "paper"
+    },
+    {
       "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
       "summary": "This multicenter study evaluated the safety and efficacy of stereotactic body radiation therapy (SBRT) for pancreatic cancer. Findings suggest that ablative dose delivery and MR-guided radiotherapy (MRgRT) improve local control and organ-at-risk protection in non-metastatic patients.",
       "category": "Radiation Oncology",
@@ -33,8 +63,8 @@
     },
     {
       "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "This research investigates how patient-specific vascular delineation and dosimetry can be integrated into clinical planning workflows. The study finds that metrics derived from these plans effectively track irradiation modality and correlate with lymphocyte depletion, highlighting the potential for immune-sparing optimization.",
-      "category": "Radiation Oncology",
+      "summary": "This study demonstrates that patient-specific vascular delineation and dosimetry can track irradiation modality and correlate with lymphocyte depletion. The authors suggest that immune-sparing plan optimization using vascular constraints is a feasible area for future clinical development.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
@@ -43,7 +73,7 @@
     },
     {
       "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
-      "summary": "This dosimetric study compares VMAT and IMPT for re-irradiation of nodal recurrences of prostate cancer. The findings provide comparative data on target coverage and organ-at-risk sparing for patients who have previously undergone pelvic irradiation.",
+      "summary": "This dosimetric study evaluates the differences between VMAT and IMPT for treating nodal recurrences in a re-irradiation setting. The research provides valuable planning comparisons for optimizing dose distribution in complex, previously irradiated cases.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -53,7 +83,7 @@
     },
     {
       "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
-      "summary": "Researchers optimized alanine electron paramagnetic resonance dosimetry to improve measurement accuracy at doses below 10 Gy. This methodology supports the development of robust reference dosimetry standards necessary for emerging FLASH radiotherapy applications.",
+      "summary": "Researchers optimized alanine EPR dosimetry to improve accuracy for dose measurements below 10 Gy. This technical development is significant for the clinical quality assurance and validation requirements of emerging high-dose-rate FLASH radiotherapy treatments.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-14",
@@ -92,38 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Pre-selection of breast cancer patients for deep inspiration breath-hold proton radiotherapy: Who benefits?",
-      "summary": "This study evaluates which breast cancer patients derive the greatest benefit from intensity-modulated proton therapy using deep inspiration breath-hold. Researchers highlight specific criteria, such as patient age, tumor side, and cardiac risk factors, to guide personalized treatment planning.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022719/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43022719",
-      "content_type": "paper"
-    },
-    {
-      "title": "Improved breast DIBH simulation efficiency and dosimetry with a take-home wireless respiration belt coaching system",
-      "summary": "Researchers demonstrate that a take-home wireless respiration coaching system significantly reduces CT simulation time for breast cancer patients. The intervention also correlated with improved cardiac dose metrics compared to standard methods.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022918/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43022918",
-      "content_type": "paper"
-    },
-    {
-      "title": "Efficient proton adaptive breast radiotherapy with CBCT-Based synthetic CT",
-      "summary": "This research evaluates the use of synthetic CT derived from CBCT to monitor dosimetric changes during breast proton therapy. The findings suggest that this approach can effectively identify patients needing replanning while reducing the requirement for routine re-CT sessions.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025351/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43025351",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) released the final rules for the 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The changes, effective January 1, 2027, include adjustments to proton therapy reimbursement rates driven by 340B drug payment redistribution.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) released final rules for the CY 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The ruling includes a significant increase in hospital outpatient reimbursement rates for proton therapy due to budget-neutral redistribution, though standalone centers express concern regarding potential future financial impacts.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
