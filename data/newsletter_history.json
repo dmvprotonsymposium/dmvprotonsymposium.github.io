@@ -260,6 +260,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026855/",
       "id": "pubmed.ncbi.nlm.nih.gov/43026855",
       "content_type": "paper"
+    },
+    {
+      "title": "Global practice patterns of MR-linac use in head and neck radiotherapy: a survey by the international MR-Linac consortium",
+      "summary": "This international survey examines the clinical adoption of MR-Linac technology in head and neck cancer. It identifies that workflow inefficiencies and heterogeneous adaptive strategies remain key barriers, highlighting a need for AI-driven automation and standardized quality assurance to improve clinical integration.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036670/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43036670",
+      "content_type": "paper"
+    },
+    {
+      "title": "AI in Neuro-Oncology: A Review in Neuroimaging",
+      "summary": "This review summarizes the role of artificial intelligence in neuro-oncological imaging, noting significant impacts on clinical and research workflows. AI-based image reconstruction, noise reduction, and automated segmentation are noted as key drivers for improving reproducibility and tumor quantification in clinical practice.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035941/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035941",
+      "content_type": "paper"
+    },
+    {
+      "title": "A decentralized federated learning approach for predicting chemoradiotherapy response from multicenter whole-slide images",
+      "summary": "Researchers developed a federated learning model that predicts NSCLC outcomes from whole-slide images while maintaining data privacy across multiple institutions. This method achieved performance comparable to centralized models, offering a scalable framework for collaborative research in radiation oncology.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035727/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035727",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
