@@ -230,6 +230,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43028436/",
       "id": "pubmed.ncbi.nlm.nih.gov/43028436",
       "content_type": "paper"
+    },
+    {
+      "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
+      "summary": "This study evaluates the technical feasibility and safety of using bioabsorbable spacers to enable high-dose proton beam therapy in patients with unresectable pancreatic cancer. Researchers note that while the approach is feasible, further research is required to fully characterize the risk profile and comparative clinical outcomes.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035152/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035152",
+      "content_type": "paper"
+    },
+    {
+      "title": "Independent validation of a predictive risk model for contrast-enhancing brain lesions supports enhanced periventricular radiosensitivity and variable proton RBE",
+      "summary": "This study validates a risk model confirming enhanced periventricular radiosensitivity and supports the implementation of LET-dependent proton RBE in treatment planning. The authors emphasize the importance of actively sparing periventricular structures to mitigate brain injury risks in proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035151/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035151",
+      "content_type": "paper"
+    },
+    {
+      "title": "Proton-Induced Bystander Signaling Drives Cell-Type-Specific Proteomic Remodeling in Chondrocytes and Endothelial Cells",
+      "summary": "This experimental study examines how proton-induced bystander signals influence proteomic changes in non-irradiated cells. The findings identify distinct pathway activations depending on the recipient cell type, providing a basis for further exploration of radiation-induced biological effects.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026855/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026855",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
