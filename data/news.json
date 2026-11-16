@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-15T18:57:20.114690+00:00",
+  "updated_at": "2026-11-16T06:45:21.542916+00:00",
   "articles": [
+    {
+      "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
+      "summary": "This study evaluates the technical feasibility and safety of using bioabsorbable spacers to enable high-dose proton beam therapy in patients with unresectable pancreatic cancer. Researchers note that while the approach is feasible, further research is required to fully characterize the risk profile and comparative clinical outcomes.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035152/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035152",
+      "content_type": "paper"
+    },
+    {
+      "title": "Independent validation of a predictive risk model for contrast-enhancing brain lesions supports enhanced periventricular radiosensitivity and variable proton RBE",
+      "summary": "This study validates a risk model confirming enhanced periventricular radiosensitivity and supports the implementation of LET-dependent proton RBE in treatment planning. The authors emphasize the importance of actively sparing periventricular structures to mitigate brain injury risks in proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035151/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43035151",
+      "content_type": "paper"
+    },
     {
       "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
       "summary": "This multicenter study evaluated the safety and efficacy of stereotactic body radiation therapy (SBRT) for pancreatic cancer. Findings suggest that ablative dose delivery and MR-guided radiotherapy (MRgRT) improve local control and organ-at-risk protection in non-metastatic patients.",
@@ -13,8 +33,8 @@
     },
     {
       "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "This study demonstrated that patient-specific vascular delineation and dosimetry are feasible in clinical planning workflows. The resulting metrics were able to track irradiation modality and correlate with the magnitude of lymphocyte depletion, highlighting the potential for future immune-sparing plan optimization.",
-      "category": "Proton Therapy",
+      "summary": "This research investigates how patient-specific vascular delineation and dosimetry can be integrated into clinical planning workflows. The study finds that metrics derived from these plans effectively track irradiation modality and correlate with lymphocyte depletion, highlighting the potential for immune-sparing optimization.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
@@ -23,7 +43,7 @@
     },
     {
       "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
-      "summary": "This research evaluated the dosimetric differences between volumetric modulated arc therapy (VMAT) and intensity-modulated proton therapy (IMPT) for patients with nodal recurrences of prostate cancer in a re-irradiation setting. The study provides comparative data on plan quality and potential clinical implications for secondary radiation treatment.",
+      "summary": "This dosimetric study compares VMAT and IMPT for re-irradiation of nodal recurrences of prostate cancer. The findings provide comparative data on target coverage and organ-at-risk sparing for patients who have previously undergone pelvic irradiation.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -33,7 +53,7 @@
     },
     {
       "title": "Optimization and Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
-      "summary": "This paper presents the optimization of alanine Electron Paramagnetic Resonance (EPR) dosimetry for dose measurements below 10 Gy. Improving the accuracy of these measurements is critical for the potential clinical application of ultra-high dose rate FLASH radiotherapy.",
+      "summary": "Researchers optimized alanine electron paramagnetic resonance dosimetry to improve measurement accuracy at doses below 10 Gy. This methodology supports the development of robust reference dosimetry standards necessary for emerging FLASH radiotherapy applications.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-14",
@@ -59,6 +79,16 @@
       "published_date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43028436/",
       "id": "pubmed.ncbi.nlm.nih.gov/43028436",
+      "content_type": "paper"
+    },
+    {
+      "title": "Proton-Induced Bystander Signaling Drives Cell-Type-Specific Proteomic Remodeling in Chondrocytes and Endothelial Cells",
+      "summary": "This experimental study examines how proton-induced bystander signals influence proteomic changes in non-irradiated cells. The findings identify distinct pathway activations depending on the recipient cell type, providing a basis for further exploration of radiation-induced biological effects.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026855/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43026855",
       "content_type": "paper"
     },
     {
@@ -92,38 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Data-driven evaluation of quantitative metrics and models for normal-tissue sparing in FLASH radiotherapy",
-      "summary": "This paper provides a systematic benchmark of current models and metrics used to predict normal-tissue sparing in FLASH radiotherapy, comparing theoretical proposals against extensive in vivo data.",
-      "category": "Research",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43024961/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43024961",
-      "content_type": "paper"
-    },
-    {
-      "title": "Case series of adaptive pelvic radiotherapy using ETHOS: Lessons from two clinical examples",
-      "summary": "A technical note detailing clinical experiences with the ETHOS adaptive radiotherapy system, focusing on monitor unit variations and hotspot management during pelvic treatment. The report provides practical strategies for clinicians managing adaptive optimization.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025273/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43025273",
-      "content_type": "paper"
-    },
-    {
-      "title": "Experimental and Monte Carlo validation of DIN 6809-4:2020 kilovoltage X-ray beam qualities for secondary standard dosimetry applications",
-      "summary": "This study establishes an experimental and Monte Carlo-based framework for the validation of kilovoltage radiotherapy beam qualities. The work provides essential data to ensure accuracy in superficial lesion treatment dosimetry.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025155/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43025155",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes include a nearly 15% increase in reimbursement for common proton treatment codes due to 340B payment redistributions, though impact varies for freestanding versus hospital-based centers.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) released the final rules for the 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The changes, effective January 1, 2027, include adjustments to proton therapy reimbursement rates driven by 340B drug payment redistribution.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
