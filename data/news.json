@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:17:39.373311+00:00",
+  "updated_at": "2026-11-17T08:05:53.959397+00:00",
   "articles": [
     {
       "title": "Global practice patterns of MR-linac use in head and neck radiotherapy: a survey by the international MR-Linac consortium",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
-      "summary": "This study evaluates the technical feasibility and safety of using bioabsorbable spacers to enable high-dose proton beam therapy in patients with unresectable pancreatic cancer. Researchers note that while the approach is feasible, further research is required to fully characterize the risk profile and comparative clinical outcomes.",
+      "summary": "This study evaluated the technical feasibility and safety of using bioabsorbable spacers to facilitate high-dose proton beam therapy in patients with unresectable, locally advanced pancreatic cancer of the body or tail. While the procedure was found to be technically feasible, researchers noted that the small, uncontrolled sample size prevents definitive conclusions regarding long-term safety or comparative efficacy.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-15",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Independent validation of a predictive risk model for contrast-enhancing brain lesions supports enhanced periventricular radiosensitivity and variable proton RBE",
-      "summary": "This study validates a risk model confirming enhanced periventricular radiosensitivity and supports the implementation of LET-dependent proton RBE in treatment planning. The authors emphasize the importance of actively sparing periventricular structures to mitigate brain injury risks in proton therapy.",
+      "summary": "This research provides independent validation for a risk model regarding contrast-enhancing brain lesions following radiation therapy. The findings support the hypothesis of enhanced periventricular radiosensitivity and suggest that proton relative biological effectiveness (RBE) is variable, highlighting the clinical need for treatment strategies that actively spare periventricular structures.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-15",
@@ -43,7 +43,7 @@
     },
     {
       "title": "A decentralized federated learning approach for predicting chemoradiotherapy response from multicenter whole-slide images",
-      "summary": "Researchers developed a federated learning model that predicts NSCLC outcomes from whole-slide images while maintaining data privacy across multiple institutions. This method achieved performance comparable to centralized models, offering a scalable framework for collaborative research in radiation oncology.",
+      "summary": "This study introduces a decentralized federated learning model designed to predict chemoradiotherapy responses in patients with non-small cell lung cancer using whole-slide images. The model achieved performance comparable to centralized deep learning methods while maintaining data privacy across participating institutions, offering a scalable solution for multi-center collaborative research.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-15",
@@ -63,7 +63,7 @@
     },
     {
       "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "This study demonstrates that patient-specific vascular delineation and dosimetry can track irradiation modality and correlate with lymphocyte depletion. The authors suggest that immune-sparing plan optimization using vascular constraints is a feasible area for future clinical development.",
+      "summary": "This research investigates the correlation between patient-specific vascular dosimetry and changes in lymphocyte subset metrics for patients receiving photon or proton therapy. The findings indicate that vascular irradiation exposure is measurable in clinical workflows and is associated with the extent of lymphocyte depletion, suggesting potential for future immune-sparing plan optimization.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -73,7 +73,7 @@
     },
     {
       "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation",
-      "summary": "This dosimetric study evaluates the differences between VMAT and IMPT for treating nodal recurrences in a re-irradiation setting. The research provides valuable planning comparisons for optimizing dose distribution in complex, previously irradiated cases.",
+      "summary": "This study conducted an in silico dosimetric comparison between VMAT and intensity-modulated proton therapy (IMPT) for treating pelvic or para-aortic nodal recurrences of prostate cancer in patients who previously received radiotherapy. The analysis aimed to evaluate the relative capabilities of these modalities in a re-irradiation setting where dose distribution precision is critical.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -93,7 +93,7 @@
     },
     {
       "title": "Comparative assessment of respiratory-induced tumor motion using fluoroscopy and four-dimensional CT of solitary pulmonary lesions",
-      "summary": "This study compared respiratory motion measurements derived from fluoroscopy and 4DCT in patients undergoing proton therapy planning. Findings revealed larger absolute differences in motion measurements for lower-lobe tumors, suggesting that 4DCT-based estimations should be interpreted with caution in such cases.",
+      "summary": "This single-institution study examined respiratory motion measurements in proton therapy planning by comparing fluoroscopy to 4DCT for solitary pulmonary lesions. The researchers identified significant discrepancies between the two imaging modalities, particularly in lower-lobe tumors, suggesting that reliance on 4DCT alone for motion estimation warrants caution in certain clinical cases.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -123,7 +123,7 @@
     },
     {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) released final rules for the CY 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The ruling includes a significant increase in hospital outpatient reimbursement rates for proton therapy due to budget-neutral redistribution, though standalone centers express concern regarding potential future financial impacts.",
+      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. The updates include a projected 15% increase in payment for standard proton therapy codes due to budget-neutral 340B drug payment reductions, though freestanding centers continue to face reimbursement challenges.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
