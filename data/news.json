@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-17T08:05:53.959397+00:00",
+  "updated_at": "2026-11-17T21:03:55.136777+00:00",
   "articles": [
+    {
+      "title": "Implementing a breast proton therapy service: a practical framework and early clinical experience",
+      "summary": "This report outlines a practical implementation framework and initial clinical outcomes for a breast proton therapy service at the National Cancer Centre Singapore. The study highlights the specific challenges related to anatomical and setup uncertainties in breast proton therapy and provides a guide for centers developing similar services.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041903/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43041903",
+      "content_type": "paper"
+    },
     {
       "title": "Global practice patterns of MR-linac use in head and neck radiotherapy: a survey by the international MR-Linac consortium",
       "summary": "This international survey examines the clinical adoption of MR-Linac technology in head and neck cancer. It identifies that workflow inefficiencies and heterogeneous adaptive strategies remain key barriers, highlighting a need for AI-driven automation and standardized quality assurance to improve clinical integration.",
@@ -23,7 +33,7 @@
     },
     {
       "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
-      "summary": "This study evaluated the technical feasibility and safety of using bioabsorbable spacers to facilitate high-dose proton beam therapy in patients with unresectable, locally advanced pancreatic cancer of the body or tail. While the procedure was found to be technically feasible, researchers noted that the small, uncontrolled sample size prevents definitive conclusions regarding long-term safety or comparative efficacy.",
+      "summary": "This study evaluated the technical feasibility and safety of using bioabsorbable spacers to facilitate high-dose proton beam therapy in patients with unresectable, locally advanced pancreatic cancer. While the approach was found to be technically feasible, the authors caution that the study's small size limits conclusions regarding long-term safety or clinical efficacy.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-15",
@@ -33,7 +43,7 @@
     },
     {
       "title": "Independent validation of a predictive risk model for contrast-enhancing brain lesions supports enhanced periventricular radiosensitivity and variable proton RBE",
-      "summary": "This research provides independent validation for a risk model regarding contrast-enhancing brain lesions following radiation therapy. The findings support the hypothesis of enhanced periventricular radiosensitivity and suggest that proton relative biological effectiveness (RBE) is variable, highlighting the clinical need for treatment strategies that actively spare periventricular structures.",
+      "summary": "This study validates a risk model confirming enhanced radiosensitivity of the periventricular space (PVS) and supports the concept of variable relative biological effectiveness (RBE) in proton therapy. The findings underscore the importance of treatment planning strategies that actively spare the PVS by accounting for LET-dependent proton RBE.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-15",
@@ -43,7 +53,7 @@
     },
     {
       "title": "A decentralized federated learning approach for predicting chemoradiotherapy response from multicenter whole-slide images",
-      "summary": "This study introduces a decentralized federated learning model designed to predict chemoradiotherapy responses in patients with non-small cell lung cancer using whole-slide images. The model achieved performance comparable to centralized deep learning methods while maintaining data privacy across participating institutions, offering a scalable solution for multi-center collaborative research.",
+      "summary": "Researchers utilized a decentralized federated learning (FL) approach to predict chemoradiotherapy responses from whole-slide images across multiple institutions. The study demonstrates that FL can achieve performance comparable to centralized deep learning models while ensuring data privacy and institutional sovereignty, offering a practical pathway for multi-center collaborative research.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-15",
@@ -53,7 +63,7 @@
     },
     {
       "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
-      "summary": "This multicenter study evaluated the safety and efficacy of stereotactic body radiation therapy (SBRT) for pancreatic cancer. Findings suggest that ablative dose delivery and MR-guided radiotherapy (MRgRT) improve local control and organ-at-risk protection in non-metastatic patients.",
+      "summary": "A multicenter analysis of 473 pancreatic cancer patients treated with SBRT in Italy found favorable safety profiles and encouraging clinical outcomes. The study suggests that ablative dose delivery and the use of MR-guided radiotherapy (MRgRT) may improve local control and organ-at-risk protection, providing a benchmark for real-world practice.",
       "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -93,7 +103,7 @@
     },
     {
       "title": "Comparative assessment of respiratory-induced tumor motion using fluoroscopy and four-dimensional CT of solitary pulmonary lesions",
-      "summary": "This single-institution study examined respiratory motion measurements in proton therapy planning by comparing fluoroscopy to 4DCT for solitary pulmonary lesions. The researchers identified significant discrepancies between the two imaging modalities, particularly in lower-lobe tumors, suggesting that reliance on 4DCT alone for motion estimation warrants caution in certain clinical cases.",
+      "summary": "This study compares respiratory motion measurements derived from fluoroscopy and 4DCT for patients undergoing proton therapy planning for lung tumors. The researchers identified notable discrepancies, particularly in lower-lobe tumors, suggesting that 4DCT-based respiratory motion estimates should be interpreted with caution and validated via fluoroscopy when possible.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-14",
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Proton-Induced Bystander Signaling Drives Cell-Type-Specific Proteomic Remodeling in Chondrocytes and Endothelial Cells",
-      "summary": "This experimental study examines how proton-induced bystander signals influence proteomic changes in non-irradiated cells. The findings identify distinct pathway activations depending on the recipient cell type, providing a basis for further exploration of radiation-induced biological effects.",
-      "category": "Research",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026855/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43026855",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. The updates include a projected 15% increase in payment for standard proton therapy codes due to budget-neutral 340B drug payment reductions, though freestanding centers continue to face reimbursement challenges.",
+      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 payment rules, which include a notable increase in hospital outpatient reimbursement for proton therapy due to 340B drug payment redistribution. These rules take effect January 1, 2027, and will impact financial operations for both hospital-based and freestanding proton therapy centers.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
