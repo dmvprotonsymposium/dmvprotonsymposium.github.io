@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-18T07:40:56.766541+00:00",
+  "updated_at": "2026-11-18T20:40:29.373177+00:00",
   "articles": [
+    {
+      "title": "Beyond Pattern Recognition Artificial Intelligence for Integrated Diagnosis of Head and Neck Squamous Cell Carcinoma",
+      "summary": "This review discusses the diagnostic complexity of head and neck squamous cell carcinoma and the role of artificial intelligence in integrating multimodal evidence. It highlights how AI can improve diagnostic accuracy by synthesizing imaging, pathology, and molecular data.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047465/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43047465",
+      "content_type": "paper"
+    },
     {
       "title": "Implementing a breast proton therapy service: a practical framework and early clinical experience",
       "summary": "This report outlines a practical implementation framework and initial clinical outcomes for a breast proton therapy service at the National Cancer Centre Singapore. The study highlights the specific challenges related to anatomical and setup uncertainties in breast proton therapy and provides a guide for centers developing similar services.",
@@ -53,7 +63,7 @@
     },
     {
       "title": "AI in Neuro-Oncology: A Review in Neuroimaging",
-      "summary": "This review summarizes the role of artificial intelligence in neuro-oncological imaging, noting significant impacts on clinical and research workflows. AI-based image reconstruction, noise reduction, and automated segmentation are noted as key drivers for improving reproducibility and tumor quantification in clinical practice.",
+      "summary": "This article reviews the integration of artificial intelligence into neuro-oncological imaging, noting its utility in image reconstruction, automated tumor segmentation, and standardization of response assessment. It emphasizes the impact of these tools on enhancing clinical and scientific workflows in neuro-oncology.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-16",
@@ -93,8 +103,8 @@
     },
     {
       "title": "A decentralized federated learning approach for predicting chemoradiotherapy response from multicenter whole-slide images",
-      "summary": "Researchers utilized a decentralized federated learning (FL) approach to predict chemoradiotherapy responses from whole-slide images across multiple institutions. The study demonstrates that FL can achieve performance comparable to centralized deep learning models while ensuring data privacy and institutional sovereignty, offering a practical pathway for multi-center collaborative research.",
-      "category": "AI & Imaging",
+      "summary": "This study demonstrates that a federated learning model can predict non-small cell lung cancer outcomes from multicenter pathology data without requiring the exchange of sensitive local data. This approach offers a robust, privacy-preserving method for multicenter research collaborations in oncology.",
+      "category": "Research",
       "source": "PubMed AI",
       "published_date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43035727/",
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Vascular and Circulating Blood Exposure to Proton or Photon Irradiation: Differentials in Lymphocyte Subset Metrics in Cancer Patients",
-      "summary": "This research investigates the correlation between patient-specific vascular dosimetry and changes in lymphocyte subset metrics for patients receiving photon or proton therapy. The findings indicate that vascular irradiation exposure is measurable in clinical workflows and is associated with the extent of lymphocyte depletion, suggesting potential for future immune-sparing plan optimization.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026908/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43026908",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released final rules for the 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System. Changes to 340B drug payment policies result in a projected 15% increase for common proton therapy billing codes, though experts advise maintaining accurate cost reporting to safeguard future reimbursement rates.",
+      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect January 1, 2027. The updates include a significant redistribution of payment due to 340B drug program changes, resulting in a nearly 15% increase for common proton treatment billing codes.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
@@ -153,7 +153,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has updated its clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. The update reflects evolving clinical evidence on hypofractionated treatment regimens.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. These evidence-based updates aim to provide clinicians with standardized recommendations for treatment fractionation.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
