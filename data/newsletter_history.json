@@ -10,6 +10,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041903/",
       "id": "pubmed.ncbi.nlm.nih.gov/43041903",
       "content_type": "paper"
+    },
+    {
+      "title": "An experimental imaging dose estimation method for the phase-II proton CT scanner",
+      "summary": "This study presents a reliable workflow for calculating imaging dose in a phase-II proton CT scanner. The findings show strong agreement with ion chamber measurements, supporting the use of this approach for image-guided and adaptive proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044300/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43044300",
+      "content_type": "paper"
+    },
+    {
+      "title": "A Compact Eight-Parameter Analytical Model of Photon-Beam Lateral Dose Profiles",
+      "summary": "This research provides a compact analytical model to describe megavoltage photon-beam lateral dose profiles. The framework offers a standardized tool to support treatment planning system commissioning and quality assurance in radiation oncology departments.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044129/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43044129",
+      "content_type": "paper"
+    },
+    {
+      "title": "Cardiotoxicity of Anthracyclines and HER2-Targeted Therapies: Current Insights and Proposed AI-Assisted Cardio-Oncology Pathway",
+      "summary": "This review discusses the integration of AI models to predict cardiotoxicity in patients undergoing cancer therapies. It emphasizes that these tools should be used to complement, rather than replace, established clinical surveillance pathways in oncology.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042815/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43042815",
+      "content_type": "paper"
+    },
+    {
+      "title": "Tumor Semantic Modeling with Vascular Morphology Prior Correction Reduces False-Positive Malignant Predictions",
+      "summary": "A new framework for lung tumor classification integrates semantic modeling with vascular morphology analysis to improve diagnostic accuracy on contrast-enhanced CT. The model demonstrates potential in reducing false-positive results by incorporating clinical anatomical priors.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040130/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43040130",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
