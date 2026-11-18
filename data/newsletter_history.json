@@ -50,6 +50,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43040130/",
       "id": "pubmed.ncbi.nlm.nih.gov/43040130",
       "content_type": "paper"
+    },
+    {
+      "title": "Beyond Pattern Recognition Artificial Intelligence for Integrated Diagnosis of Head and Neck Squamous Cell Carcinoma",
+      "summary": "This review discusses the diagnostic complexity of head and neck squamous cell carcinoma and the role of artificial intelligence in integrating multimodal evidence. It highlights how AI can improve diagnostic accuracy by synthesizing imaging, pathology, and molecular data.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047465/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43047465",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
