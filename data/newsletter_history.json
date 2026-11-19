@@ -120,6 +120,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045453/",
       "id": "pubmed.ncbi.nlm.nih.gov/43045453",
       "content_type": "paper"
+    },
+    {
+      "title": "Proton beam therapy in the treatment of adenoid cystic carcinoma of the head and neck: a single enterprise retrospective cohort study",
+      "summary": "This retrospective study evaluates the clinical outcomes of curative-intent proton beam therapy for adenoid cystic carcinoma of the head and neck. Findings suggest favorable local control and manageable toxicity, though the authors emphasize the need for larger studies to compare definitive versus postoperative approaches.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054136/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43054136",
+      "content_type": "paper"
+    },
+    {
+      "title": "RadCalc 3D Monte-Carlo: tuning and independent dosimetric validation of radiotherapy treatment plans",
+      "summary": "This study details the implementation and validation of an independent Monte-Carlo based dose recalculation software for patient-specific quality assurance. The research provides a framework for integrating high-accuracy dose calculation verification into clinical linear accelerator workflows.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053734/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43053734",
+      "content_type": "paper"
+    },
+    {
+      "title": "Sensitivity in error detection of an electronic portal imaging device for patient-specific QA in head and neck VMAT plans",
+      "summary": "Researchers evaluated an electronic portal imaging device for patient-specific quality assurance in complex head and neck VMAT plans. The study utilized statistical process control to establish institutional tolerance limits, aiding in the detection of delivery errors.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049861/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43049861",
+      "content_type": "paper"
+    },
+    {
+      "title": "Progress in the Application of Artificial Intelligence in Radiotherapy: From Image Guidance to Adaptive Radiation Therapy",
+      "summary": "This review tracks the shift of artificial intelligence applications from image-guided radiotherapy toward real-time adaptive radiation therapy. The paper highlights AI's role in addressing operational inefficiencies and improving treatment personalization in clinical practice.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052664/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43052664",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
