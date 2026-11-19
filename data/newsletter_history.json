@@ -60,6 +60,66 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43047465/",
       "id": "pubmed.ncbi.nlm.nih.gov/43047465",
       "content_type": "paper"
+    },
+    {
+      "title": "Predictors of radiation-induced lymphopenia in NSCLC: blood and bone marrow dose during chemoradiotherapy",
+      "summary": "This study identifies radiation dose to circulating blood as a significant predictor of lymphopenia in non-small cell lung cancer patients. It suggests that while correlations exist, strategies beyond simply optimizing dose to the blood are necessary for effective reduction of treatment-related lymphopenia.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051557/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43051557",
+      "content_type": "paper"
+    },
+    {
+      "title": "Combination Strategies for Carbon Ion Radiotherapy: Biological Rationale, Clinical Evidence, and Future Directions",
+      "summary": "This review explores the integration of carbon ion radiotherapy with other treatment modalities to improve therapeutic outcomes in radioresistant tumors. It summarizes the radiobiological advantages of high linear energy transfer particle therapy and current clinical evidence for its use in complex oncological cases.",
+      "category": "Research",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048007/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43048007",
+      "content_type": "paper"
+    },
+    {
+      "title": "Cardio-immune crosstalk in novel radioimmunotherapy: implications for tumor immune remodeling, radiosensitization, and cardiac safety",
+      "summary": "This article discusses the impact of advanced radiotherapy techniques, including proton and carbon-ion therapy, on the tumor microenvironment and cardiac safety. It highlights how these modalities interact with immune pathways and the importance of considering cardiac outcomes in modern radioimmunotherapy.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047822/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43047822",
+      "content_type": "paper"
+    },
+    {
+      "title": "Evaluating a large language model for radiotherapy patient scheduling under realistic clinical and operational constraints: A feasibility study",
+      "summary": "A feasibility study demonstrates the potential for large language models to assist in the complex process of radiotherapy patient scheduling. The research indicates that human-in-the-loop AI tools can effectively translate clinical priorities into actionable, feasible schedules.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049197/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43049197",
+      "content_type": "paper"
+    },
+    {
+      "title": "Assessment of simulated respiratory gating based on external-to-internal motion prediction using a hybrid, adaptive deep-learning network",
+      "summary": "Researchers developed a hybrid deep-learning network to improve respiratory gating accuracy during radiotherapy. The model successfully mitigates errors associated with breathing irregularities, showing significant potential for enhancing precision in motion-managed treatment delivery.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046492/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43046492",
+      "content_type": "paper"
+    },
+    {
+      "title": "Radiotherapy for Unresectable Soft Tissue Sarcoma",
+      "summary": "This review discusses management strategies for unresectable soft tissue sarcoma, noting the limitations of conventional radiotherapy. It evaluates emerging techniques, including hypofractionated accelerated dose painting, aimed at increasing the biologically effective dose while preserving normal tissue.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045453/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43045453",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
