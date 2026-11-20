@@ -160,6 +160,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43052664/",
       "id": "pubmed.ncbi.nlm.nih.gov/43052664",
       "content_type": "paper"
+    },
+    {
+      "title": "A depth-resolved single-flask 3D clonogenic platform for continuous LET-dependent radiobiological assessment in carbon-ion therapy",
+      "summary": "This study introduces a novel 3D clonogenic assay platform designed to capture depth-dependent biological responses across carbon-ion beam paths. The platform facilitates high-density spatial sampling, supporting more accurate biophysical model validation compared to traditional point-wise assays.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056862/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43056862",
+      "content_type": "paper"
+    },
+    {
+      "title": "Reirradiation after repeat breast conserving treatment: Contemporary evidence, technical approaches, and expert recommendations",
+      "summary": "This review evaluates the role of repeat breast conserving therapy and reirradiation as an alternative to mastectomy for patients experiencing an ipsilateral breast tumor event. It synthesizes current evidence and technical considerations for clinicians managing recurrent disease in previously irradiated tissues.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056803/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43056803",
+      "content_type": "paper"
+    },
+    {
+      "title": "Risk stratification for immune-related pneumonitis in esophageal cancer: differential roles of systemic inflammation across severity grades and additive effect of radiation",
+      "summary": "Researchers investigated the relationship between baseline systemic inflammation, lung dose metrics (V20), and the risk of immune-related pneumonitis in esophageal cancer patients. The study suggests a framework for future risk stratification based on host-dosimetry interactions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054103/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43054103",
+      "content_type": "paper"
+    },
+    {
+      "title": "Enhancing auto-segmentation accuracy and robustness through multiple deep learning systems",
+      "summary": "This research evaluates the use of multi-system fusion to improve the reliability of automated contouring in radiotherapy treatment planning. The proposed framework shows potential for generating higher-quality initial contours for clinical review.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056317/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43056317",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
