@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-20T07:28:46.485884+00:00",
+  "updated_at": "2026-11-20T20:30:25.706558+00:00",
   "articles": [
+    {
+      "title": "Linear energy transfer optimization in proton therapy of sinonasal cancer",
+      "summary": "This research demonstrates that LET optimization in proton therapy can effectively reduce doses to critical organs at risk without compromising target coverage. The study emphasizes that the effectiveness of these optimizations is patient-specific and necessitates individualized assessment.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060556/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43060556",
+      "content_type": "paper"
+    },
+    {
+      "title": "An EPID-based virtual audit framework for multi-institutional radiotherapy audits using direct fluence comparison",
+      "summary": "This study proposes a tiered framework using EPID-based fluence comparisons to standardize radiotherapy machine parameters across institutions. The method shows promise in identifying cases that require review during multi-institutional quality assurance audits.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060554/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43060554",
+      "content_type": "paper"
+    },
+    {
+      "title": "Feasibility of organic thin-film transistors for real-time in vivo dosimetry",
+      "summary": "Researchers investigated the use of organic thin-film transistors for real-time dosimetry. The study found that these devices exhibit promising dosimetric characteristics in phantom studies, potentially offering a new tool for clinical in vivo monitoring.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059145/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43059145",
+      "content_type": "paper"
+    },
+    {
+      "title": "Implementation of a 0.55T MR simulator for intracranial stereotactic radiosurgery",
+      "summary": "This study evaluates the clinical feasibility of a low-field 0.55T MRI scanner for use as a dedicated radiotherapy simulator for intracranial stereotactic radiosurgery. The findings suggest it can meet imaging requirements for SRS planning, though further comparisons with high-field systems are needed.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059082/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43059082",
+      "content_type": "paper"
+    },
     {
       "title": "Proton beam therapy in the treatment of adenoid cystic carcinoma of the head and neck: a single enterprise retrospective cohort study",
       "summary": "This retrospective study evaluates the clinical outcomes of curative-intent proton beam therapy for adenoid cystic carcinoma of the head and neck. Findings suggest favorable local control and manageable toxicity, though the authors emphasize the need for larger studies to compare definitive versus postoperative approaches.",
@@ -62,6 +102,16 @@
       "content_type": "paper"
     },
     {
+      "title": "Development and internal validation of a predictive model for thrombocytopenia in cervical cancer patients undergoing concurrent chemoradiotherapy",
+      "summary": "This research introduces a predictive model that utilizes clinical and dosimetric factors to identify cervical cancer patients at high risk of developing thrombocytopenia during concurrent chemoradiotherapy. The model aims to assist in personalizing treatment planning for these patients.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058580/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43058580",
+      "content_type": "paper"
+    },
+    {
       "title": "Beyond Pattern Recognition Artificial Intelligence for Integrated Diagnosis of Head and Neck Squamous Cell Carcinoma",
       "summary": "This review discusses the diagnostic complexity of head and neck squamous cell carcinoma and the role of artificial intelligence in integrating multimodal evidence. It highlights how AI can improve diagnostic accuracy by synthesizing imaging, pathology, and molecular data.",
       "category": "AI & Imaging",
@@ -72,58 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Predictors of radiation-induced lymphopenia in NSCLC: blood and bone marrow dose during chemoradiotherapy",
-      "summary": "This study analyzes the impact of radiation dose to circulating blood and bone marrow on the development of lymphopenia in patients with non-small cell lung cancer. Findings indicate that while dose to the blood is a predictor, radiation delivery optimization requires a multifactorial approach.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43051557/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43051557",
-      "content_type": "paper"
-    },
-    {
-      "title": "Combination Strategies for Carbon Ion Radiotherapy: Biological Rationale, Clinical Evidence, and Future Directions",
-      "summary": "This review discusses the integration of carbon ion radiotherapy with other modalities to improve the therapeutic ratio. It outlines the current radiobiological understanding and clinical evidence supporting the use of high-LET radiation for radioresistant tumors.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43048007/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43048007",
-      "content_type": "paper"
-    },
-    {
-      "title": "Cardio-immune crosstalk in novel radioimmunotherapy: implications for tumor immune remodeling, radiosensitization, and cardiac safety",
-      "summary": "The article examines the complex interactions between novel radiotherapy modalities—including proton therapy and FLASH—and the cardiac and immune systems. It highlights critical considerations for ensuring cardiac safety during advanced radioimmunotherapy regimens.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43047822/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43047822",
-      "content_type": "paper"
-    },
-    {
-      "title": "Evaluating a large language model for radiotherapy patient scheduling under realistic clinical and operational constraints: A feasibility study",
-      "summary": "A feasibility study demonstrates the potential for large language models to assist in the complex process of radiotherapy patient scheduling. The research indicates that human-in-the-loop AI tools can effectively translate clinical priorities into actionable, feasible schedules.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049197/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43049197",
-      "content_type": "paper"
-    },
-    {
-      "title": "Assessment of simulated respiratory gating based on external-to-internal motion prediction using a hybrid, adaptive deep-learning network",
-      "summary": "Researchers developed a hybrid deep-learning network to improve respiratory gating accuracy during radiotherapy. The model successfully mitigates errors associated with breathing irregularities, showing significant potential for enhancing precision in motion-managed treatment delivery.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046492/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43046492",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) finalized the CY 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which include significant payment increases for proton therapy services in hospital outpatient settings due to budget neutrality redistributions. These changes take effect on January 1, 2027, and have prompted industry discussion regarding the long-term sustainability of accurate charge capture in these settings.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect on January 1, 2027. These updates include a significant increase in hospital outpatient payments for common proton therapy codes due to budget neutrality redistributions, though they present ongoing complexities for freestanding centers.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
