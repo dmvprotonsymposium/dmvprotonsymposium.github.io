@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-21T07:23:14.346817+00:00",
+  "updated_at": "2026-11-21T19:26:45.294087+00:00",
   "articles": [
+    {
+      "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
+      "summary": "This study evaluates the performance of a multithreaded CPU-based proton Monte Carlo engine for independent treatment-plan recalculation. Researchers analyzed its sensitivity to CT conversion, providing insights into improving verification accuracy for clinical proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065473/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43065473",
+      "content_type": "paper"
+    },
     {
       "title": "Linear energy transfer optimization in proton therapy of sinonasal cancer",
       "summary": "This research demonstrates that LET optimization in proton therapy can effectively reduce doses to critical organs at risk without compromising target coverage. The study emphasizes that the effectiveness of these optimizations is patient-specific and necessitates individualized assessment.",
@@ -92,38 +102,28 @@
       "content_type": "paper"
     },
     {
-      "title": "Proton beam therapy in the treatment of adenoid cystic carcinoma of the head and neck: a single enterprise retrospective cohort study",
-      "summary": "This retrospective study evaluates the clinical outcomes of curative-intent proton beam therapy for adenoid cystic carcinoma of the head and neck. Findings suggest favorable local control and manageable toxicity, though the authors emphasize the need for larger studies to compare definitive versus postoperative approaches.",
-      "category": "Proton Therapy",
+      "title": "Local Treatment for Perineal and Perianal Rhabdomyosarcoma: Clinical Practice Guidelines",
+      "summary": "This consensus statement from major international pediatric oncology groups addresses the challenges of local control for complex rhabdomyosarcoma cases. It outlines multimodal treatment strategies critical for clinical management in radiation oncology settings.",
+      "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43054136/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43054136",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062201/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062201",
       "content_type": "paper"
     },
     {
-      "title": "RadCalc 3D Monte-Carlo: tuning and independent dosimetric validation of radiotherapy treatment plans",
-      "summary": "This study details the implementation and validation of an independent Monte-Carlo based dose recalculation software for patient-specific quality assurance. The research provides a framework for integrating high-accuracy dose calculation verification into clinical linear accelerator workflows.",
+      "title": "Development of a slice-specific ct dose library with interpolation methods for organ dosimetry in MIRDct",
+      "summary": "This research introduces a scalable approach for organ dose estimation during CT imaging to reduce computational demands. The tools provided contribute to improved standardized dosimetry within the medical physics and imaging community.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43053734/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43053734",
-      "content_type": "paper"
-    },
-    {
-      "title": "A depth-resolved single-flask 3D clonogenic platform for continuous LET-dependent radiobiological assessment in carbon-ion therapy",
-      "summary": "This study introduces a novel 3D clonogenic assay platform designed to capture depth-dependent biological responses across carbon-ion beam paths. The platform facilitates high-density spatial sampling, supporting more accurate biophysical model validation compared to traditional point-wise assays.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056862/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43056862",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059133/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43059133",
       "content_type": "paper"
     },
     {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "CMS finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect January 1, 2027. The changes include significant updates to hospital outpatient payment rates for proton therapy services due to 340B drug payment redistribution, resulting in a projected increase for most common proton treatment codes.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released final rules for the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System, which take effect January 1, 2027. The rules include a significant increase in hospital outpatient payments for proton therapy due to 340B drug payment redistribution, though freestanding centers face separate reimbursement challenges.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
