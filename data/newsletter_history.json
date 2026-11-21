@@ -50,6 +50,56 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43058580/",
       "id": "pubmed.ncbi.nlm.nih.gov/43058580",
       "content_type": "paper"
+    },
+    {
+      "title": "Sensitivity of silicon-to-water dose conversion and Bragg-peak metrics to stopping-power datasets in proton dosimetry",
+      "summary": "This study quantifies how water-to-silicon stopping-power ratios, converted dose-to-water distributions, and Bragg-peak metrics vary with the stopping-power dataset for a 67.5 MeV pristine proton beam in water. Accurate proton dosimetry requires internally consistent data for detector-to-water conversion and Monte Carlo simulations.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063612/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063612",
+      "content_type": "paper"
+    },
+    {
+      "title": "In silico feasibility and robustness evaluation of a single-spot proton Bragg peak FLASH platform for small-animal irradiation using a generalized 3D-printed bolus",
+      "summary": "This research aims to develop an irradiation setup for ultra-high dose-rate Bragg peak proton delivery, moving beyond traditional transmission beams. The study evaluates a 3D-printed bolus approach to achieve more conformal clinical dose distributions in preclinical FLASH models.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063603/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063603",
+      "content_type": "paper"
+    },
+    {
+      "title": "A comprehensive microdosimetric study of neutron capture enhanced proton therapy: physical dose to RBE-based evaluation",
+      "summary": "This Monte Carlo investigation assesses the physical dose deposition and microdosimetric characteristics of Neutron Capture Enhanced Proton Therapy (NCEPT). The study seeks to clarify conflicting reports regarding the effectiveness of NCEPT in clinical proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062950/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062950",
+      "content_type": "paper"
+    },
+    {
+      "title": "Evaluation of the efficacy and safety of particle therapy for kidney cancer through a multicenter registry study and meta-analysis",
+      "summary": "This multicenter study compares the outcomes of particle therapy, including proton beam therapy and carbon-ion radiotherapy, with stereotactic body radiation therapy for kidney cancer. The analysis provides clinical evidence regarding the efficacy and safety of particle therapy in this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062948/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062948",
+      "content_type": "paper"
+    },
+    {
+      "title": "Continual learning in oncology AI: A framework for safe clinical translation",
+      "summary": "This review explores continual learning (CL) methods for AI models in oncology to address performance erosion caused by evolving imaging protocols, staging criteria, and therapies. The framework discusses maintaining model accuracy and patient safety through dynamic learning, with significant relevance to radiation oncology and medical imaging.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063946/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063946",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
