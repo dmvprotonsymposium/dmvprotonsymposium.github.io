@@ -100,6 +100,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43063946/",
       "id": "pubmed.ncbi.nlm.nih.gov/43063946",
       "content_type": "paper"
+    },
+    {
+      "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
+      "summary": "This study evaluates the performance of a multithreaded CPU-based proton Monte Carlo engine for independent treatment-plan recalculation. Researchers analyzed its sensitivity to CT conversion, providing insights into improving verification accuracy for clinical proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065473/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43065473",
+      "content_type": "paper"
+    },
+    {
+      "title": "Local Treatment for Perineal and Perianal Rhabdomyosarcoma: Clinical Practice Guidelines",
+      "summary": "This consensus statement from major international pediatric oncology groups addresses the challenges of local control for complex rhabdomyosarcoma cases. It outlines multimodal treatment strategies critical for clinical management in radiation oncology settings.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062201/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062201",
+      "content_type": "paper"
+    },
+    {
+      "title": "Development of a slice-specific ct dose library with interpolation methods for organ dosimetry in MIRDct",
+      "summary": "This research introduces a scalable approach for organ dose estimation during CT imaging to reduce computational demands. The tools provided contribute to improved standardized dosimetry within the medical physics and imaging community.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059133/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43059133",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
