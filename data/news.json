@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:30:25.706558+00:00",
+  "updated_at": "2026-11-21T07:23:14.346817+00:00",
   "articles": [
     {
       "title": "Linear energy transfer optimization in proton therapy of sinonasal cancer",
@@ -42,6 +42,56 @@
       "content_type": "paper"
     },
     {
+      "title": "Sensitivity of silicon-to-water dose conversion and Bragg-peak metrics to stopping-power datasets in proton dosimetry",
+      "summary": "This study quantifies how water-to-silicon stopping-power ratios, converted dose-to-water distributions, and Bragg-peak metrics vary with the stopping-power dataset for a 67.5 MeV pristine proton beam in water. Accurate proton dosimetry requires internally consistent data for detector-to-water conversion and Monte Carlo simulations.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063612/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063612",
+      "content_type": "paper"
+    },
+    {
+      "title": "In silico feasibility and robustness evaluation of a single-spot proton Bragg peak FLASH platform for small-animal irradiation using a generalized 3D-printed bolus",
+      "summary": "This research aims to develop an irradiation setup for ultra-high dose-rate Bragg peak proton delivery, moving beyond traditional transmission beams. The study evaluates a 3D-printed bolus approach to achieve more conformal clinical dose distributions in preclinical FLASH models.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063603/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063603",
+      "content_type": "paper"
+    },
+    {
+      "title": "A comprehensive microdosimetric study of neutron capture enhanced proton therapy: physical dose to RBE-based evaluation",
+      "summary": "This Monte Carlo investigation assesses the physical dose deposition and microdosimetric characteristics of Neutron Capture Enhanced Proton Therapy (NCEPT). The study seeks to clarify conflicting reports regarding the effectiveness of NCEPT in clinical proton therapy.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062950/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062950",
+      "content_type": "paper"
+    },
+    {
+      "title": "Evaluation of the efficacy and safety of particle therapy for kidney cancer through a multicenter registry study and meta-analysis",
+      "summary": "This multicenter study compares the outcomes of particle therapy, including proton beam therapy and carbon-ion radiotherapy, with stereotactic body radiation therapy for kidney cancer. The analysis provides clinical evidence regarding the efficacy and safety of particle therapy in this patient population.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062948/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43062948",
+      "content_type": "paper"
+    },
+    {
+      "title": "Continual learning in oncology AI: A framework for safe clinical translation",
+      "summary": "This review explores continual learning (CL) methods for AI models in oncology to address performance erosion caused by evolving imaging protocols, staging criteria, and therapies. The framework discusses maintaining model accuracy and patient safety through dynamic learning, with significant relevance to radiation oncology and medical imaging.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063946/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43063946",
+      "content_type": "paper"
+    },
+    {
       "title": "Proton beam therapy in the treatment of adenoid cystic carcinoma of the head and neck: a single enterprise retrospective cohort study",
       "summary": "This retrospective study evaluates the clinical outcomes of curative-intent proton beam therapy for adenoid cystic carcinoma of the head and neck. Findings suggest favorable local control and manageable toxicity, though the authors emphasize the need for larger studies to compare definitive versus postoperative approaches.",
       "category": "Proton Therapy",
@@ -72,58 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Reirradiation after repeat breast conserving treatment: Contemporary evidence, technical approaches, and expert recommendations",
-      "summary": "This review evaluates the role of repeat breast conserving therapy and reirradiation as an alternative to mastectomy for patients experiencing an ipsilateral breast tumor event. It synthesizes current evidence and technical considerations for clinicians managing recurrent disease in previously irradiated tissues.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056803/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43056803",
-      "content_type": "paper"
-    },
-    {
-      "title": "Risk stratification for immune-related pneumonitis in esophageal cancer: differential roles of systemic inflammation across severity grades and additive effect of radiation",
-      "summary": "Researchers investigated the relationship between baseline systemic inflammation, lung dose metrics (V20), and the risk of immune-related pneumonitis in esophageal cancer patients. The study suggests a framework for future risk stratification based on host-dosimetry interactions.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43054103/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43054103",
-      "content_type": "paper"
-    },
-    {
-      "title": "Enhancing auto-segmentation accuracy and robustness through multiple deep learning systems",
-      "summary": "This research evaluates the use of multi-system fusion to improve the reliability of automated contouring in radiotherapy treatment planning. The proposed framework shows potential for generating higher-quality initial contours for clinical review.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056317/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43056317",
-      "content_type": "paper"
-    },
-    {
-      "title": "Development and internal validation of a predictive model for thrombocytopenia in cervical cancer patients undergoing concurrent chemoradiotherapy",
-      "summary": "This research introduces a predictive model that utilizes clinical and dosimetric factors to identify cervical cancer patients at high risk of developing thrombocytopenia during concurrent chemoradiotherapy. The model aims to assist in personalizing treatment planning for these patients.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43058580/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43058580",
-      "content_type": "paper"
-    },
-    {
-      "title": "Beyond Pattern Recognition Artificial Intelligence for Integrated Diagnosis of Head and Neck Squamous Cell Carcinoma",
-      "summary": "This review discusses the diagnostic complexity of head and neck squamous cell carcinoma and the role of artificial intelligence in integrating multimodal evidence. It highlights how AI can improve diagnostic accuracy by synthesizing imaging, pathology, and molecular data.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43047465/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43047465",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect on January 1, 2027. These updates include a significant increase in hospital outpatient payments for common proton therapy codes due to budget neutrality redistributions, though they present ongoing complexities for freestanding centers.",
+      "summary": "CMS finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect January 1, 2027. The changes include significant updates to hospital outpatient payment rates for proton therapy services due to 340B drug payment redistribution, resulting in a projected increase for most common proton treatment codes.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
