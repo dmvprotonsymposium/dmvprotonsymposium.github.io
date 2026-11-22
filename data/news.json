@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:26:45.294087+00:00",
+  "updated_at": "2026-11-22T07:03:38.968630+00:00",
   "articles": [
     {
       "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
@@ -9,6 +9,16 @@
       "published_date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43065473/",
       "id": "pubmed.ncbi.nlm.nih.gov/43065473",
+      "content_type": "paper"
+    },
+    {
+      "title": "Machine log files in modern radiotherapy: a systematic and bibliometric review",
+      "summary": "This review proposes a layered, risk-informed QA architecture for radiotherapy using machine log files. It highlights the potential for these files to support delivery-integrity auditing, independent 3D dose recalculation, and fraction-level surveillance in modern clinical workflows.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43067018",
       "content_type": "paper"
     },
     {
@@ -53,7 +63,7 @@
     },
     {
       "title": "Sensitivity of silicon-to-water dose conversion and Bragg-peak metrics to stopping-power datasets in proton dosimetry",
-      "summary": "This study quantifies how water-to-silicon stopping-power ratios, converted dose-to-water distributions, and Bragg-peak metrics vary with the stopping-power dataset for a 67.5 MeV pristine proton beam in water. Accurate proton dosimetry requires internally consistent data for detector-to-water conversion and Monte Carlo simulations.",
+      "summary": "This study quantifies how water-to-silicon stopping-power ratios, converted dose-to-water distributions, and Bragg-peak metrics vary based on different stopping-power datasets. The findings offer critical insights for improving the accuracy of proton dosimetry and Monte Carlo radiation transport simulations.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-20",
@@ -63,7 +73,7 @@
     },
     {
       "title": "In silico feasibility and robustness evaluation of a single-spot proton Bragg peak FLASH platform for small-animal irradiation using a generalized 3D-printed bolus",
-      "summary": "This research aims to develop an irradiation setup for ultra-high dose-rate Bragg peak proton delivery, moving beyond traditional transmission beams. The study evaluates a 3D-printed bolus approach to achieve more conformal clinical dose distributions in preclinical FLASH models.",
+      "summary": "Researchers evaluated an irradiation setup for ultra-high dose-rate Bragg peak proton delivery intended for preclinical models. The study demonstrates a method for achieving more conformal dose distributions, moving away from standard transmission beams in proton FLASH research.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-20",
@@ -73,7 +83,7 @@
     },
     {
       "title": "A comprehensive microdosimetric study of neutron capture enhanced proton therapy: physical dose to RBE-based evaluation",
-      "summary": "This Monte Carlo investigation assesses the physical dose deposition and microdosimetric characteristics of Neutron Capture Enhanced Proton Therapy (NCEPT). The study seeks to clarify conflicting reports regarding the effectiveness of NCEPT in clinical proton therapy.",
+      "summary": "This Monte Carlo investigation examines the physical dose deposition and microdosimetric characteristics of neutron capture enhanced proton therapy (NCEPT). The research addresses current contradictions in the field regarding the therapeutic effectiveness of NCEPT.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-20",
@@ -83,7 +93,7 @@
     },
     {
       "title": "Evaluation of the efficacy and safety of particle therapy for kidney cancer through a multicenter registry study and meta-analysis",
-      "summary": "This multicenter study compares the outcomes of particle therapy, including proton beam therapy and carbon-ion radiotherapy, with stereotactic body radiation therapy for kidney cancer. The analysis provides clinical evidence regarding the efficacy and safety of particle therapy in this patient population.",
+      "summary": "This multicenter study and meta-analysis evaluates the efficacy and safety of proton beam therapy and carbon-ion radiotherapy for kidney cancer. Outcomes were compared against stereotactic body radiation therapy to provide data on particle therapy performance in this clinical setting.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-20",
@@ -102,8 +112,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Local Treatment for Perineal and Perianal Rhabdomyosarcoma: Clinical Practice Guidelines",
-      "summary": "This consensus statement from major international pediatric oncology groups addresses the challenges of local control for complex rhabdomyosarcoma cases. It outlines multimodal treatment strategies critical for clinical management in radiation oncology settings.",
+      "title": "Local Treatment for Perineal and Perianal Rhabdomyosarcoma: Clinical Practice Guidelines and Consensus Statement",
+      "summary": "This consensus statement from major international pediatric oncology groups addresses the challenging local control of perineal and perianal rhabdomyosarcoma. The guidelines emphasize multimodal treatment strategies, including the role of advanced radiotherapy techniques in high-risk pediatric cases.",
       "category": "Radiation Oncology",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-20",
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Development of a slice-specific ct dose library with interpolation methods for organ dosimetry in MIRDct",
-      "summary": "This research introduces a scalable approach for organ dose estimation during CT imaging to reduce computational demands. The tools provided contribute to improved standardized dosimetry within the medical physics and imaging community.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43059133/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43059133",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released final rules for the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System, which take effect January 1, 2027. The rules include a significant increase in hospital outpatient payments for proton therapy due to 340B drug payment redistribution, though freestanding centers face separate reimbursement challenges.",
+      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, set to take effect January 1, 2027. The policy includes redistribution of payments related to 340B drug savings, resulting in a nearly 15% increase in payment for standard proton therapy service codes compared to 2026 rates.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
