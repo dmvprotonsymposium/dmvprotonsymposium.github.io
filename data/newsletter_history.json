@@ -140,6 +140,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
       "id": "pubmed.ncbi.nlm.nih.gov/43067018",
       "content_type": "paper"
+    },
+    {
+      "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice",
+      "summary": "This review discusses the integration of AI architectures into oncology, highlighting the role of radiomics and multiomics in characterizing tumor phenotypes. It provides an overview of how deep learning is shifting cancer care from empirical paradigms toward data-driven precision medicine.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067911/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43067911",
+      "content_type": "paper"
+    },
+    {
+      "title": "Molecular chaperones involved in the radiobiological response of established triple-negative breast cancer cell lines: a pilot study",
+      "summary": "This pilot study investigates stress-response signaling and radioresistance in triple-negative breast cancer (TNBC) cells. By examining molecular chaperones, the research aims to better understand the intrinsic biological determinants of radiosensitivity in these tumor subtypes.",
+      "category": "Research",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066791/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43066791",
+      "content_type": "paper"
+    },
+    {
+      "title": "Decoding glioblastoma recurrence: harnessing radiomics and machine learning for early prediction",
+      "summary": "This study demonstrates that combining radiomic features from FLAIR hyperintense regions with clinical and MRI data improves predictive accuracy for glioblastoma recurrence. The proposed machine learning model offers a potential tool for early identification of treatment failure.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065794/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43065794",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
