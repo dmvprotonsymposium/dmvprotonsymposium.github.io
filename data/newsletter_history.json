@@ -130,6 +130,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43059133/",
       "id": "pubmed.ncbi.nlm.nih.gov/43059133",
       "content_type": "paper"
+    },
+    {
+      "title": "Machine log files in modern radiotherapy: a systematic and bibliometric review",
+      "summary": "This review proposes a layered, risk-informed QA architecture for radiotherapy using machine log files. It highlights the potential for these files to support delivery-integrity auditing, independent 3D dose recalculation, and fraction-level surveillance in modern clinical workflows.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43067018",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
