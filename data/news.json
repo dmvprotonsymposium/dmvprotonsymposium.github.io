@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-22T07:03:38.968630+00:00",
+  "updated_at": "2026-11-22T19:49:39.329589+00:00",
   "articles": [
+    {
+      "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice",
+      "summary": "This review discusses the integration of AI architectures into oncology, highlighting the role of radiomics and multiomics in characterizing tumor phenotypes. It provides an overview of how deep learning is shifting cancer care from empirical paradigms toward data-driven precision medicine.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067911/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43067911",
+      "content_type": "paper"
+    },
     {
       "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
       "summary": "This study evaluates the performance of a multithreaded CPU-based proton Monte Carlo engine for independent treatment-plan recalculation. Researchers analyzed its sensitivity to CT conversion, providing insights into improving verification accuracy for clinical proton therapy.",
@@ -19,6 +29,26 @@
       "published_date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
       "id": "pubmed.ncbi.nlm.nih.gov/43067018",
+      "content_type": "paper"
+    },
+    {
+      "title": "Molecular chaperones involved in the radiobiological response of established triple-negative breast cancer cell lines: a pilot study",
+      "summary": "This pilot study investigates stress-response signaling and radioresistance in triple-negative breast cancer (TNBC) cells. By examining molecular chaperones, the research aims to better understand the intrinsic biological determinants of radiosensitivity in these tumor subtypes.",
+      "category": "Research",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066791/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43066791",
+      "content_type": "paper"
+    },
+    {
+      "title": "Decoding glioblastoma recurrence: harnessing radiomics and machine learning for early prediction",
+      "summary": "This study demonstrates that combining radiomic features from FLAIR hyperintense regions with clinical and MRI data improves predictive accuracy for glioblastoma recurrence. The proposed machine learning model offers a potential tool for early identification of treatment failure.",
+      "category": "AI & Imaging",
+      "source": "PubMed AI",
+      "published_date": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065794/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43065794",
       "content_type": "paper"
     },
     {
@@ -92,38 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Evaluation of the efficacy and safety of particle therapy for kidney cancer through a multicenter registry study and meta-analysis",
-      "summary": "This multicenter study and meta-analysis evaluates the efficacy and safety of proton beam therapy and carbon-ion radiotherapy for kidney cancer. Outcomes were compared against stereotactic body radiation therapy to provide data on particle therapy performance in this clinical setting.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062948/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43062948",
-      "content_type": "paper"
-    },
-    {
-      "title": "Continual learning in oncology AI: A framework for safe clinical translation",
-      "summary": "This review explores continual learning (CL) methods for AI models in oncology to address performance erosion caused by evolving imaging protocols, staging criteria, and therapies. The framework discusses maintaining model accuracy and patient safety through dynamic learning, with significant relevance to radiation oncology and medical imaging.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063946/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43063946",
-      "content_type": "paper"
-    },
-    {
-      "title": "Local Treatment for Perineal and Perianal Rhabdomyosarcoma: Clinical Practice Guidelines and Consensus Statement",
-      "summary": "This consensus statement from major international pediatric oncology groups addresses the challenging local control of perineal and perianal rhabdomyosarcoma. The guidelines emphasize multimodal treatment strategies, including the role of advanced radiotherapy techniques in high-risk pediatric cases.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062201/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43062201",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "CMS has finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, set to take effect January 1, 2027. The policy includes redistribution of payments related to 340B drug savings, resulting in a nearly 15% increase in payment for standard proton therapy service codes compared to 2026 rates.",
+      "summary": "The Centers for Medicare and Medicaid Services released the CY 2027 Medicare final rules, which include significant payment adjustments for proton therapy services. The policy, effective January 1, 2027, results in nearly a 15% increase in reimbursement for common proton treatment codes due to redistribution from 340B drug payment reductions.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
