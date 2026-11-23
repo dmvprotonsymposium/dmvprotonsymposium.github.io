@@ -170,6 +170,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43065794/",
       "id": "pubmed.ncbi.nlm.nih.gov/43065794",
       "content_type": "paper"
+    },
+    {
+      "title": "Adaptive vs. Non-Adaptive Radiation Dose Escalation in Locally Advanced Non-Small Cell Lung Cancer: A Comparison of NRG-RTOG 0617 and 1106 Individual Patient Data",
+      "summary": "This study compares adaptive and non-adaptive radiation dose escalation strategies for non-small cell lung cancer. The results indicate that adaptive radiotherapy improved local recurrence control and showed a trend toward better overall survival while reducing toxicity and improving dosimetry.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068714/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43068714",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
