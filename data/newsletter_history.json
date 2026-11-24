@@ -10,6 +10,66 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43069673/",
       "id": "pubmed.ncbi.nlm.nih.gov/43069673",
       "content_type": "paper"
+    },
+    {
+      "title": "A Dosimetric and Biological Comparison of Volumetric Modulated Arc Therapy and Adaptive Aperture Proton Therapy for Hippocampal-Sparing Whole-Brain Radiotherapy",
+      "summary": "This retrospective study compares the dosimetric outcomes of intensity-modulated proton therapy using Adaptive Aperture technology against VMAT for whole-brain radiotherapy. The findings demonstrate the potential for enhanced sparing of hippocampal structures and other organs at risk using the adaptive approach.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076870/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43076870",
+      "content_type": "paper"
+    },
+    {
+      "title": "Interpreting Dose LET volume histograms using difference mapping in Spot Delete proton planning",
+      "summary": "Researchers utilized difference mapping within Spot Delete proton planning to analyze biologically intensified dose distributions. The study concludes that this methodology effectively reduces elevated linear energy transfer to skin while maintaining consistent target dose coverage.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075780/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43075780",
+      "content_type": "paper"
+    },
+    {
+      "title": "Refining risk assessment in 177 Lu-DOTATATE extravasation: the value of 3D Monte Carlo dosimetry",
+      "summary": "This study evaluates the utility of 3D Monte Carlo dosimetry in assessing radiation risk following radiopharmaceutical extravasation. The results indicate that 3D modeling provides superior spatial insight into tissue dose distribution compared to standard MIRD methods.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074951/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43074951",
+      "content_type": "paper"
+    },
+    {
+      "title": "The Japanese Society for Radiation Oncology (JASTRO) guidelines on palliative radiotherapy for cancer-induced symptoms",
+      "summary": "The JASTRO guidelines for palliative radiotherapy have been updated following a systematic review of clinical evidence from 1970 to 2024. This document provides professional recommendations for managing cancer-induced symptoms through radiation intervention.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071726/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43071726",
+      "content_type": "paper"
+    },
+    {
+      "title": "Integrating functional brain regions into treatment optimization: a multi-institutional dosimetric study in CyberKnife SRT for brain metastases",
+      "summary": "This multi-institutional study explores the technical feasibility of incorporating functional neuroanatomical data into treatment planning for stereotactic radiosurgery. The authors report that this approach enables consistent dose reduction to critical brain regions without compromising target coverage.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073995/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43073995",
+      "content_type": "paper"
+    },
+    {
+      "title": "Off-axis Winston-Lutz quality assurance for static and rotational delivery on a gimbal-mounted O-ring linear accelerator",
+      "summary": "This paper evaluates the performance of a commercial Winston-Lutz procedure adapted for gimbal-shifted radiation therapy on an O-ring linear accelerator. The validation provides essential methodology for ensuring targeting accuracy during dynamic beam delivery.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071991/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43071991",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
