@@ -90,8 +90,12 @@ RSS_FEEDS = [
         "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1P9hIDIGI6NPG2TSIA1BW_OWoyQvN5KTS9D0K8drayqnxH2Yen/?limit=100&utm_campaign=pubmed-2&fc=20261026171808"
     },
     {
-        "name": "PubMed AI",
+        "name": "PubMed Quantum Computing Oncology",
         "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1FiYL_imNw8xy2fFLHvyWg5mfmFq-bGG9MIjBWDDgg_f-megfv/?limit=100&utm_campaign=pubmed-2&fc=20261026171942"
+    },
+    {
+        "name": "PubMed Quantum Sensing Oncology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1J3Q0COHK8sVj8GYfE01qPHS-dkvO-QDWyJjBxnLYDBJrUzcB8/?limit=100&utm_campaign=pubmed-2&fc=20261124124327"
     },
     {
         "name": "NAPT News",
@@ -105,6 +109,25 @@ RSS_FEEDS = [
         "name": "Proton Center Developments",
         "url": google_news_rss(
             '"proton therapy" ("new center" OR "first patient" OR "opens")'
+        ),
+    },    
+    {
+        "name": "Quantum Computing in Oncology",
+        "url": google_news_rss(
+            '("quantum computing" OR "quantum algorithms") '
+            '("radiotherapy" OR "radiation therapy" OR '
+            '"proton therapy" OR "treatment planning" OR '
+            '"radiation oncology")'
+        ),
+    },
+    {
+        "name": "Quantum Sensing in Oncology",
+        "url": google_news_rss(
+            '("quantum sensing" OR "quantum sensors" OR '
+            '"NV center" OR "diamond quantum sensor") '
+            '("cancer detection" OR "tumor imaging" OR '
+            '"radiation dosimetry" OR "radiotherapy" OR '
+            '"proton therapy")'
         ),
     },
     {
@@ -122,6 +145,8 @@ NEWS_SOURCES = {
     "AAPM News",
     "ASTRO News",
     "Proton Center Developments",
+    "Quantum Computing in Oncology",
+    "Quantum Sensing in Oncology"
 }
 
 LOOKBACK_DAYS = 30
@@ -574,6 +599,29 @@ PRIORITY TOPICS
    insurance coverage, healthcare regulations, and patient access.
 10. Proton center openings, first-patient treatments,
     expansions, closures, and financial sustainability.
+
+11. Quantum computing applications directly relevant to
+    radiation oncology, proton therapy, treatment planning,
+    dose optimization, or cancer treatment.
+
+12. Quantum sensing applications directly relevant to
+    radiation dosimetry, cancer detection, tumor imaging,
+    radiotherapy monitoring, or particle therapy.
+
+QUANTUM TECHNOLOGY SELECTION RULES
+
+- Require a clear connection to radiotherapy, oncology,
+  or medical physics applications in cancer care.
+- Exclude general quantum computing breakthroughs
+  without demonstrated oncology relevance.
+- Exclude quantum sensing for unrelated medical
+  applications, such as neurological or cardiac imaging.
+- Prioritize peer-reviewed research, credible clinical
+  developments, and significant technical demonstrations.
+- Distinguish theoretical models and simulations from
+  experimental results and clinical validation.
+- Do not imply that quantum computing or sensing is
+  already a standard clinical cancer treatment technology.
 
 PRIORITY NEWS
 
