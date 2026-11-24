@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-23T07:51:52.678323+00:00",
+  "updated_at": "2026-11-24T00:02:09.630722+00:00",
   "articles": [
+    {
+      "title": "Are two readings as good as three for monthly linear accelerator output quality assurance?",
+      "summary": "This investigation assesses the efficacy of using two readings versus three for routine monthly output quality assurance on linear accelerators. The study concludes that two-reading protocols maintain consistent decision accuracy, providing a potential efficiency improvement for clinical physics workflows.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069673/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43069673",
+      "content_type": "paper"
+    },
     {
       "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice",
       "summary": "This review discusses the integration of AI architectures into oncology, highlighting the role of radiomics and multiomics in characterizing tumor phenotypes. It provides an overview of how deep learning is shifting cancer care from empirical paradigms toward data-driven precision medicine.",
@@ -12,9 +22,9 @@
       "content_type": "paper"
     },
     {
-      "title": "Adaptive vs. Non-Adaptive Radiation Dose Escalation in Locally Advanced Non-Small Cell Lung Cancer: A Comparison of NRG-RTOG 0617 and 1106 Individual Patient Data",
-      "summary": "This study compares adaptive and non-adaptive radiation dose escalation strategies for non-small cell lung cancer. The results indicate that adaptive radiotherapy improved local recurrence control and showed a trend toward better overall survival while reducing toxicity and improving dosimetry.",
-      "category": "Radiation Oncology",
+      "title": "Adaptive vs. Non-Adaptive Radiation Dose Escalation in Locally Advanced Non-Small Cell Lung Cancer",
+      "summary": "This study compares individual patient data from NRG-RTOG 0617 and 1106 trials to evaluate adaptive versus non-adaptive radiation dose escalation. Results indicate that adaptive radiotherapy led to improved local control and overall survival trends with significantly reduced toxicity and better dosimetry.",
+      "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43068714/",
@@ -23,7 +33,7 @@
     },
     {
       "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
-      "summary": "This study evaluates the performance of a multithreaded CPU-based proton Monte Carlo engine for independent treatment-plan recalculation. Researchers analyzed its sensitivity to CT conversion, providing insights into improving verification accuracy for clinical proton therapy.",
+      "summary": "The study evaluates a commercial CPU-based Monte Carlo engine built on a dose planning method (DPM) framework for independent proton treatment-plan verification. The research examines the sensitivity of this engine to CT-to-stopping-power conversion, aiming to establish a practical, accurate clinical workflow for proton dose auditing.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-21",
@@ -33,8 +43,8 @@
     },
     {
       "title": "Machine log files in modern radiotherapy: a systematic and bibliometric review",
-      "summary": "This review proposes a layered, risk-informed QA architecture for radiotherapy using machine log files. It highlights the potential for these files to support delivery-integrity auditing, independent 3D dose recalculation, and fraction-level surveillance in modern clinical workflows.",
-      "category": "Medical Physics",
+      "summary": "This review evaluates the role of machine log files (MLF) in modern radiotherapy, proposing a layered, risk-informed quality assurance architecture. The authors suggest that MLF can support delivery-integrity auditing and 3D dose recalculation, potentially serving as the digital backbone for future predictive, learning QA systems.",
+      "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
@@ -42,9 +52,9 @@
       "content_type": "paper"
     },
     {
-      "title": "Molecular chaperones involved in the radiobiological response of established triple-negative breast cancer cell lines: a pilot study",
-      "summary": "This pilot study investigates stress-response signaling and radioresistance in triple-negative breast cancer (TNBC) cells. By examining molecular chaperones, the research aims to better understand the intrinsic biological determinants of radiosensitivity in these tumor subtypes.",
-      "category": "Research",
+      "title": "Molecular chaperones involved in the radiobiological response of established triple-negative breast cancer cell lines",
+      "summary": "This pilot study investigates the role of molecular chaperones in the radiobiological response of triple-negative breast cancer (TNBC) cell lines. The findings provide insights into the stress-response signaling pathways that contribute to radioresistance, aiming to support the development of biology-driven therapeutic approaches.",
+      "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43066791/",
@@ -53,7 +63,7 @@
     },
     {
       "title": "Decoding glioblastoma recurrence: harnessing radiomics and machine learning for early prediction",
-      "summary": "This study demonstrates that combining radiomic features from FLAIR hyperintense regions with clinical and MRI data improves predictive accuracy for glioblastoma recurrence. The proposed machine learning model offers a potential tool for early identification of treatment failure.",
+      "summary": "This research utilizes machine learning and radiomic analysis of pre-chemoradiotherapy MRI scans to predict glioblastoma recurrence. The study demonstrates that integrating radiomic features with clinical and conventional imaging data enhances predictive accuracy for patient survival prognosis.",
       "category": "AI & Imaging",
       "source": "PubMed AI",
       "published_date": "2026-11-21",
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "In silico feasibility and robustness evaluation of a single-spot proton Bragg peak FLASH platform for small-animal irradiation using a generalized 3D-printed bolus",
-      "summary": "Researchers evaluated an irradiation setup for ultra-high dose-rate (FLASH) proton delivery to small-animal tumors using 3D-printed bolus technology. This work aims to bridge the gap between preclinical studies and clinical delivery configurations for future FLASH proton therapy research.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063603/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43063603",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes include payment increases for most proton therapy services due to 340B program budget neutrality adjustments, effective January 1, 2027.",
+      "summary": "The Centers for Medicare and Medicaid Services has released final rules for the 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include a projected increase in reimbursement for common proton therapy codes due to budget-neutral redistribution policies.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
