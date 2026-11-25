@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:35:09.774451+00:00",
+  "updated_at": "2026-11-25T08:48:44.340540+00:00",
   "articles": [
     {
       "title": "A Dosimetric and Biological Comparison of Volumetric Modulated Arc Therapy and Adaptive Aperture Proton Therapy for Hippocampal-Sparing Whole-Brain Radiotherapy",
@@ -72,6 +72,26 @@
       "content_type": "paper"
     },
     {
+      "title": "Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002)",
+      "summary": "This phase II trial evaluated the impact of adding local consolidative therapy (LCT) to systemic maintenance therapy in oligometastatic non-small cell lung cancer. Results indicated that LCT did not improve progression-free or overall survival, suggesting that current patient selection criteria for LCT require further refinement.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071915/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43071915",
+      "content_type": "paper"
+    },
+    {
+      "title": "A patient-specific Winston-Lutz system for multi-target, single isocentre radiotherapy",
+      "summary": "This study introduces a quality assurance system designed to verify radiation targeting accuracy for multi-target, single-isocentre stereotactic radiosurgery. The system aims to ensure delivery precision for advanced radiotherapy techniques.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072001/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43072001",
+      "content_type": "paper"
+    },
+    {
       "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice",
       "summary": "This review discusses the integration of AI architectures into oncology, highlighting the role of radiomics and multiomics in characterizing tumor phenotypes. It provides an overview of how deep learning is shifting cancer care from empirical paradigms toward data-driven precision medicine.",
       "category": "AI & Imaging",
@@ -102,28 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Machine log files in modern radiotherapy: a systematic and bibliometric review",
-      "summary": "This review evaluates the role of machine log files (MLF) in modern radiotherapy, proposing a layered, risk-informed quality assurance architecture. The authors suggest that MLF can support delivery-integrity auditing and 3D dose recalculation, potentially serving as the digital backbone for future predictive, learning QA systems.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067018/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43067018",
-      "content_type": "paper"
-    },
-    {
-      "title": "Molecular chaperones involved in the radiobiological response of established triple-negative breast cancer cell lines",
-      "summary": "This pilot study investigates the role of molecular chaperones in the radiobiological response of triple-negative breast cancer (TNBC) cell lines. The findings provide insights into the stress-response signaling pathways that contribute to radioresistance, aiming to support the development of biology-driven therapeutic approaches.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066791/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43066791",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules, which take effect January 1, 2027. The policy changes include notable increases in hospital outpatient payment rates for proton therapy services due to 340B drug payment redistribution, though freestanding centers remain concerned about the impact of the physician fee schedule changes.",
+      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes include payment increases for proton therapy services in hospital outpatient settings, effective January 1, 2027.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
@@ -133,9 +133,9 @@
     },
     {
       "title": "BayCare Proton Center Treats First Patient on Mevion S250 FIT™ with Leo Cancer Care's Marie® Solution",
-      "summary": "The BayCare Proton Center has successfully initiated patient treatments using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's Marie solution. This installation marks a new technological implementation in a clinical setting for advanced proton delivery.",
+      "summary": "BayCare Proton Center has initiated clinical operations using the Mevion S250 FIT proton therapy system integrated with Leo Cancer Care's upright patient positioning technology.",
       "category": "Proton Therapy",
-      "source": "Proton Center Developments",
+      "source": "PR Newswire",
       "published_date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neExjRGdYeTBFY2dDYjA2WmFzTV8xcFB4cmk5WHpOSkFGSmluWUhqYUM2cC1BU09lVTFGem5OOWtCck9KOEhvMnhJNWFvU1JPQzRMcURiM2c4MEtWZDJoT0hSZXQ0eXBwUGhFUEZvaDY1WElpVUZRcEZLZS0zaFVKQWRhQ2R1Z2c?oc=5",
       "id": "news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZwNVpRYkZvMDlOWFpWN0tVQWZQMUtjRk9vYlpiVE9lVUNJc1RDY0tWbno3SHFSNndFSm1aa2dPdkdRcjNZdGdhTFFjcmhLblZCQ053TXZsaUFQcVc3WU1JeFZ3Z0JBN19neEx",
@@ -163,9 +163,9 @@
     },
     {
       "title": "IBA treats first patient in clinical trial of FLASH proton therapy for head and neck cancer",
-      "summary": "IBA has announced the treatment of the first patient in the C-FLASH-01 clinical trial, evaluating the safety and efficacy of ConformalFLASH proton therapy. This trial marks a significant milestone in testing ultra-high dose rate radiation delivery for head and neck cancer patients.",
-      "category": "Research",
-      "source": "Proton Center Developments",
+      "summary": "IBA has successfully treated the first patient in a clinical trial investigating the use of FLASH proton therapy for head and neck cancer, marking a milestone in high-dose-rate research.",
+      "category": "Proton Therapy",
+      "source": "DOTmed",
       "published_date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
       "id": "news.google.com/rss/articles/CBMiUEFVX3lxTFBZbDRsU202UFFzZTdRaWdPamdoa1hqVjJtZXRKOHE3ODlKVkZMY1Uxa1duaGZjSmQzMFhRS1RFc3dwelVWOUlHal9vWmJhSy1s?oc=5",
