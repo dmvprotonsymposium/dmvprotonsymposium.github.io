@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-25T08:48:44.340540+00:00",
+  "updated_at": "2026-11-25T21:48:55.563340+00:00",
   "articles": [
+    {
+      "title": "Long-Term Outcomes After Pencil Beam Scanning Carbon Ion Radiotherapy for Unresectable Retroperitoneal Sarcomas",
+      "summary": "This exploratory analysis evaluates the safety and efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the target volume is associated with improved local control.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082434/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43082434",
+      "content_type": "paper"
+    },
+    {
+      "title": "Clinical Outcomes of Proton and Conventional Radiation For Stage IIA and IIB Seminoma",
+      "summary": "This study reviews clinical outcomes for Stage IIA/IIB seminoma patients treated with radiation therapy. The authors note that modern techniques, including proton therapy, warrant further investigation to maintain high clinical efficacy while reducing long-term toxicities.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080049/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43080049",
+      "content_type": "paper"
+    },
+    {
+      "title": "Transforming Stereotactic Radiosurgery with Artificial Intelligence: Toward Intelligent Planning and Streamlined Workflows",
+      "summary": "As clinical indications for stereotactic radiosurgery expand, AI-driven solutions are becoming essential for managing complex, multi-lesion treatment plans. This review explores how machine learning can streamline workflows and improve planning efficiency.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082459/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43082459",
+      "content_type": "paper"
+    },
     {
       "title": "A Dosimetric and Biological Comparison of Volumetric Modulated Arc Therapy and Adaptive Aperture Proton Therapy for Hippocampal-Sparing Whole-Brain Radiotherapy",
       "summary": "This retrospective study compares the dosimetric outcomes of intensity-modulated proton therapy using Adaptive Aperture technology against VMAT for whole-brain radiotherapy. The findings demonstrate the potential for enhanced sparing of hippocampal structures and other organs at risk using the adaptive approach.",
@@ -13,8 +43,8 @@
     },
     {
       "title": "Interpreting Dose LET volume histograms using difference mapping in Spot Delete proton planning",
-      "summary": "Researchers utilized difference mapping within Spot Delete proton planning to analyze biologically intensified dose distributions. The study concludes that this methodology effectively reduces elevated linear energy transfer to skin while maintaining consistent target dose coverage.",
-      "category": "Proton Therapy",
+      "summary": "Researchers demonstrate that Spot Delete planning can reduce elevated-LET skin exposure in proton therapy. The study highlights that conventional dose-volume histograms may miss these benefits, and suggests difference mapping as a more effective analytical tool.",
+      "category": "Medical Physics",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43075780/",
@@ -23,12 +53,22 @@
     },
     {
       "title": "Refining risk assessment in 177 Lu-DOTATATE extravasation: the value of 3D Monte Carlo dosimetry",
-      "summary": "This study evaluates the utility of 3D Monte Carlo dosimetry in assessing radiation risk following radiopharmaceutical extravasation. The results indicate that 3D modeling provides superior spatial insight into tissue dose distribution compared to standard MIRD methods.",
+      "summary": "This study highlights the importance of 3D Monte Carlo dosimetry in assessing the impact of radioisotope extravasation. The high-resolution spatial data provided by this method allows for a more accurate interpretation of potential clinical outcomes compared to traditional MIRD approaches.",
       "category": "Medical Physics",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43074951/",
       "id": "pubmed.ncbi.nlm.nih.gov/43074951",
+      "content_type": "paper"
+    },
+    {
+      "title": "Toxicity risk in head and neck proton therapy: integrating physics, biology, and genomics",
+      "summary": "This research emphasizes the necessity of integrating physical dosimetric data with biological and genomic indicators to better predict and mitigate toxicity risks in head and neck proton therapy patients.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078840/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43078840",
       "content_type": "paper"
     },
     {
@@ -82,48 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "A patient-specific Winston-Lutz system for multi-target, single isocentre radiotherapy",
-      "summary": "This study introduces a quality assurance system designed to verify radiation targeting accuracy for multi-target, single-isocentre stereotactic radiosurgery. The system aims to ensure delivery precision for advanced radiotherapy techniques.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43072001/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43072001",
-      "content_type": "paper"
-    },
-    {
-      "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice",
-      "summary": "This review discusses the integration of AI architectures into oncology, highlighting the role of radiomics and multiomics in characterizing tumor phenotypes. It provides an overview of how deep learning is shifting cancer care from empirical paradigms toward data-driven precision medicine.",
-      "category": "AI & Imaging",
-      "source": "PubMed AI",
-      "published_date": "2026-11-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067911/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43067911",
-      "content_type": "paper"
-    },
-    {
-      "title": "Adaptive vs. Non-Adaptive Radiation Dose Escalation in Locally Advanced Non-Small Cell Lung Cancer",
-      "summary": "This study compares individual patient data from NRG-RTOG 0617 and 1106 trials to evaluate adaptive versus non-adaptive radiation dose escalation. Results indicate that adaptive radiotherapy led to improved local control and overall survival trends with significantly reduced toxicity and better dosimetry.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43068714/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43068714",
-      "content_type": "paper"
-    },
-    {
-      "title": "Proton treatment-plan dose verification with a DPM-based Monte Carlo engine",
-      "summary": "The study evaluates a commercial CPU-based Monte Carlo engine built on a dose planning method (DPM) framework for independent proton treatment-plan verification. The research examines the sensitivity of this engine to CT-to-stopping-power conversion, aiming to establish a practical, accurate clinical workflow for proton dose auditing.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43065473/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43065473",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes include payment increases for proton therapy services in hospital outpatient settings, effective January 1, 2027.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released the CY 2027 final rules for the Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include a notable payment increase for hospital-based proton therapy services due to 340B drug payment redistributions, while also establishing new national payment rates for physicians.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
