@@ -90,6 +90,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43072001/",
       "id": "pubmed.ncbi.nlm.nih.gov/43072001",
       "content_type": "paper"
+    },
+    {
+      "title": "Long-Term Outcomes After Pencil Beam Scanning Carbon Ion Radiotherapy for Unresectable Retroperitoneal Sarcomas",
+      "summary": "This exploratory analysis evaluates the safety and efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the target volume is associated with improved local control.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082434/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43082434",
+      "content_type": "paper"
+    },
+    {
+      "title": "Clinical Outcomes of Proton and Conventional Radiation For Stage IIA and IIB Seminoma",
+      "summary": "This study reviews clinical outcomes for Stage IIA/IIB seminoma patients treated with radiation therapy. The authors note that modern techniques, including proton therapy, warrant further investigation to maintain high clinical efficacy while reducing long-term toxicities.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080049/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43080049",
+      "content_type": "paper"
+    },
+    {
+      "title": "Transforming Stereotactic Radiosurgery with Artificial Intelligence: Toward Intelligent Planning and Streamlined Workflows",
+      "summary": "As clinical indications for stereotactic radiosurgery expand, AI-driven solutions are becoming essential for managing complex, multi-lesion treatment plans. This review explores how machine learning can streamline workflows and improve planning efficiency.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082459/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43082459",
+      "content_type": "paper"
+    },
+    {
+      "title": "Toxicity risk in head and neck proton therapy: integrating physics, biology, and genomics",
+      "summary": "This research emphasizes the necessity of integrating physical dosimetric data with biological and genomic indicators to better predict and mitigate toxicity risks in head and neck proton therapy patients.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078840/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43078840",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
