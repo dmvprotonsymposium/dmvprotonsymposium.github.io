@@ -70,6 +70,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43071991/",
       "id": "pubmed.ncbi.nlm.nih.gov/43071991",
       "content_type": "paper"
+    },
+    {
+      "title": "Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002)",
+      "summary": "This phase II trial evaluated the impact of adding local consolidative therapy (LCT) to systemic maintenance therapy in oligometastatic non-small cell lung cancer. Results indicated that LCT did not improve progression-free or overall survival, suggesting that current patient selection criteria for LCT require further refinement.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071915/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43071915",
+      "content_type": "paper"
+    },
+    {
+      "title": "A patient-specific Winston-Lutz system for multi-target, single isocentre radiotherapy",
+      "summary": "This study introduces a quality assurance system designed to verify radiation targeting accuracy for multi-target, single-isocentre stereotactic radiosurgery. The system aims to ensure delivery precision for advanced radiotherapy techniques.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072001/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43072001",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
