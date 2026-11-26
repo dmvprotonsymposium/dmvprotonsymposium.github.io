@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-25T21:48:55.563340+00:00",
+  "updated_at": "2026-11-26T08:34:54.571417+00:00",
   "articles": [
     {
       "title": "Long-Term Outcomes After Pencil Beam Scanning Carbon Ion Radiotherapy for Unresectable Retroperitoneal Sarcomas",
-      "summary": "This exploratory analysis evaluates the safety and efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the target volume is associated with improved local control.",
-      "category": "Proton Therapy",
+      "summary": "This study demonstrates the safety and clinical efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the gross tumor volume is associated with improved local control.",
+      "category": "Research",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43082434/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Transforming Stereotactic Radiosurgery with Artificial Intelligence: Toward Intelligent Planning and Streamlined Workflows",
-      "summary": "As clinical indications for stereotactic radiosurgery expand, AI-driven solutions are becoming essential for managing complex, multi-lesion treatment plans. This review explores how machine learning can streamline workflows and improve planning efficiency.",
+      "summary": "This article explores the integration of artificial intelligence in stereotactic radiosurgery to enhance treatment planning efficiency. It addresses the clinical challenge of managing increasing patient volumes and complex multi-lesion cases.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-25",
@@ -32,8 +32,28 @@
       "content_type": "paper"
     },
     {
+      "title": "Uncertainty-Aware Artificial Intelligence-Based Identification of Malignant Lymph Nodes on CT for a Prospective Trial of Involved Nodal Versus Elective Neck Radiotherapy",
+      "summary": "This study introduces a CT-based artificial intelligence model for identifying malignant lymph nodes in the neck. The model includes uncertainty estimation, which helps determine when clinician review is necessary, potentially enhancing clinical trial workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed Quantum Computing Oncology",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084813/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43084813",
+      "content_type": "paper"
+    },
+    {
+      "title": "Systematic evaluation of energy window and reconstruction parameters for quantitative lutetium-177 SPECT imaging on a CZT-based starguide SPECT/CT system",
+      "summary": "This medical physics study establishes a standardized workflow for quantitative 177Lu SPECT imaging. The results support improved accuracy for personalized dosimetry in radiopharmaceutical therapy applications.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085778/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43085778",
+      "content_type": "paper"
+    },
+    {
       "title": "A Dosimetric and Biological Comparison of Volumetric Modulated Arc Therapy and Adaptive Aperture Proton Therapy for Hippocampal-Sparing Whole-Brain Radiotherapy",
-      "summary": "This retrospective study compares the dosimetric outcomes of intensity-modulated proton therapy using Adaptive Aperture technology against VMAT for whole-brain radiotherapy. The findings demonstrate the potential for enhanced sparing of hippocampal structures and other organs at risk using the adaptive approach.",
+      "summary": "This dosimetric study evaluates the benefits of adaptive aperture intensity-modulated proton therapy for whole-brain radiotherapy. The research highlights improved organ-at-risk sparing capabilities compared to traditional volumetric modulated arc therapy.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-24",
@@ -63,7 +83,7 @@
     },
     {
       "title": "Toxicity risk in head and neck proton therapy: integrating physics, biology, and genomics",
-      "summary": "This research emphasizes the necessity of integrating physical dosimetric data with biological and genomic indicators to better predict and mitigate toxicity risks in head and neck proton therapy patients.",
+      "summary": "This research emphasizes the importance of a multidisciplinary approach to assessing toxicity risks in head and neck cancer patients treated with proton therapy. It highlights the potential of combining physical dose metrics, biological response, and genomic data.",
       "category": "Proton Therapy",
       "source": "PubMed Proton Therapy",
       "published_date": "2026-11-24",
@@ -102,28 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Off-axis Winston-Lutz quality assurance for static and rotational delivery on a gimbal-mounted O-ring linear accelerator",
-      "summary": "This paper evaluates the performance of a commercial Winston-Lutz procedure adapted for gimbal-shifted radiation therapy on an O-ring linear accelerator. The validation provides essential methodology for ensuring targeting accuracy during dynamic beam delivery.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071991/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43071991",
-      "content_type": "paper"
-    },
-    {
-      "title": "Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002)",
-      "summary": "This phase II trial evaluated the impact of adding local consolidative therapy (LCT) to systemic maintenance therapy in oligometastatic non-small cell lung cancer. Results indicated that LCT did not improve progression-free or overall survival, suggesting that current patient selection criteria for LCT require further refinement.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071915/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43071915",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) has released the CY 2027 final rules for the Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include a notable payment increase for hospital-based proton therapy services due to 340B drug payment redistributions, while also establishing new national payment rates for physicians.",
+      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes affect reimbursement rates for proton therapy providers, with specific impacts on hospital outpatient payments due to 340B drug program redistributions.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
