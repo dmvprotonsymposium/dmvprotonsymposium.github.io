@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-26T08:34:54.571417+00:00",
+  "updated_at": "2026-11-26T21:43:04.645365+00:00",
   "articles": [
+    {
+      "title": "Radiation-induced contrast enhancement in patients with IDH-mutated gliomas: incidence, risk factors, and impact of radiotherapy modality - a systematic review",
+      "summary": "This systematic review investigates the incidence and risk factors associated with radiation-induced contrast enhancement (RICE) in patients with IDH-mutated gliomas treated with proton therapy. The study addresses the clinical challenge of distinguishing RICE from tumor progression to improve patient management and outcomes.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094950/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43094950",
+      "content_type": "paper"
+    },
+    {
+      "title": "Paediatric radiotherapy in Denmark from 2008 to 2024: implementation of improved radiotherapeutic technologies",
+      "summary": "This nationwide study documents 16 years of technological advancements in pediatric radiotherapy implementation. The findings emphasize the role of clinical trials in driving the adoption of state-of-the-art conformal techniques for pediatric oncology.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094454/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43094454",
+      "content_type": "paper"
+    },
+    {
+      "title": "Advances in Radiotherapy for Glioblastoma and IDH-Mutant High-Grade Astrocytoma: A Biological and Mechanistic Perspective",
+      "summary": "This narrative review evaluates the current state of radiotherapy for high-grade gliomas, synthesizing biological and mechanistic data. It examines the reference standard of 60 Gy partial-brain regimens in the context of emerging molecular and clinical evidence.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088227/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43088227",
+      "content_type": "paper"
+    },
+    {
+      "title": "From Imaging Guidance to Dosimetric and Staging Superiority: Impact of 68Ga-PSMA PET/CT and mpMRI on Target Delineation",
+      "summary": "This single-center retrospective study analyzes how the integration of 68Ga-PSMA PET/CT and mpMRI influences target volume personalization and organs-at-risk sparing in prostate cancer radiotherapy. The results highlight the potential for improved staging and dosimetric precision with advanced imaging.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090737/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43090737",
+      "content_type": "paper"
+    },
     {
       "title": "Long-Term Outcomes After Pencil Beam Scanning Carbon Ion Radiotherapy for Unresectable Retroperitoneal Sarcomas",
       "summary": "This study demonstrates the safety and clinical efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the gross tumor volume is associated with improved local control.",
@@ -82,48 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Toxicity risk in head and neck proton therapy: integrating physics, biology, and genomics",
-      "summary": "This research emphasizes the importance of a multidisciplinary approach to assessing toxicity risks in head and neck cancer patients treated with proton therapy. It highlights the potential of combining physical dose metrics, biological response, and genomic data.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43078840/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43078840",
-      "content_type": "paper"
-    },
-    {
-      "title": "Are two readings as good as three for monthly linear accelerator output quality assurance?",
-      "summary": "This investigation assesses the efficacy of using two readings versus three for routine monthly output quality assurance on linear accelerators. The study concludes that two-reading protocols maintain consistent decision accuracy, providing a potential efficiency improvement for clinical physics workflows.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43069673/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43069673",
-      "content_type": "paper"
-    },
-    {
-      "title": "The Japanese Society for Radiation Oncology (JASTRO) guidelines on palliative radiotherapy for cancer-induced symptoms",
-      "summary": "The JASTRO guidelines for palliative radiotherapy have been updated following a systematic review of clinical evidence from 1970 to 2024. This document provides professional recommendations for managing cancer-induced symptoms through radiation intervention.",
-      "category": "Radiation Oncology",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071726/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43071726",
-      "content_type": "paper"
-    },
-    {
-      "title": "Integrating functional brain regions into treatment optimization: a multi-institutional dosimetric study in CyberKnife SRT for brain metastases",
-      "summary": "This multi-institutional study explores the technical feasibility of incorporating functional neuroanatomical data into treatment planning for stereotactic radiosurgery. The authors report that this approach enables consistent dose reduction to critical brain regions without compromising target coverage.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43073995/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43073995",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services finalized the CY 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System rules. These changes affect reimbursement rates for proton therapy providers, with specific impacts on hospital outpatient payments due to 340B drug program redistributions.",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS) released final rules for the 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include payment adjustments that will increase reimbursement for most proton therapy services in hospital-based settings, while impacting the billing structure for providers.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
