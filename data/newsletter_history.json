@@ -150,6 +150,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43085778/",
       "id": "pubmed.ncbi.nlm.nih.gov/43085778",
       "content_type": "paper"
+    },
+    {
+      "title": "Radiation-induced contrast enhancement in patients with IDH-mutated gliomas: incidence, risk factors, and impact of radiotherapy modality - a systematic review",
+      "summary": "This systematic review investigates the incidence and risk factors associated with radiation-induced contrast enhancement (RICE) in patients with IDH-mutated gliomas treated with proton therapy. The study addresses the clinical challenge of distinguishing RICE from tumor progression to improve patient management and outcomes.",
+      "category": "Proton Therapy",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094950/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43094950",
+      "content_type": "paper"
+    },
+    {
+      "title": "Paediatric radiotherapy in Denmark from 2008 to 2024: implementation of improved radiotherapeutic technologies",
+      "summary": "This nationwide study documents 16 years of technological advancements in pediatric radiotherapy implementation. The findings emphasize the role of clinical trials in driving the adoption of state-of-the-art conformal techniques for pediatric oncology.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094454/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43094454",
+      "content_type": "paper"
+    },
+    {
+      "title": "Advances in Radiotherapy for Glioblastoma and IDH-Mutant High-Grade Astrocytoma: A Biological and Mechanistic Perspective",
+      "summary": "This narrative review evaluates the current state of radiotherapy for high-grade gliomas, synthesizing biological and mechanistic data. It examines the reference standard of 60 Gy partial-brain regimens in the context of emerging molecular and clinical evidence.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088227/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43088227",
+      "content_type": "paper"
+    },
+    {
+      "title": "From Imaging Guidance to Dosimetric and Staging Superiority: Impact of 68Ga-PSMA PET/CT and mpMRI on Target Delineation",
+      "summary": "This single-center retrospective study analyzes how the integration of 68Ga-PSMA PET/CT and mpMRI influences target volume personalization and organs-at-risk sparing in prostate cancer radiotherapy. The results highlight the potential for improved staging and dosimetric precision with advanced imaging.",
+      "category": "AI & Imaging",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090737/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43090737",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
