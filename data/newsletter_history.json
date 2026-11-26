@@ -130,6 +130,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43078840/",
       "id": "pubmed.ncbi.nlm.nih.gov/43078840",
       "content_type": "paper"
+    },
+    {
+      "title": "Uncertainty-Aware Artificial Intelligence-Based Identification of Malignant Lymph Nodes on CT for a Prospective Trial of Involved Nodal Versus Elective Neck Radiotherapy",
+      "summary": "This study introduces a CT-based artificial intelligence model for identifying malignant lymph nodes in the neck. The model includes uncertainty estimation, which helps determine when clinician review is necessary, potentially enhancing clinical trial workflows.",
+      "category": "AI & Imaging",
+      "source": "PubMed Quantum Computing Oncology",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084813/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43084813",
+      "content_type": "paper"
+    },
+    {
+      "title": "Systematic evaluation of energy window and reconstruction parameters for quantitative lutetium-177 SPECT imaging on a CZT-based starguide SPECT/CT system",
+      "summary": "This medical physics study establishes a standardized workflow for quantitative 177Lu SPECT imaging. The results support improved accuracy for personalized dosimetry in radiopharmaceutical therapy applications.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085778/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43085778",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
