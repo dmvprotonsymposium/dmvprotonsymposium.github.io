@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-27T08:46:26.390106+00:00",
+  "updated_at": "2026-11-27T21:27:01.069115+00:00",
   "articles": [
+    {
+      "title": "Monte Carlo simulations as the cornerstone of next-generation patient-specific quality assurance in particle therapy",
+      "summary": "This report details European Particle Therapy Network guidelines for phantom-less patient-specific quality assurance. It emphasizes the necessity of Monte Carlo-based independent dose calculations and log-file analysis to manage the steep dose gradients inherent in intensity-modulated particle therapy.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100638/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43100638",
+      "content_type": "paper"
+    },
+    {
+      "title": "Simultaneous integrated boost carbon ion radiotherapy for locally advanced pancreatic cancer: Dosimetric feasibility and interfractional dose stability",
+      "summary": "A study evaluating high-dose carbon ion radiotherapy for locally advanced pancreatic cancer demonstrates that delivering 75 Gy(RBE) in 15 fractions is dosimetrically feasible. Results show the technique maintains organ-at-risk constraints without significant interfractional dose deterioration.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099794/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43099794",
+      "content_type": "paper"
+    },
+    {
+      "title": "Tradeoff tuning via continuous organ-at-risk priority input for AI-Generated intensity-modulated radiation therapy plans for head-and-neck cancer",
+      "summary": "Researchers demonstrate an AI system capable of generating fluence maps that allow for real-time tradeoff tuning between target coverage and organ-at-risk sparing. The approach offers potential for increased efficiency and flexibility in clinical treatment planning processes.",
+      "category": "AI & Imaging",
+      "source": "PubMed Quantum Computing Oncology",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099799/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43099799",
+      "content_type": "paper"
+    },
     {
       "title": "Radiation-induced contrast enhancement in patients with IDH-mutated gliomas: incidence, risk factors, and impact of radiotherapy modality - a systematic review",
       "summary": "This systematic review investigates the incidence and risk factors associated with radiation-induced contrast enhancement (RICE) in patients with IDH-mutated gliomas treated with proton therapy. The study addresses the clinical challenge of distinguishing RICE from tumor progression to improve patient management and outcomes.",
@@ -52,6 +82,16 @@
       "content_type": "paper"
     },
     {
+      "title": "Long-term oncological outcomes, late side effects, and cosmesis of partial-breast versus whole-breast irradiation for early-stage breast cancer",
+      "summary": "A systematic review and meta-analysis of randomized controlled trials concludes that partial-breast irradiation is not a monolithic approach. It emphasizes that long-term oncological and cosmetic outcomes are highly dependent on specific techniques and fractionation schedules.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097223/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43097223",
+      "content_type": "paper"
+    },
+    {
       "title": "Long-Term Outcomes After Pencil Beam Scanning Carbon Ion Radiotherapy for Unresectable Retroperitoneal Sarcomas",
       "summary": "This study demonstrates the safety and clinical efficacy of pencil beam scanning carbon ion radiotherapy for unresectable retroperitoneal sarcomas. Findings suggest that higher linear energy transfer distribution within the gross tumor volume is associated with improved local control.",
       "category": "Research",
@@ -82,48 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Uncertainty-Aware Artificial Intelligence-Based Identification of Malignant Lymph Nodes on CT for a Prospective Trial of Involved Nodal Versus Elective Neck Radiotherapy",
-      "summary": "This study introduces a CT-based artificial intelligence model for identifying malignant lymph nodes in the neck. The model includes uncertainty estimation, which helps determine when clinician review is necessary, potentially enhancing clinical trial workflows.",
-      "category": "AI & Imaging",
-      "source": "PubMed Quantum Computing Oncology",
-      "published_date": "2026-11-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084813/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43084813",
-      "content_type": "paper"
-    },
-    {
-      "title": "Systematic evaluation of energy window and reconstruction parameters for quantitative lutetium-177 SPECT imaging on a CZT-based starguide SPECT/CT system",
-      "summary": "This medical physics study establishes a standardized workflow for quantitative 177Lu SPECT imaging. The results support improved accuracy for personalized dosimetry in radiopharmaceutical therapy applications.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43085778/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43085778",
-      "content_type": "paper"
-    },
-    {
-      "title": "A Dosimetric and Biological Comparison of Volumetric Modulated Arc Therapy and Adaptive Aperture Proton Therapy for Hippocampal-Sparing Whole-Brain Radiotherapy",
-      "summary": "This dosimetric study evaluates the benefits of adaptive aperture intensity-modulated proton therapy for whole-brain radiotherapy. The research highlights improved organ-at-risk sparing capabilities compared to traditional volumetric modulated arc therapy.",
-      "category": "Proton Therapy",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43076870/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43076870",
-      "content_type": "paper"
-    },
-    {
-      "title": "Interpreting Dose LET volume histograms using difference mapping in Spot Delete proton planning",
-      "summary": "Researchers demonstrate that Spot Delete planning can reduce elevated-LET skin exposure in proton therapy. The study highlights that conventional dose-volume histograms may miss these benefits, and suggests difference mapping as a more effective analytical tool.",
-      "category": "Medical Physics",
-      "source": "PubMed Proton Therapy",
-      "published_date": "2026-11-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43075780/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43075780",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services released the CY 2027 final rules for the Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include a significant increase in hospital outpatient payments for proton therapy services alongside shifts in 340B drug program reimbursement.",
+      "summary": "The Centers for Medicare and Medicaid Services has released the final rules for the 2027 Physician Fee Schedule and Hospital Outpatient Prospective Payment System, which take effect January 1, 2027. The rules include significant payment increases for proton therapy services in the hospital outpatient setting due to the redistribution of 340B drug payment savings.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
@@ -153,7 +153,7 @@
     },
     {
       "title": "ASTRO updates guideline on shorter-course radiation therapy for localized prostate cancer",
-      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. These evidence-based updates aim to provide clinicians with standardized recommendations for treatment fractionation.",
+      "summary": "The American Society for Radiation Oncology (ASTRO) has released updated clinical guidelines regarding the use of shorter-course radiation therapy for patients with localized prostate cancer. These guidelines reflect the latest evidence on treatment efficacy and standard-of-care practices.",
       "category": "Radiation Oncology",
       "source": "ASTRO News",
       "published_date": "2026-10-27",
