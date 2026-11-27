@@ -200,6 +200,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43098788/",
       "id": "pubmed.ncbi.nlm.nih.gov/43098788",
       "content_type": "paper"
+    },
+    {
+      "title": "Monte Carlo simulations as the cornerstone of next-generation patient-specific quality assurance in particle therapy",
+      "summary": "This report details European Particle Therapy Network guidelines for phantom-less patient-specific quality assurance. It emphasizes the necessity of Monte Carlo-based independent dose calculations and log-file analysis to manage the steep dose gradients inherent in intensity-modulated particle therapy.",
+      "category": "Medical Physics",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100638/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43100638",
+      "content_type": "paper"
+    },
+    {
+      "title": "Simultaneous integrated boost carbon ion radiotherapy for locally advanced pancreatic cancer: Dosimetric feasibility and interfractional dose stability",
+      "summary": "A study evaluating high-dose carbon ion radiotherapy for locally advanced pancreatic cancer demonstrates that delivering 75 Gy(RBE) in 15 fractions is dosimetrically feasible. Results show the technique maintains organ-at-risk constraints without significant interfractional dose deterioration.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099794/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43099794",
+      "content_type": "paper"
+    },
+    {
+      "title": "Tradeoff tuning via continuous organ-at-risk priority input for AI-Generated intensity-modulated radiation therapy plans for head-and-neck cancer",
+      "summary": "Researchers demonstrate an AI system capable of generating fluence maps that allow for real-time tradeoff tuning between target coverage and organ-at-risk sparing. The approach offers potential for increased efficiency and flexibility in clinical treatment planning processes.",
+      "category": "AI & Imaging",
+      "source": "PubMed Quantum Computing Oncology",
+      "published_date": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099799/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43099799",
+      "content_type": "paper"
+    },
+    {
+      "title": "Long-term oncological outcomes, late side effects, and cosmesis of partial-breast versus whole-breast irradiation for early-stage breast cancer",
+      "summary": "A systematic review and meta-analysis of randomized controlled trials concludes that partial-breast irradiation is not a monolithic approach. It emphasizes that long-term oncological and cosmetic outcomes are highly dependent on specific techniques and fractionation schedules.",
+      "category": "Radiation Oncology",
+      "source": "PubMed Proton Therapy",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097223/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43097223",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
