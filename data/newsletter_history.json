@@ -190,6 +190,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43090737/",
       "id": "pubmed.ncbi.nlm.nih.gov/43090737",
       "content_type": "paper"
+    },
+    {
+      "title": "Dose-painted VMAT for postoperative residual skull-base chordoma with 73.1 Gy residual-core escalation: A technical note",
+      "summary": "This study details the planning workflow and dosimetric profile of using VMAT to deliver high-dose escalation for residual skull-base chordoma. The report highlights the challenges of sparing the brainstem and optic apparatus while achieving therapeutic doses in complex anatomical regions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098788/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43098788",
+      "content_type": "paper"
     }
   ],
   "sent_article_urls": [
