@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:43:04.645365+00:00",
+  "updated_at": "2026-11-27T08:46:26.390106+00:00",
   "articles": [
     {
       "title": "Radiation-induced contrast enhancement in patients with IDH-mutated gliomas: incidence, risk factors, and impact of radiotherapy modality - a systematic review",
@@ -32,13 +32,23 @@
       "content_type": "paper"
     },
     {
-      "title": "From Imaging Guidance to Dosimetric and Staging Superiority: Impact of 68Ga-PSMA PET/CT and mpMRI on Target Delineation",
-      "summary": "This single-center retrospective study analyzes how the integration of 68Ga-PSMA PET/CT and mpMRI influences target volume personalization and organs-at-risk sparing in prostate cancer radiotherapy. The results highlight the potential for improved staging and dosimetric precision with advanced imaging.",
+      "title": "From Imaging Guidance to Dosimetric and Staging Superiority: Impact of 68Ga-PSMA PET/CT and mpMRI on Target Delineation, Organs at Risk Sparing, and Biochemical Response in Prostate Cancer Radiotherapy-A Single-Center Experience",
+      "summary": "This single-center study evaluates the impact of advanced imaging, specifically 68Ga-PSMA PET/CT and mpMRI, on target volume definition for prostate cancer radiation therapy. The authors demonstrate how integrated imaging improves personalization of treatment volumes and organs-at-risk sparing compared to conventional staging.",
       "category": "AI & Imaging",
       "source": "PubMed Medical Physics",
       "published_date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43090737/",
       "id": "pubmed.ncbi.nlm.nih.gov/43090737",
+      "content_type": "paper"
+    },
+    {
+      "title": "Dose-painted VMAT for postoperative residual skull-base chordoma with 73.1 Gy residual-core escalation: A technical note",
+      "summary": "This study details the planning workflow and dosimetric profile of using VMAT to deliver high-dose escalation for residual skull-base chordoma. The report highlights the challenges of sparing the brainstem and optic apparatus while achieving therapeutic doses in complex anatomical regions.",
+      "category": "Medical Physics",
+      "source": "PubMed Medical Physics",
+      "published_date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098788/",
+      "id": "pubmed.ncbi.nlm.nih.gov/43098788",
       "content_type": "paper"
     },
     {
@@ -112,18 +122,8 @@
       "content_type": "paper"
     },
     {
-      "title": "Refining risk assessment in 177 Lu-DOTATATE extravasation: the value of 3D Monte Carlo dosimetry",
-      "summary": "This study highlights the importance of 3D Monte Carlo dosimetry in assessing the impact of radioisotope extravasation. The high-resolution spatial data provided by this method allows for a more accurate interpretation of potential clinical outcomes compared to traditional MIRD approaches.",
-      "category": "Medical Physics",
-      "source": "PubMed Medical Physics",
-      "published_date": "2026-11-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43074951/",
-      "id": "pubmed.ncbi.nlm.nih.gov/43074951",
-      "content_type": "paper"
-    },
-    {
       "title": "CY 2027 Medicare Final Rules and Impact on Proton Therapy",
-      "summary": "The Centers for Medicare and Medicaid Services (CMS) released final rules for the 2027 Medicare Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include payment adjustments that will increase reimbursement for most proton therapy services in hospital-based settings, while impacting the billing structure for providers.",
+      "summary": "The Centers for Medicare and Medicaid Services released the CY 2027 final rules for the Physician Fee Schedule and Hospital Outpatient Prospective Payment System. The updates include a significant increase in hospital outpatient payments for proton therapy services alongside shifts in 340B drug program reimbursement.",
       "category": "Proton Therapy",
       "source": "NAPT News",
       "published_date": "2026-11-13",
